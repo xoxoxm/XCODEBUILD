@@ -1,0 +1,24 @@
+name: Test Build (Archive Only)
+on:
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: macos-14
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+      - name: Archive
+        run: |
+          xcodebuild archive \
+            -project Unity-iPhone.xcodeproj \
+            -scheme Unity-iPhone \
+            -archivePath build/Unity-iPhone.xcarchive \
+            -configuration Release \
+            CODE_SIGNING_ALLOWED=NO
+      - name: Upload xcarchive
+        uses: actions/upload-artifact@v4
+        with:
+          name: xcarchive
+          path: build/Unity-iPhone.xcarchive
