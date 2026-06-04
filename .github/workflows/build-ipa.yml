@@ -38,10 +38,9 @@ jobs:
             -scheme Unity-iPhone \
             -archivePath build/Unity-iPhone.xcarchive \
             -configuration Release \
-            CODE_SIGN_STYLE=Manual \
-            PROVISIONING_PROFILE_SPECIFIER="$(grep -a -A1 'Name' profile.mobileprovision | tail -1 | sed 's/.*<string>//;s/<\/string>//')" \
+            CODE_SIGN_STYLE=Automatic \
             DEVELOPMENT_TEAM=RPYPJPM7RU \
-            CODE_SIGN_IDENTITY="Apple Development"
+            -allowProvisioningUpdates
 
       - name: Export IPA
         run: |
