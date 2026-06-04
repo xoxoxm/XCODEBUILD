@@ -31,33 +31,15 @@ jobs:
           mkdir -p ~/Library/MobileDevice/Provisioning\ Profiles
           cp profile.mobileprovision ~/Library/MobileDevice/Provisioning\ Profiles/
 
-          # 提取描述文件 UUID
-          PROFILE_UUID=$(/usr/libexec/PlistBuddy -c "Print :UUID" /dev/stdin <<< $(security cms -D -i profile.mobileprovision))
-          echo "PROFILE_UUID=$PROFILE_UUID" >> $GITHUB_ENV
-
-          # 提取描述文件中的 Team ID（第一个）
-          PROFILE_TEAM=$(/usr/libexec/PlistBuddy -c "Print :TeamIdentifier:0" /dev/stdin <<< $(security cms -D -i profile.mobileprovision))
-          echo "PROFILE_TEAM=$PROFILE_TEAM" >> $GITHUB_ENV
-
-      - name: Archive project
+      - name: Archive project (Automatic signing)
         run: |
-          # 获取证书完整标识（例如 "Apple Development: dcdccc@163.com (RPYPJPM7RU)"）
-          IDENTITY=$(security find-identity -v -p codesigning temp.keychain | grep "Apple Development" | awk -F '"' '{print $2}' | head -1)
-          echo "Using identity: $IDENTITY"
-
           xcodebuild archive \
             -project Unity-iPhone.xcodeproj \
             -scheme Unity-iPhone \
             -archivePath build/Unity-iPhone.xcarchive \
             -configuration Release \
-            -destination 'generic/platform=iOS' \
-            CODE_SIGN_STYLE=Manual \
-            PROVISIONING_PROFILE_SPECIFIER="$PROFILE_UUID" \
-            DEVELOPMENT_TEAM="$PROFILE_TEAM" \
-            "CODE_SIGN_IDENTITY=$IDENTITY" \
-            "UnityFramework.CODE_SIGN_STYLE=Manual" \
-            "UnityFramework.CODE_SIGN_IDENTITY=$IDENTITY" \
-            "UnityFramework.PROVISIONING_PROFILE_SPECIFIER="
+            CODE_SIGN_STYLE=Automatic \
+            DEVELOPMENT_TEAM=8783M6Z5Q4
 
       - name: Export IPA
         run: |
