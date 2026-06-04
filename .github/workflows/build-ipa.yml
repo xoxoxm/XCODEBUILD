@@ -31,6 +31,10 @@ jobs:
           mkdir -p ~/Library/MobileDevice/Provisioning\ Profiles
           cp profile.mobileprovision ~/Library/MobileDevice/Provisioning\ Profiles/
 
+          # 提取描述文件名称（用于手动签名）
+          PROFILE_NAME=$(/usr/libexec/PlistBuddy -c "Print :Name" /dev/stdin <<< $(security cms -D -i profile.mobileprovision))
+          echo "PROFILE_NAME=$PROFILE_NAME" >> $GITHUB_ENV
+
       - name: Archive project
         run: |
           xcodebuild archive \
@@ -38,9 +42,12 @@ jobs:
             -scheme Unity-iPhone \
             -archivePath build/Unity-iPhone.xcarchive \
             -configuration Release \
-            CODE_SIGN_STYLE=Automatic \
+            CODE_SIGN_STYLE=Manual \
+            PROVISIONING_PROFILE_SPECIFIER="$PROFILE_NAME" \
             DEVELOPMENT_TEAM=RPYPJPM7RU \
-            -allowProvisioningUpdates
+            CODE_SIGN_IDENTITY="Apple Development" \
+            "UnityFramework.CODE_SIGN_STYLE=Manual" \
+            "UnityFramework.CODE_SIGN_IDENTITY=Apple Development"
 
       - name: Export IPA
         run: |
