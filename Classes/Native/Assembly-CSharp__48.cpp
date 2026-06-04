@@ -594,12 +594,12 @@ struct OnTouchUPHandler_t665456264D5BEEB6B3F6B479058E7B0234981646;
 struct QualityAdjust_t5A5D4852E5E4961EF9A9DDDF851FA73AAA678F72;
 // UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 struct CullStateChangedEvent_t6073CD0D951EC1256BF74B8F9107D68FC89B99B8;
-// MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133
-struct U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97;
-// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132
-struct U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8;
-// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131
-struct U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615;
+// MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111
+struct U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C;
+// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110
+struct U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9;
+// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109
+struct U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159;
 // MediaPlayerCtrl/VideoEnd
 struct VideoEnd_tDD91295383702A65FF50EAA9C338047D7B66FA98;
 // MediaPlayerCtrl/VideoError
@@ -661,9 +661,9 @@ IL2CPP_EXTERN_C RuntimeClass* RenderTexture_tBA90C4C3AD9EECCFDDCC632D97C29FAB80D
 IL2CPP_EXTERN_C RuntimeClass* RuntimeObject_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Type_t_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CU3Ec__DisplayClass76_0_t91313702B82E751557C1108CA8E9C2C33254B7C9_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CUpdateVirtualControlU3Ed__83_t091CC08470B2458FF497FE63717E4E3362DE0CAD_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* UWAProfilerUtility_t2B7F51EFA88EE02F3049D6822D557A9B77456195_il2cpp_TypeInfo_var;
@@ -811,9 +811,9 @@ IL2CPP_EXTERN_C const RuntimeMethod* MediaPlayerEvent_OnFirstFrameReady_m895576C
 IL2CPP_EXTERN_C const RuntimeMethod* MediaPlayerEvent_OnReady_m388E869441907DC93A18CB48AFE459C59F561B55_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* MediaPlayerEvent_OnResize_m843A008698BC31BBCE17C9938B27C6DB0D2E017B_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Singleton_1_get_instance_m5BF89DD5909163900E451F3EC4FD3F1A488FA02F_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* U3CCopyStreamingAssetVideoAndLoadU3Ed__133_System_Collections_IEnumerator_Reset_m7E0E5A80B01E42A51CCCF1A65A1122927914530D_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* U3CDownloadStreamingVideoAndLoad2U3Ed__132_System_Collections_IEnumerator_Reset_mEEDF1DF8E3A24C3874D594AB6A1CE60324413522_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* U3CDownloadStreamingVideoAndLoadU3Ed__131_System_Collections_IEnumerator_Reset_mEEB46954938EF5F9565DB5D58CE6B3717E8CCA1D_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* U3CCopyStreamingAssetVideoAndLoadU3Ed__111_System_Collections_IEnumerator_Reset_m6C775E2DE662BF637F13EFF579EB91198A4BB84E_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* U3CDownloadStreamingVideoAndLoad2U3Ed__110_System_Collections_IEnumerator_Reset_m90A9F7DB8206510386CCF44EE8DBCB8B9BCFB8B4_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* U3CDownloadStreamingVideoAndLoadU3Ed__109_System_Collections_IEnumerator_Reset_mF6F89432EE1B56FCD6E857DC1CE982EB8EE5FAF6_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec__DisplayClass76_0_U3CRemoveEffectU3Eb__0_mF31AE9A0CBB5E1A73E453565654079C381461D21_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CUpdateVirtualControlU3Ed__83_System_Collections_IEnumerator_Reset_mB1A1849DCDBE54AB9F0488ABF610D34B13344FB5_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* UnityEvent_1_Invoke_m756C9B879DDBE079CDE2D06DC231CE42C01C4AD0_RuntimeMethod_var;
@@ -1101,52 +1101,52 @@ struct U3CUpdateVirtualControlU3Ed__83_t091CC08470B2458FF497FE63717E4E3362DE0CAD
 	ETCBase_t6619FA608F7CF923A0FA2B4C8C507E017218B64C* ___U3CU3E4__this_2;
 };
 
-// MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133
-struct U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97  : public RuntimeObject
+// MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111
+struct U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C  : public RuntimeObject
 {
-	// System.Int32 MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133::<>1__state
+	// System.Int32 MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111::<>1__state
 	int32_t ___U3CU3E1__state_0;
-	// System.Object MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133::<>2__current
+	// System.Object MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111::<>2__current
 	RuntimeObject* ___U3CU3E2__current_1;
-	// System.String MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133::strURL
+	// System.String MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111::strURL
 	String_t* ___strURL_2;
-	// MediaPlayerCtrl MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133::<>4__this
+	// MediaPlayerCtrl MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111::<>4__this
 	MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688* ___U3CU3E4__this_3;
-	// System.String MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133::<write_path>5__2
+	// System.String MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111::<write_path>5__2
 	String_t* ___U3Cwrite_pathU3E5__2_4;
-	// UnityEngine.WWW MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133::<www>5__3
+	// UnityEngine.WWW MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111::<www>5__3
 	WWW_tEADA9A43B98FC277E498F8E3206A3B8C4E5AF3FB* ___U3CwwwU3E5__3_5;
 };
 
-// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132
-struct U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8  : public RuntimeObject
+// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110
+struct U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9  : public RuntimeObject
 {
-	// System.Int32 MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132::<>1__state
+	// System.Int32 MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110::<>1__state
 	int32_t ___U3CU3E1__state_0;
-	// System.Object MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132::<>2__current
+	// System.Object MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110::<>2__current
 	RuntimeObject* ___U3CU3E2__current_1;
-	// System.String MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132::strURL
+	// System.String MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110::strURL
 	String_t* ___strURL_2;
-	// MediaPlayerCtrl MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132::<>4__this
+	// MediaPlayerCtrl MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110::<>4__this
 	MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688* ___U3CU3E4__this_3;
-	// System.String MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132::<write_path>5__2
+	// System.String MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110::<write_path>5__2
 	String_t* ___U3Cwrite_pathU3E5__2_4;
-	// UnityEngine.WWW MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132::<www>5__3
+	// UnityEngine.WWW MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110::<www>5__3
 	WWW_tEADA9A43B98FC277E498F8E3206A3B8C4E5AF3FB* ___U3CwwwU3E5__3_5;
 };
 
-// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131
-struct U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615  : public RuntimeObject
+// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109
+struct U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159  : public RuntimeObject
 {
-	// System.Int32 MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131::<>1__state
+	// System.Int32 MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109::<>1__state
 	int32_t ___U3CU3E1__state_0;
-	// System.Object MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131::<>2__current
+	// System.Object MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109::<>2__current
 	RuntimeObject* ___U3CU3E2__current_1;
-	// System.String MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131::strURL
+	// System.String MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109::strURL
 	String_t* ___strURL_2;
-	// MediaPlayerCtrl MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131::<>4__this
+	// MediaPlayerCtrl MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109::<>4__this
 	MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688* ___U3CU3E4__this_3;
-	// UnityEngine.WWW MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131::<www>5__2
+	// UnityEngine.WWW MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109::<www>5__2
 	WWW_tEADA9A43B98FC277E498F8E3206A3B8C4E5AF3FB* ___U3CwwwU3E5__2_4;
 };
 
@@ -4457,17 +4457,17 @@ struct UWAProfilerUtility_t2B7F51EFA88EE02F3049D6822D557A9B77456195_StaticFields
 
 // ETCBase/<UpdateVirtualControl>d__83
 
-// MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133
+// MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111
 
-// MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133
+// MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111
 
-// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132
+// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110
 
-// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132
+// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110
 
-// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131
+// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109
 
-// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131
+// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109
 
 // System.Collections.Generic.List`1/Enumerator<System.Action>
 
@@ -5829,12 +5829,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t MediaPlayerCtrl_Call_GetDuration_mFAF
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t MediaPlayerCtrl_Call_GetCurrentSeekPercent_m8095459A5D473734D8FF4BA54DE116153CBA5475 (MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688* __this, const RuntimeMethod* method) ;
 // UnityEngine.Vector2 UnityEngine.Vector2::get_zero()
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 Vector2_get_zero_m32506C40EC2EE7D5D4410BF40D3EE683A3D5F32C_inline (const RuntimeMethod* method) ;
-// System.Void MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131::.ctor(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CDownloadStreamingVideoAndLoadU3Ed__131__ctor_m693B83ABB37B1A890EBD458FA6C97155E1EA9EA2 (U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
-// System.Void MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132::.ctor(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CDownloadStreamingVideoAndLoad2U3Ed__132__ctor_mC3CABC7B6EA191BF21080F40336879E82DA916C2 (U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
-// System.Void MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133::.ctor(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CCopyStreamingAssetVideoAndLoadU3Ed__133__ctor_mAD2B8749320DE0D0770F9A15B08A16E2234B1C9C (U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
+// System.Void MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109::.ctor(System.Int32)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CDownloadStreamingVideoAndLoadU3Ed__109__ctor_m9E8F9D56645CF29A5354038152A6C36114C6DC2D (U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
+// System.Void MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110::.ctor(System.Int32)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CDownloadStreamingVideoAndLoad2U3Ed__110__ctor_m18F70B8D05E445640C51D64248A9347EE26C9EDD (U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
+// System.Void MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111::.ctor(System.Int32)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CCopyStreamingAssetVideoAndLoadU3Ed__111__ctor_m674B342562CFAA37164B4802D49BE4AD6E2791F4 (U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
 // System.Void System.Threading.Monitor::Exit(System.Object)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Monitor_Exit_m05B2CF037E2214B3208198C282490A2A475653FA (RuntimeObject* ___0_obj, const RuntimeMethod* method) ;
 // System.Void System.Threading.Monitor::Enter(System.Object,System.Boolean&)
@@ -6551,28 +6551,6 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Mathf_Clamp01_mA7E048DBDA83
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Color__ctor_m3786F0D6E510D9CFA544523A955870BD2A514C8C_inline (Color_tD001788D726C3A7F1379BEED0260B9591F440C1F* __this, float ___0_r, float ___1_g, float ___2_b, float ___3_a, const RuntimeMethod* method) ;
 // System.Void System.Array::Clear(System.Array,System.Int32,System.Int32)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Array_Clear_m50BAA3751899858B097D3FF2ED31F284703FE5CB (RuntimeArray* ___0_array, int32_t ___1_index, int32_t ___2_length, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C int32_t DEFAULT_CALL VideoPlayerPluginCreateInstance();
-IL2CPP_EXTERN_C void DEFAULT_CALL VideoPlayerPluginDestroyInstance(int32_t);
-IL2CPP_EXTERN_C int32_t DEFAULT_CALL VideoPlayerPluginCanOutputToTexture(char*);
-IL2CPP_EXTERN_C void DEFAULT_CALL VideoPlayerPluginSetLoop(int32_t, int32_t);
-IL2CPP_EXTERN_C void DEFAULT_CALL VideoPlayerPluginSetVolume(int32_t, float);
-IL2CPP_EXTERN_C int32_t DEFAULT_CALL VideoPlayerPluginPlayerReady(int32_t);
-IL2CPP_EXTERN_C float DEFAULT_CALL VideoPlayerPluginDurationSeconds(int32_t);
-IL2CPP_EXTERN_C void DEFAULT_CALL VideoPlayerPluginExtents(int32_t, int32_t*, int32_t*);
-IL2CPP_EXTERN_C intptr_t DEFAULT_CALL VideoPlayerPluginCurFrameTexture(int32_t);
-IL2CPP_EXTERN_C void DEFAULT_CALL VideoPlayerPluginLoadVideo(int32_t, char*);
-IL2CPP_EXTERN_C void DEFAULT_CALL VideoPlayerPluginPlayVideo(int32_t);
-IL2CPP_EXTERN_C void DEFAULT_CALL VideoPlayerPluginPauseVideo(int32_t);
-IL2CPP_EXTERN_C void DEFAULT_CALL VideoPlayerPluginResumeVideo(int32_t);
-IL2CPP_EXTERN_C void DEFAULT_CALL VideoPlayerPluginRewindVideo(int32_t);
-IL2CPP_EXTERN_C void DEFAULT_CALL VideoPlayerPluginSeekToVideo(int32_t, float);
-IL2CPP_EXTERN_C float DEFAULT_CALL VideoPlayerPluginCurTimeSeconds(int32_t);
-IL2CPP_EXTERN_C int32_t DEFAULT_CALL VideoPlayerPluginIsPlaying(int32_t);
-IL2CPP_EXTERN_C void DEFAULT_CALL VideoPlayerPluginStopVideo(int32_t);
-IL2CPP_EXTERN_C int32_t DEFAULT_CALL VideoPlayerPluginFinish(int32_t);
-IL2CPP_EXTERN_C int32_t DEFAULT_CALL VideoPlayerPluginError(int32_t);
-IL2CPP_EXTERN_C void DEFAULT_CALL VideoPlayerPluginSetTexture(int32_t, int32_t);
-IL2CPP_EXTERN_C void DEFAULT_CALL VideoPlayerPluginSetSpeed(int32_t, float);
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -10492,229 +10470,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPlayerCtrl_UnLoad_mD2AEA637335C93AE
 		return;
 	}
 }
-// System.Int32 MediaPlayerCtrl::VideoPlayerPluginCreateInstance()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t MediaPlayerCtrl_VideoPlayerPluginCreateInstance_m9B19C663A2AF66CC9AE3E34A4A6E9FF494C4D86F (const RuntimeMethod* method) 
-{
-	typedef int32_t (DEFAULT_CALL *PInvokeFunc) ();
-
-	// Native function invocation
-	int32_t returnValue = reinterpret_cast<PInvokeFunc>(VideoPlayerPluginCreateInstance)();
-
-	return returnValue;
-}
-// System.Void MediaPlayerCtrl::VideoPlayerPluginDestroyInstance(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPlayerCtrl_VideoPlayerPluginDestroyInstance_m256C2CCB141DC8B29A8C1CD9E7004F5AA5846181 (int32_t ___0_iID, const RuntimeMethod* method) 
-{
-	typedef void (DEFAULT_CALL *PInvokeFunc) (int32_t);
-
-	// Native function invocation
-	reinterpret_cast<PInvokeFunc>(VideoPlayerPluginDestroyInstance)(___0_iID);
-
-}
-// System.Boolean MediaPlayerCtrl::VideoPlayerPluginCanOutputToTexture(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool MediaPlayerCtrl_VideoPlayerPluginCanOutputToTexture_m8E29ED8DF13BF5741D7CCC6450792CB3316D6C97 (String_t* ___0_videoURL, const RuntimeMethod* method) 
-{
-	typedef int32_t (DEFAULT_CALL *PInvokeFunc) (char*);
-
-	// Marshaling of parameter '___0_videoURL' to native representation
-	char* ____0_videoURL_marshaled = NULL;
-	____0_videoURL_marshaled = il2cpp_codegen_marshal_string(___0_videoURL);
-
-	// Native function invocation
-	int32_t returnValue = reinterpret_cast<PInvokeFunc>(VideoPlayerPluginCanOutputToTexture)(____0_videoURL_marshaled);
-
-	// Marshaling cleanup of parameter '___0_videoURL' native representation
-	il2cpp_codegen_marshal_free(____0_videoURL_marshaled);
-	____0_videoURL_marshaled = NULL;
-
-	return static_cast<bool>(returnValue);
-}
-// System.Void MediaPlayerCtrl::VideoPlayerPluginSetLoop(System.Int32,System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPlayerCtrl_VideoPlayerPluginSetLoop_m929010FE9F86C69C971A4987436D27A95A25506E (int32_t ___0_iID, bool ___1_bLoop, const RuntimeMethod* method) 
-{
-	typedef void (DEFAULT_CALL *PInvokeFunc) (int32_t, int32_t);
-
-	// Native function invocation
-	reinterpret_cast<PInvokeFunc>(VideoPlayerPluginSetLoop)(___0_iID, static_cast<int32_t>(___1_bLoop));
-
-}
-// System.Void MediaPlayerCtrl::VideoPlayerPluginSetVolume(System.Int32,System.Single)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPlayerCtrl_VideoPlayerPluginSetVolume_m65884043F12A5E8BD2A3DE0CB5B095418C33A6E8 (int32_t ___0_iID, float ___1_fVolume, const RuntimeMethod* method) 
-{
-	typedef void (DEFAULT_CALL *PInvokeFunc) (int32_t, float);
-
-	// Native function invocation
-	reinterpret_cast<PInvokeFunc>(VideoPlayerPluginSetVolume)(___0_iID, ___1_fVolume);
-
-}
-// System.Boolean MediaPlayerCtrl::VideoPlayerPluginPlayerReady(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool MediaPlayerCtrl_VideoPlayerPluginPlayerReady_m656AD844FA40DDC07430C978068D50258F5E2F9C (int32_t ___0_iID, const RuntimeMethod* method) 
-{
-	typedef int32_t (DEFAULT_CALL *PInvokeFunc) (int32_t);
-
-	// Native function invocation
-	int32_t returnValue = reinterpret_cast<PInvokeFunc>(VideoPlayerPluginPlayerReady)(___0_iID);
-
-	return static_cast<bool>(returnValue);
-}
-// System.Single MediaPlayerCtrl::VideoPlayerPluginDurationSeconds(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float MediaPlayerCtrl_VideoPlayerPluginDurationSeconds_mF712DA2D34E8FB261F96578A733F9FD9F71ED862 (int32_t ___0_iID, const RuntimeMethod* method) 
-{
-	typedef float (DEFAULT_CALL *PInvokeFunc) (int32_t);
-
-	// Native function invocation
-	float returnValue = reinterpret_cast<PInvokeFunc>(VideoPlayerPluginDurationSeconds)(___0_iID);
-
-	return returnValue;
-}
-// System.Void MediaPlayerCtrl::VideoPlayerPluginExtents(System.Int32,System.Int32&,System.Int32&)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPlayerCtrl_VideoPlayerPluginExtents_m23195857C2E6B7A1E025CD29C6B3A5A7141476E8 (int32_t ___0_iID, int32_t* ___1_width, int32_t* ___2_height, const RuntimeMethod* method) 
-{
-	typedef void (DEFAULT_CALL *PInvokeFunc) (int32_t, int32_t*, int32_t*);
-
-	// Native function invocation
-	reinterpret_cast<PInvokeFunc>(VideoPlayerPluginExtents)(___0_iID, ___1_width, ___2_height);
-
-}
-// System.IntPtr MediaPlayerCtrl::VideoPlayerPluginCurFrameTexture(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR intptr_t MediaPlayerCtrl_VideoPlayerPluginCurFrameTexture_mAAFC801DB165D196A8C8CB0F9FF08508A38992E8 (int32_t ___0_iID, const RuntimeMethod* method) 
-{
-	typedef intptr_t (DEFAULT_CALL *PInvokeFunc) (int32_t);
-
-	// Native function invocation
-	intptr_t returnValue = reinterpret_cast<PInvokeFunc>(VideoPlayerPluginCurFrameTexture)(___0_iID);
-
-	return returnValue;
-}
-// System.Void MediaPlayerCtrl::VideoPlayerPluginLoadVideo(System.Int32,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPlayerCtrl_VideoPlayerPluginLoadVideo_m79239FEEBBD6D1810233F3816B3F0BB753EB95AF (int32_t ___0_iID, String_t* ___1_videoURL, const RuntimeMethod* method) 
-{
-	typedef void (DEFAULT_CALL *PInvokeFunc) (int32_t, char*);
-
-	// Marshaling of parameter '___1_videoURL' to native representation
-	char* ____1_videoURL_marshaled = NULL;
-	____1_videoURL_marshaled = il2cpp_codegen_marshal_string(___1_videoURL);
-
-	// Native function invocation
-	reinterpret_cast<PInvokeFunc>(VideoPlayerPluginLoadVideo)(___0_iID, ____1_videoURL_marshaled);
-
-	// Marshaling cleanup of parameter '___1_videoURL' native representation
-	il2cpp_codegen_marshal_free(____1_videoURL_marshaled);
-	____1_videoURL_marshaled = NULL;
-
-}
-// System.Void MediaPlayerCtrl::VideoPlayerPluginPlayVideo(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPlayerCtrl_VideoPlayerPluginPlayVideo_m796ADC1E766EB3325BDF078732F42C6130890EA3 (int32_t ___0_iID, const RuntimeMethod* method) 
-{
-	typedef void (DEFAULT_CALL *PInvokeFunc) (int32_t);
-
-	// Native function invocation
-	reinterpret_cast<PInvokeFunc>(VideoPlayerPluginPlayVideo)(___0_iID);
-
-}
-// System.Void MediaPlayerCtrl::VideoPlayerPluginPauseVideo(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPlayerCtrl_VideoPlayerPluginPauseVideo_m295658988F7CC89C6A83A5EF3DFAAEEA220EBEF3 (int32_t ___0_iID, const RuntimeMethod* method) 
-{
-	typedef void (DEFAULT_CALL *PInvokeFunc) (int32_t);
-
-	// Native function invocation
-	reinterpret_cast<PInvokeFunc>(VideoPlayerPluginPauseVideo)(___0_iID);
-
-}
-// System.Void MediaPlayerCtrl::VideoPlayerPluginResumeVideo(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPlayerCtrl_VideoPlayerPluginResumeVideo_m8DB6F59C844A33D322C0B0B81B05AEE1CD4BA780 (int32_t ___0_iID, const RuntimeMethod* method) 
-{
-	typedef void (DEFAULT_CALL *PInvokeFunc) (int32_t);
-
-	// Native function invocation
-	reinterpret_cast<PInvokeFunc>(VideoPlayerPluginResumeVideo)(___0_iID);
-
-}
-// System.Void MediaPlayerCtrl::VideoPlayerPluginRewindVideo(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPlayerCtrl_VideoPlayerPluginRewindVideo_m11AD38049FF42BFDCE135D15EAF3A908D053C8B6 (int32_t ___0_iID, const RuntimeMethod* method) 
-{
-	typedef void (DEFAULT_CALL *PInvokeFunc) (int32_t);
-
-	// Native function invocation
-	reinterpret_cast<PInvokeFunc>(VideoPlayerPluginRewindVideo)(___0_iID);
-
-}
-// System.Void MediaPlayerCtrl::VideoPlayerPluginSeekToVideo(System.Int32,System.Single)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPlayerCtrl_VideoPlayerPluginSeekToVideo_mC0872CB385700F20DB521EFC6051CE4ABC2BB89F (int32_t ___0_iID, float ___1_time, const RuntimeMethod* method) 
-{
-	typedef void (DEFAULT_CALL *PInvokeFunc) (int32_t, float);
-
-	// Native function invocation
-	reinterpret_cast<PInvokeFunc>(VideoPlayerPluginSeekToVideo)(___0_iID, ___1_time);
-
-}
-// System.Single MediaPlayerCtrl::VideoPlayerPluginCurTimeSeconds(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float MediaPlayerCtrl_VideoPlayerPluginCurTimeSeconds_m1D98BE10FD13153DF0212340DFBC68C9B4AF6682 (int32_t ___0_iID, const RuntimeMethod* method) 
-{
-	typedef float (DEFAULT_CALL *PInvokeFunc) (int32_t);
-
-	// Native function invocation
-	float returnValue = reinterpret_cast<PInvokeFunc>(VideoPlayerPluginCurTimeSeconds)(___0_iID);
-
-	return returnValue;
-}
-// System.Boolean MediaPlayerCtrl::VideoPlayerPluginIsPlaying(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool MediaPlayerCtrl_VideoPlayerPluginIsPlaying_m4AD10919F174FADFE27724C33A3F940C64326967 (int32_t ___0_iID, const RuntimeMethod* method) 
-{
-	typedef int32_t (DEFAULT_CALL *PInvokeFunc) (int32_t);
-
-	// Native function invocation
-	int32_t returnValue = reinterpret_cast<PInvokeFunc>(VideoPlayerPluginIsPlaying)(___0_iID);
-
-	return static_cast<bool>(returnValue);
-}
-// System.Void MediaPlayerCtrl::VideoPlayerPluginStopVideo(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPlayerCtrl_VideoPlayerPluginStopVideo_mC97BB499094FBA8860324C58FBCCCAB8E28C1CC3 (int32_t ___0_iID, const RuntimeMethod* method) 
-{
-	typedef void (DEFAULT_CALL *PInvokeFunc) (int32_t);
-
-	// Native function invocation
-	reinterpret_cast<PInvokeFunc>(VideoPlayerPluginStopVideo)(___0_iID);
-
-}
-// System.Boolean MediaPlayerCtrl::VideoPlayerPluginFinish(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool MediaPlayerCtrl_VideoPlayerPluginFinish_m2E7FABC2C1B0B6D70EE3B0CAD4C923349C7CD659 (int32_t ___0_iID, const RuntimeMethod* method) 
-{
-	typedef int32_t (DEFAULT_CALL *PInvokeFunc) (int32_t);
-
-	// Native function invocation
-	int32_t returnValue = reinterpret_cast<PInvokeFunc>(VideoPlayerPluginFinish)(___0_iID);
-
-	return static_cast<bool>(returnValue);
-}
-// System.Boolean MediaPlayerCtrl::VideoPlayerPluginError(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool MediaPlayerCtrl_VideoPlayerPluginError_mB9BAF25234B1BBE646A28D04979A7A26F133AE17 (int32_t ___0_iID, const RuntimeMethod* method) 
-{
-	typedef int32_t (DEFAULT_CALL *PInvokeFunc) (int32_t);
-
-	// Native function invocation
-	int32_t returnValue = reinterpret_cast<PInvokeFunc>(VideoPlayerPluginError)(___0_iID);
-
-	return static_cast<bool>(returnValue);
-}
-// System.Void MediaPlayerCtrl::VideoPlayerPluginSetTexture(System.Int32,System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPlayerCtrl_VideoPlayerPluginSetTexture_m7017035F50D97423A8E0D0668C66202A2A12FBE8 (int32_t ___0_iID, int32_t ___1_iTextureID, const RuntimeMethod* method) 
-{
-	typedef void (DEFAULT_CALL *PInvokeFunc) (int32_t, int32_t);
-
-	// Native function invocation
-	reinterpret_cast<PInvokeFunc>(VideoPlayerPluginSetTexture)(___0_iID, ___1_iTextureID);
-
-}
-// System.Void MediaPlayerCtrl::VideoPlayerPluginSetSpeed(System.Int32,System.Single)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MediaPlayerCtrl_VideoPlayerPluginSetSpeed_mD14B05647DA079557B974CBB37C30177AD247842 (int32_t ___0_iID, float ___1_fSpeed, const RuntimeMethod* method) 
-{
-	typedef void (DEFAULT_CALL *PInvokeFunc) (int32_t, float);
-
-	// Native function invocation
-	reinterpret_cast<PInvokeFunc>(VideoPlayerPluginSetSpeed)(___0_iID, ___1_fSpeed);
-
-}
 // System.Boolean MediaPlayerCtrl::get_ready()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool MediaPlayerCtrl_get_ready_m171B3317A8089DF94E0F80043A206CF0F87CBF31 (MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688* __this, const RuntimeMethod* method) 
 {
@@ -10977,18 +10732,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* MediaPlayerCtrl_DownloadStream
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615* L_0 = (U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615*)il2cpp_codegen_object_new(U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615_il2cpp_TypeInfo_var);
+		U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159* L_0 = (U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159*)il2cpp_codegen_object_new(U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159_il2cpp_TypeInfo_var);
 		NullCheck(L_0);
-		U3CDownloadStreamingVideoAndLoadU3Ed__131__ctor_m693B83ABB37B1A890EBD458FA6C97155E1EA9EA2(L_0, 0, NULL);
-		U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615* L_1 = L_0;
+		U3CDownloadStreamingVideoAndLoadU3Ed__109__ctor_m9E8F9D56645CF29A5354038152A6C36114C6DC2D(L_0, 0, NULL);
+		U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159* L_1 = L_0;
 		NullCheck(L_1);
 		L_1->___U3CU3E4__this_3 = __this;
 		Il2CppCodeGenWriteBarrier((void**)(&L_1->___U3CU3E4__this_3), (void*)__this);
-		U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615* L_2 = L_1;
+		U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159* L_2 = L_1;
 		String_t* L_3 = ___0_strURL;
 		NullCheck(L_2);
 		L_2->___strURL_2 = L_3;
@@ -11002,18 +10757,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* MediaPlayerCtrl_DownloadStream
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8* L_0 = (U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8*)il2cpp_codegen_object_new(U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8_il2cpp_TypeInfo_var);
+		U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9* L_0 = (U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9*)il2cpp_codegen_object_new(U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9_il2cpp_TypeInfo_var);
 		NullCheck(L_0);
-		U3CDownloadStreamingVideoAndLoad2U3Ed__132__ctor_mC3CABC7B6EA191BF21080F40336879E82DA916C2(L_0, 0, NULL);
-		U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8* L_1 = L_0;
+		U3CDownloadStreamingVideoAndLoad2U3Ed__110__ctor_m18F70B8D05E445640C51D64248A9347EE26C9EDD(L_0, 0, NULL);
+		U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9* L_1 = L_0;
 		NullCheck(L_1);
 		L_1->___U3CU3E4__this_3 = __this;
 		Il2CppCodeGenWriteBarrier((void**)(&L_1->___U3CU3E4__this_3), (void*)__this);
-		U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8* L_2 = L_1;
+		U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9* L_2 = L_1;
 		String_t* L_3 = ___0_strURL;
 		NullCheck(L_2);
 		L_2->___strURL_2 = L_3;
@@ -11027,18 +10782,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* MediaPlayerCtrl_CopyStreamingA
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97* L_0 = (U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97*)il2cpp_codegen_object_new(U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97_il2cpp_TypeInfo_var);
+		U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C* L_0 = (U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C*)il2cpp_codegen_object_new(U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C_il2cpp_TypeInfo_var);
 		NullCheck(L_0);
-		U3CCopyStreamingAssetVideoAndLoadU3Ed__133__ctor_mAD2B8749320DE0D0770F9A15B08A16E2234B1C9C(L_0, 0, NULL);
-		U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97* L_1 = L_0;
+		U3CCopyStreamingAssetVideoAndLoadU3Ed__111__ctor_m674B342562CFAA37164B4802D49BE4AD6E2791F4(L_0, 0, NULL);
+		U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C* L_1 = L_0;
 		NullCheck(L_1);
 		L_1->___U3CU3E4__this_3 = __this;
 		Il2CppCodeGenWriteBarrier((void**)(&L_1->___U3CU3E4__this_3), (void*)__this);
-		U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97* L_2 = L_1;
+		U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C* L_2 = L_1;
 		String_t* L_3 = ___0_strURL;
 		NullCheck(L_2);
 		L_2->___strURL_2 = L_3;
@@ -11819,8 +11574,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VideoResize_EndInvoke_mF6896D0925115DA6D
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// System.Void MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131::.ctor(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CDownloadStreamingVideoAndLoadU3Ed__131__ctor_m693B83ABB37B1A890EBD458FA6C97155E1EA9EA2 (U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
+// System.Void MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109::.ctor(System.Int32)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CDownloadStreamingVideoAndLoadU3Ed__109__ctor_m9E8F9D56645CF29A5354038152A6C36114C6DC2D (U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
 		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
@@ -11829,15 +11584,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CDownloadStreamingVideoAndLoadU3Ed__13
 		return;
 	}
 }
-// System.Void MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131::System.IDisposable.Dispose()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CDownloadStreamingVideoAndLoadU3Ed__131_System_IDisposable_Dispose_mA9B81CE1844734D75FEA44D2CDE7A4B5FCAD7296 (U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615* __this, const RuntimeMethod* method) 
+// System.Void MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109::System.IDisposable.Dispose()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CDownloadStreamingVideoAndLoadU3Ed__109_System_IDisposable_Dispose_m08C22A83A67EC5E0618D8E4DD3082D5D75330B62 (U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
-// System.Boolean MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131::MoveNext()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CDownloadStreamingVideoAndLoadU3Ed__131_MoveNext_mD6D307E372D2629B2B6B44DBE210FD17006746D3 (U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615* __this, const RuntimeMethod* method) 
+// System.Boolean MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109::MoveNext()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CDownloadStreamingVideoAndLoadU3Ed__109_MoveNext_m89DA05885A7264A8602623FF3652028F3DD3E7C2 (U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
@@ -12004,26 +11759,26 @@ IL_010d:
 		return (bool)0;
 	}
 }
-// System.Object MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CDownloadStreamingVideoAndLoadU3Ed__131_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m610FFEC9F896AAE08CBB8F2EE0FE209E6365889E (U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615* __this, const RuntimeMethod* method) 
+// System.Object MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CDownloadStreamingVideoAndLoadU3Ed__109_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mE11022C05D908AFF41BF4C521BA5112AD05414F7 (U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159* __this, const RuntimeMethod* method) 
 {
 	{
 		RuntimeObject* L_0 = __this->___U3CU3E2__current_1;
 		return L_0;
 	}
 }
-// System.Void MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131::System.Collections.IEnumerator.Reset()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CDownloadStreamingVideoAndLoadU3Ed__131_System_Collections_IEnumerator_Reset_mEEB46954938EF5F9565DB5D58CE6B3717E8CCA1D (U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615* __this, const RuntimeMethod* method) 
+// System.Void MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109::System.Collections.IEnumerator.Reset()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CDownloadStreamingVideoAndLoadU3Ed__109_System_Collections_IEnumerator_Reset_mF6F89432EE1B56FCD6E857DC1CE982EB8EE5FAF6 (U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159* __this, const RuntimeMethod* method) 
 {
 	{
 		NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A* L_0 = (NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A_il2cpp_TypeInfo_var)));
 		NullCheck(L_0);
 		NotSupportedException__ctor_m1398D0CDE19B36AA3DE9392879738C1EA2439CDF(L_0, NULL);
-		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CDownloadStreamingVideoAndLoadU3Ed__131_System_Collections_IEnumerator_Reset_mEEB46954938EF5F9565DB5D58CE6B3717E8CCA1D_RuntimeMethod_var)));
+		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CDownloadStreamingVideoAndLoadU3Ed__109_System_Collections_IEnumerator_Reset_mF6F89432EE1B56FCD6E857DC1CE982EB8EE5FAF6_RuntimeMethod_var)));
 	}
 }
-// System.Object MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131::System.Collections.IEnumerator.get_Current()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CDownloadStreamingVideoAndLoadU3Ed__131_System_Collections_IEnumerator_get_Current_mC8A9D595C397988389C87D79D5D73A5551DA2073 (U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615* __this, const RuntimeMethod* method) 
+// System.Object MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109::System.Collections.IEnumerator.get_Current()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CDownloadStreamingVideoAndLoadU3Ed__109_System_Collections_IEnumerator_get_Current_mB8397FF09610370C3920926388503C444847805D (U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159* __this, const RuntimeMethod* method) 
 {
 	{
 		RuntimeObject* L_0 = __this->___U3CU3E2__current_1;
@@ -12038,8 +11793,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CDownloadStreamingVideoAndLo
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// System.Void MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132::.ctor(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CDownloadStreamingVideoAndLoad2U3Ed__132__ctor_mC3CABC7B6EA191BF21080F40336879E82DA916C2 (U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
+// System.Void MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110::.ctor(System.Int32)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CDownloadStreamingVideoAndLoad2U3Ed__110__ctor_m18F70B8D05E445640C51D64248A9347EE26C9EDD (U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
 		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
@@ -12048,15 +11803,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CDownloadStreamingVideoAndLoad2U3Ed__1
 		return;
 	}
 }
-// System.Void MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132::System.IDisposable.Dispose()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CDownloadStreamingVideoAndLoad2U3Ed__132_System_IDisposable_Dispose_m1B9E5EDEEF193B15C436C0207A7A5F5E7DD1566B (U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8* __this, const RuntimeMethod* method) 
+// System.Void MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110::System.IDisposable.Dispose()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CDownloadStreamingVideoAndLoad2U3Ed__110_System_IDisposable_Dispose_m11CBED3DE3E868873DD85B90A7CCFC8C91E356DA (U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
-// System.Boolean MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132::MoveNext()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CDownloadStreamingVideoAndLoad2U3Ed__132_MoveNext_m993826CCFB9FDC75CA57894F964B9A1A4FA398B1 (U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8* __this, const RuntimeMethod* method) 
+// System.Boolean MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110::MoveNext()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CDownloadStreamingVideoAndLoad2U3Ed__110_MoveNext_m2AE6DB2D30B643FE6E969B63C89E569B2874DE8D (U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
@@ -12245,26 +12000,26 @@ IL_0151:
 		return (bool)0;
 	}
 }
-// System.Object MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CDownloadStreamingVideoAndLoad2U3Ed__132_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m802136E88BE5EDD8464A384A36F878CBC708F354 (U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8* __this, const RuntimeMethod* method) 
+// System.Object MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CDownloadStreamingVideoAndLoad2U3Ed__110_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m20EA3DEDEADECE5CE126A28CF21D51627E8C60B4 (U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9* __this, const RuntimeMethod* method) 
 {
 	{
 		RuntimeObject* L_0 = __this->___U3CU3E2__current_1;
 		return L_0;
 	}
 }
-// System.Void MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132::System.Collections.IEnumerator.Reset()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CDownloadStreamingVideoAndLoad2U3Ed__132_System_Collections_IEnumerator_Reset_mEEDF1DF8E3A24C3874D594AB6A1CE60324413522 (U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8* __this, const RuntimeMethod* method) 
+// System.Void MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110::System.Collections.IEnumerator.Reset()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CDownloadStreamingVideoAndLoad2U3Ed__110_System_Collections_IEnumerator_Reset_m90A9F7DB8206510386CCF44EE8DBCB8B9BCFB8B4 (U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9* __this, const RuntimeMethod* method) 
 {
 	{
 		NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A* L_0 = (NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A_il2cpp_TypeInfo_var)));
 		NullCheck(L_0);
 		NotSupportedException__ctor_m1398D0CDE19B36AA3DE9392879738C1EA2439CDF(L_0, NULL);
-		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CDownloadStreamingVideoAndLoad2U3Ed__132_System_Collections_IEnumerator_Reset_mEEDF1DF8E3A24C3874D594AB6A1CE60324413522_RuntimeMethod_var)));
+		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CDownloadStreamingVideoAndLoad2U3Ed__110_System_Collections_IEnumerator_Reset_m90A9F7DB8206510386CCF44EE8DBCB8B9BCFB8B4_RuntimeMethod_var)));
 	}
 }
-// System.Object MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132::System.Collections.IEnumerator.get_Current()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CDownloadStreamingVideoAndLoad2U3Ed__132_System_Collections_IEnumerator_get_Current_mB2E581E0030FE0E069572B277EB379CBEC386A67 (U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8* __this, const RuntimeMethod* method) 
+// System.Object MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110::System.Collections.IEnumerator.get_Current()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CDownloadStreamingVideoAndLoad2U3Ed__110_System_Collections_IEnumerator_get_Current_m9A87BAA2309041781934A77F318F4ACD1BABEDE6 (U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9* __this, const RuntimeMethod* method) 
 {
 	{
 		RuntimeObject* L_0 = __this->___U3CU3E2__current_1;
@@ -12279,8 +12034,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CDownloadStreamingVideoAndLo
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// System.Void MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133::.ctor(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CCopyStreamingAssetVideoAndLoadU3Ed__133__ctor_mAD2B8749320DE0D0770F9A15B08A16E2234B1C9C (U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
+// System.Void MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111::.ctor(System.Int32)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CCopyStreamingAssetVideoAndLoadU3Ed__111__ctor_m674B342562CFAA37164B4802D49BE4AD6E2791F4 (U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
 		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
@@ -12289,15 +12044,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CCopyStreamingAssetVideoAndLoadU3Ed__1
 		return;
 	}
 }
-// System.Void MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133::System.IDisposable.Dispose()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CCopyStreamingAssetVideoAndLoadU3Ed__133_System_IDisposable_Dispose_mA31C2826BC82F9C4FCA7E4326D24048AED394F12 (U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97* __this, const RuntimeMethod* method) 
+// System.Void MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111::System.IDisposable.Dispose()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CCopyStreamingAssetVideoAndLoadU3Ed__111_System_IDisposable_Dispose_mB0AA26C267A0A71D43D97BAB1FE9D4CE7A7547E0 (U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
-// System.Boolean MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133::MoveNext()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CCopyStreamingAssetVideoAndLoadU3Ed__133_MoveNext_m24AFE13A249B870CB078862DE2CDA5048F4C8279 (U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97* __this, const RuntimeMethod* method) 
+// System.Boolean MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111::MoveNext()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CCopyStreamingAssetVideoAndLoadU3Ed__111_MoveNext_mACBC78068C753B142C0DE21503FEF0154A16B7AA (U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
@@ -12466,26 +12221,26 @@ IL_013a:
 		return (bool)0;
 	}
 }
-// System.Object MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CCopyStreamingAssetVideoAndLoadU3Ed__133_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m0260914F8A06874C0CB7D73E90B21E67E4C3C9FC (U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97* __this, const RuntimeMethod* method) 
+// System.Object MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CCopyStreamingAssetVideoAndLoadU3Ed__111_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m54C68CFC9EA9494583A23782CB075CE818F35679 (U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C* __this, const RuntimeMethod* method) 
 {
 	{
 		RuntimeObject* L_0 = __this->___U3CU3E2__current_1;
 		return L_0;
 	}
 }
-// System.Void MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133::System.Collections.IEnumerator.Reset()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CCopyStreamingAssetVideoAndLoadU3Ed__133_System_Collections_IEnumerator_Reset_m7E0E5A80B01E42A51CCCF1A65A1122927914530D (U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97* __this, const RuntimeMethod* method) 
+// System.Void MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111::System.Collections.IEnumerator.Reset()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CCopyStreamingAssetVideoAndLoadU3Ed__111_System_Collections_IEnumerator_Reset_m6C775E2DE662BF637F13EFF579EB91198A4BB84E (U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C* __this, const RuntimeMethod* method) 
 {
 	{
 		NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A* L_0 = (NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A_il2cpp_TypeInfo_var)));
 		NullCheck(L_0);
 		NotSupportedException__ctor_m1398D0CDE19B36AA3DE9392879738C1EA2439CDF(L_0, NULL);
-		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CCopyStreamingAssetVideoAndLoadU3Ed__133_System_Collections_IEnumerator_Reset_m7E0E5A80B01E42A51CCCF1A65A1122927914530D_RuntimeMethod_var)));
+		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CCopyStreamingAssetVideoAndLoadU3Ed__111_System_Collections_IEnumerator_Reset_m6C775E2DE662BF637F13EFF579EB91198A4BB84E_RuntimeMethod_var)));
 	}
 }
-// System.Object MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133::System.Collections.IEnumerator.get_Current()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CCopyStreamingAssetVideoAndLoadU3Ed__133_System_Collections_IEnumerator_get_Current_mEF466A83B286DEB09A781B83E9B0BD1D0B321695 (U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97* __this, const RuntimeMethod* method) 
+// System.Object MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111::System.Collections.IEnumerator.get_Current()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CCopyStreamingAssetVideoAndLoadU3Ed__111_System_Collections_IEnumerator_get_Current_m5AF6C05D91C87C16AE6DB5D455D60BDFE44F2FCA (U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C* __this, const RuntimeMethod* method) 
 {
 	{
 		RuntimeObject* L_0 = __this->___U3CU3E2__current_1;

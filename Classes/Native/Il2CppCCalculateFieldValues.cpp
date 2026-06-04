@@ -8740,52 +8740,52 @@ struct U3CU3Ec__DisplayClass7_0_t43A53945F51649EEF593DE0946D2BC446FD7B48D  : pub
 	Mechanism9_t9A69AAFBB6A729C143E9749ED8B49F0923A2D8E9* ___U3CU3E4__this_1;
 };
 
-// MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133
-struct U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97  : public RuntimeObject
+// MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111
+struct U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C  : public RuntimeObject
 {
-	// System.Int32 MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133::<>1__state
+	// System.Int32 MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111::<>1__state
 	int32_t ___U3CU3E1__state_0;
-	// System.Object MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133::<>2__current
+	// System.Object MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111::<>2__current
 	RuntimeObject* ___U3CU3E2__current_1;
-	// System.String MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133::strURL
+	// System.String MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111::strURL
 	String_t* ___strURL_2;
-	// MediaPlayerCtrl MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133::<>4__this
+	// MediaPlayerCtrl MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111::<>4__this
 	MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688* ___U3CU3E4__this_3;
-	// System.String MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133::<write_path>5__2
+	// System.String MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111::<write_path>5__2
 	String_t* ___U3Cwrite_pathU3E5__2_4;
-	// UnityEngine.WWW MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133::<www>5__3
+	// UnityEngine.WWW MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111::<www>5__3
 	WWW_tEADA9A43B98FC277E498F8E3206A3B8C4E5AF3FB* ___U3CwwwU3E5__3_5;
 };
 
-// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132
-struct U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8  : public RuntimeObject
+// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110
+struct U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9  : public RuntimeObject
 {
-	// System.Int32 MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132::<>1__state
+	// System.Int32 MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110::<>1__state
 	int32_t ___U3CU3E1__state_0;
-	// System.Object MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132::<>2__current
+	// System.Object MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110::<>2__current
 	RuntimeObject* ___U3CU3E2__current_1;
-	// System.String MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132::strURL
+	// System.String MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110::strURL
 	String_t* ___strURL_2;
-	// MediaPlayerCtrl MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132::<>4__this
+	// MediaPlayerCtrl MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110::<>4__this
 	MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688* ___U3CU3E4__this_3;
-	// System.String MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132::<write_path>5__2
+	// System.String MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110::<write_path>5__2
 	String_t* ___U3Cwrite_pathU3E5__2_4;
-	// UnityEngine.WWW MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132::<www>5__3
+	// UnityEngine.WWW MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110::<www>5__3
 	WWW_tEADA9A43B98FC277E498F8E3206A3B8C4E5AF3FB* ___U3CwwwU3E5__3_5;
 };
 
-// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131
-struct U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615  : public RuntimeObject
+// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109
+struct U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159  : public RuntimeObject
 {
-	// System.Int32 MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131::<>1__state
+	// System.Int32 MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109::<>1__state
 	int32_t ___U3CU3E1__state_0;
-	// System.Object MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131::<>2__current
+	// System.Object MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109::<>2__current
 	RuntimeObject* ___U3CU3E2__current_1;
-	// System.String MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131::strURL
+	// System.String MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109::strURL
 	String_t* ___strURL_2;
-	// MediaPlayerCtrl MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131::<>4__this
+	// MediaPlayerCtrl MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109::<>4__this
 	MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688* ___U3CU3E4__this_3;
-	// UnityEngine.WWW MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131::<www>5__2
+	// UnityEngine.WWW MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109::<www>5__2
 	WWW_tEADA9A43B98FC277E498F8E3206A3B8C4E5AF3FB* ___U3CwwwU3E5__2_4;
 };
 
@@ -45635,17 +45635,17 @@ struct U3CU3Ec_t247F9A9271D3C464C6AF700235C3DF971B7EECED_StaticFields
 
 // Mechanism9/<>c__DisplayClass7_0
 
-// MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133
+// MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111
 
-// MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__133
+// MediaPlayerCtrl/<CopyStreamingAssetVideoAndLoad>d__111
 
-// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132
+// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110
 
-// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__132
+// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad2>d__110
 
-// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131
+// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109
 
-// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__131
+// MediaPlayerCtrl/<DownloadStreamingVideoAndLoad>d__109
 
 // XLuaTest.MessageBox/<>c__DisplayClass0_0
 
@@ -60769,13 +60769,13 @@ IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable2425[8] =
 	static_cast<int32_t>(sizeof(RuntimeObject)),0,0,0,0,0,0,0,};
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable2426[5] = 
 {
-	static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615, ___U3CU3E1__state_0)),static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615, ___U3CU3E2__current_1)),static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615, ___strURL_2)),static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615, ___U3CU3E4__this_3)),static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoadU3Ed__131_t8ECA787F510E10DCBCD604053D8792996D7AE615, ___U3CwwwU3E5__2_4)),};
+	static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159, ___U3CU3E1__state_0)),static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159, ___U3CU3E2__current_1)),static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159, ___strURL_2)),static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159, ___U3CU3E4__this_3)),static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoadU3Ed__109_tDD999931D70EA84C5DB742742B9E98DD822FF159, ___U3CwwwU3E5__2_4)),};
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable2427[6] = 
 {
-	static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8, ___U3CU3E1__state_0)),static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8, ___U3CU3E2__current_1)),static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8, ___strURL_2)),static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8, ___U3CU3E4__this_3)),static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8, ___U3Cwrite_pathU3E5__2_4)),static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoad2U3Ed__132_t1FF04275DC8302D9561F61D8F7DACE6A8BFDE4C8, ___U3CwwwU3E5__3_5)),};
+	static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9, ___U3CU3E1__state_0)),static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9, ___U3CU3E2__current_1)),static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9, ___strURL_2)),static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9, ___U3CU3E4__this_3)),static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9, ___U3Cwrite_pathU3E5__2_4)),static_cast<int32_t>(offsetof(U3CDownloadStreamingVideoAndLoad2U3Ed__110_t2EB6C093092D906BBB4F8FCB31BD2A3533ABF2F9, ___U3CwwwU3E5__3_5)),};
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable2428[6] = 
 {
-	static_cast<int32_t>(offsetof(U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97, ___U3CU3E1__state_0)),static_cast<int32_t>(offsetof(U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97, ___U3CU3E2__current_1)),static_cast<int32_t>(offsetof(U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97, ___strURL_2)),static_cast<int32_t>(offsetof(U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97, ___U3CU3E4__this_3)),static_cast<int32_t>(offsetof(U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97, ___U3Cwrite_pathU3E5__2_4)),static_cast<int32_t>(offsetof(U3CCopyStreamingAssetVideoAndLoadU3Ed__133_tD51750BA422D91C4FA9B02FC6781A4EC66B07D97, ___U3CwwwU3E5__3_5)),};
+	static_cast<int32_t>(offsetof(U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C, ___U3CU3E1__state_0)),static_cast<int32_t>(offsetof(U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C, ___U3CU3E2__current_1)),static_cast<int32_t>(offsetof(U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C, ___strURL_2)),static_cast<int32_t>(offsetof(U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C, ___U3CU3E4__this_3)),static_cast<int32_t>(offsetof(U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C, ___U3Cwrite_pathU3E5__2_4)),static_cast<int32_t>(offsetof(U3CCopyStreamingAssetVideoAndLoadU3Ed__111_t1D26FE0E40F0389C8140856D6BB71D07EF487E2C, ___U3CwwwU3E5__3_5)),};
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable2429[37] = 
 {
 	static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_strFileName_4)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_TargetMaterial_5)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_VideoTexture_6)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_VideoTextureDummy_7)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_CurrentState_8)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_iCurrentSeekPosition_9)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_fVolume_10)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_iWidth_11)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_iHeight_12)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_fSpeed_13)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_bFullScreen_14)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_bSupportRockchip_15)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___OnResize_16)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___OnReady_17)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___OnEnd_18)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___OnVideoError_19)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___OnVideoFirstFrameReady_20)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_texPtr_21)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_iPauseFrame_22)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_iAndroidMgrID_23)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_bIsFirstFrameReady_24)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_bFirst_25)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_ScaleValue_26)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_objResize_27)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_bLoop_28)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_bAutoPlay_29)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_bStop_30)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_bInit_31)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_bCheckFBO_32)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_bPause_33)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_bReadyPlay_34)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___m_iID_35)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___bFirstIOS_36)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ____videoTexture_37)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___unityMainThreadActionList_38)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___checkNewActions_39)),static_cast<int32_t>(offsetof(MediaPlayerCtrl_t7F16010EC1C844DE24BFB7DCFA54858B87053688, ___thisLock_40)),};
