@@ -38,6 +38,7 @@ jobs:
             -scheme Unity-iPhone \
             -archivePath build/Unity-iPhone.xcarchive \
             -configuration Release \
+            -destination 'generic/platform=iOS' \
             CODE_SIGN_STYLE=Automatic \
             DEVELOPMENT_TEAM=8783M6Z5Q4
 
