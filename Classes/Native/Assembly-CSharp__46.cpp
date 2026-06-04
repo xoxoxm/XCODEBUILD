@@ -13834,44 +13834,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* TR_Value_m2B1FA2E96C2F2B4353863943B
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterface__ctor_m9D61E36104DCA0ECCE3B57F5223B5B262845C18D (SDKInterface_tC4AEAC351F549F765E12AF495D88768563BCB8FE* __this, const RuntimeMethod* method) ;
 // System.Void SDKInterface::Init(System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterface_Init_mADB9D21E4D237EBCA2324D6960DBF3238720944E (SDKInterface_tC4AEAC351F549F765E12AF495D88768563BCB8FE* __this, bool ___0_debug, const RuntimeMethod* method) ;
-// System.Void SDKInterfaceIOS::_CommonInit()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS__CommonInit_m7918F1BFB8D9486F23A5C75B280EFB051CBB8BF5 (const RuntimeMethod* method) ;
-// System.Void SDKInterfaceIOS::_SetNotification(System.Int32,System.String,System.String,System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS__SetNotification_m9C1D41F8A8B38FB91EFACF1993FA28BF6F4D9241 (int32_t ___0_nid, String_t* ___1_content, String_t* ___2_title, int32_t ___3_hour, const RuntimeMethod* method) ;
-// System.Int32 SDKInterfaceIOS::ResetNidWeekly(System.Int32,System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t SDKInterfaceIOS_ResetNidWeekly_mF663A390C927CBF0F5E4C4DB52CAC7A2EB333F79 (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, int32_t ___0_nid, int32_t ___1_weekly, const RuntimeMethod* method) ;
-// System.Void SDKInterfaceIOS::_SetNotificationWeekly(System.Int32,System.String,System.String,System.Int32,System.Int32,System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS__SetNotificationWeekly_m7C6B1C262EB23777BB534D1B419604D24FF8AA94 (int32_t ___0_nid, String_t* ___1_content, String_t* ___2_title, int32_t ___3_weekday, int32_t ___4_hour, int32_t ___5_minute, const RuntimeMethod* method) ;
-// System.Void SDKInterfaceIOS::_RemoveNotification(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS__RemoveNotification_m059026F17705A4812B2CB4DF649FDEB5EDF19C09 (int32_t ___0_nid, const RuntimeMethod* method) ;
-// System.Void SDKInterfaceIOS::_RemoveAllNotification()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS__RemoveAllNotification_m0CD3CA0B57F6554D71C532C1964DCCA546FD5BA2 (const RuntimeMethod* method) ;
-// System.Void SDKInterfaceIOS::_ResetBadge()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS__ResetBadge_m8C4E085B895503057A026C6F252431035FCE376D (const RuntimeMethod* method) ;
-// System.Void SDKInterfaceIOS::_SetBrightness(System.Single)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS__SetBrightness_mA3E893D5777D61A19D979D8465DA8BA8FB936120 (float ___0_value, const RuntimeMethod* method) ;
-// System.Single SDKInterfaceIOS::_GetBrightness()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float SDKInterfaceIOS__GetBrightness_m8B6788FB91C373CAA76017A05892CD6B263D8944 (const RuntimeMethod* method) ;
-// System.Void SDKInterfaceIOS::ExitIOS()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_ExitIOS_mBEC7919D960EFDC6ABF7ABCE6C5ADAD69598208D (const RuntimeMethod* method) ;
-// System.Single SDKInterfaceIOS::_GetBatteryLevel()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float SDKInterfaceIOS__GetBatteryLevel_m5D4F1FD05C92572024AB57A39A9C15DB75412E06 (const RuntimeMethod* method) ;
 // System.String SDKInterface::GetSystemTimeHHMM()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* SDKInterface_GetSystemTimeHHMM_m1D75B97CF4776D651378F9E3E55FC682BC108AB6 (SDKInterface_tC4AEAC351F549F765E12AF495D88768563BCB8FE* __this, const RuntimeMethod* method) ;
-// System.Boolean SDKInterfaceIOS::_RequestAudioAuthorization()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool SDKInterfaceIOS__RequestAudioAuthorization_m83CDA3FE0C61CBDFA48084FF415437737075ED54 (const RuntimeMethod* method) ;
-// System.Void SDKInterfaceIOS::_SetAudioSessionActive()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS__SetAudioSessionActive_m68114C3E4DA0B1B1953C0BA93A74E15CE14AB8D7 (const RuntimeMethod* method) ;
-// System.Boolean SDKInterfaceIOS::_IsIOSSystemVersionMoreThanNine()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool SDKInterfaceIOS__IsIOSSystemVersionMoreThanNine_m1308102DA4BD46832DE529C721B89FA186BBB1AF (const RuntimeMethod* method) ;
-// System.String SDKInterfaceIOS::_GetTextFromClipboard()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* SDKInterfaceIOS__GetTextFromClipboard_mDB273F13988B987F2E183449E44D7C715B6EC289 (const RuntimeMethod* method) ;
 // System.Boolean SDKInterface::IsIOSOtherChannel()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool SDKInterface_IsIOSOtherChannel_mEA970AAA85FEE268F9B8EF763ABB86E407953EC1 (SDKInterface_tC4AEAC351F549F765E12AF495D88768563BCB8FE* __this, const RuntimeMethod* method) ;
-// System.Void SDKInterfaceIOS::_SavePhoto(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS__SavePhoto_m6E6C6570C9F77932BB96BF0D12093BF725A2B70A (String_t* ___0_readAddr, const RuntimeMethod* method) ;
-// System.Void SDKInterfaceIOS::_InitAlartText(System.String,System.String,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS__InitAlartText_mB13C879A63FCFE4B1BD2E1116E3F62EB73F8B62A (String_t* ___0_title, String_t* ___1_message, String_t* ___2_btnText, const RuntimeMethod* method) ;
 // System.Void GameClient.VoiceChatModule::.ctor()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VoiceChatModule__ctor_m346234E8E1A0300FB36C7CE0F9246B57A87BA394 (VoiceChatModule_t09469AC304809D3C6955E90179B7C50F789412DB* __this, const RuntimeMethod* method) ;
 // System.Boolean SDKVoiceManager::GetMicPref()
@@ -38426,8 +38392,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_Init_m1A1467214D2F3E1A9C
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_CommonInit_mD743B11539EE04ACFF7D84CF5A6812FEC02B536D (const RuntimeMethod* method) 
 {
 	{
-		// _CommonInit();
-		SDKInterfaceIOS__CommonInit_m7918F1BFB8D9486F23A5C75B280EFB051CBB8BF5(NULL);
 		// }
 		return;
 	}
@@ -38436,12 +38400,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_CommonInit_mD743B11539EE
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_SetNotification_m8DB964B08FCFF1F33530A9F8275D867C49D31AE8 (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, int32_t ___0_nid, String_t* ___1_content, String_t* ___2_title, int32_t ___3_hour, const RuntimeMethod* method) 
 {
 	{
-		// _SetNotification(nid, content, title, hour);
-		int32_t L_0 = ___0_nid;
-		String_t* L_1 = ___1_content;
-		String_t* L_2 = ___2_title;
-		int32_t L_3 = ___3_hour;
-		SDKInterfaceIOS__SetNotification_m9C1D41F8A8B38FB91EFACF1993FA28BF6F4D9241(L_0, L_1, L_2, L_3, NULL);
 		// }
 		return;
 	}
@@ -38450,18 +38408,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_SetNotification_m8DB964B
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_SetNotificationWeekly_m34DE441A25227B81A09F2C3D50574E34B73D181D (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, int32_t ___0_nid, String_t* ___1_content, String_t* ___2_title, int32_t ___3_weekday, int32_t ___4_hour, int32_t ___5_minute, const RuntimeMethod* method) 
 {
 	{
-		// int weekdayId = ResetNidWeekly(nid, weekday);
-		int32_t L_0 = ___0_nid;
-		int32_t L_1 = ___3_weekday;
-		int32_t L_2;
-		L_2 = SDKInterfaceIOS_ResetNidWeekly_mF663A390C927CBF0F5E4C4DB52CAC7A2EB333F79(__this, L_0, L_1, NULL);
-		// _SetNotificationWeekly(weekdayId, content, title, weekday, hour, minute);
-		String_t* L_3 = ___1_content;
-		String_t* L_4 = ___2_title;
-		int32_t L_5 = ___3_weekday;
-		int32_t L_6 = ___4_hour;
-		int32_t L_7 = ___5_minute;
-		SDKInterfaceIOS__SetNotificationWeekly_m7C6B1C262EB23777BB534D1B419604D24FF8AA94(L_2, L_3, L_4, L_5, L_6, L_7, NULL);
 		// }
 		return;
 	}
@@ -38469,35 +38415,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_SetNotificationWeekly_m3
 // System.Void SDKInterfaceIOS::RemoveNotification(System.Int32)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_RemoveNotification_m56D7FD23332EB8947B9B7387CB2F90A30552ACCA (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, int32_t ___0_nid, const RuntimeMethod* method) 
 {
-	int32_t V_0 = 0;
-	{
-		// for (int i = 1; i <= 7; i++)
-		V_0 = 1;
-		goto IL_0015;
-	}
-
-IL_0004:
-	{
-		// _RemoveNotification(ResetNidWeekly(nid, i));
-		int32_t L_0 = ___0_nid;
-		int32_t L_1 = V_0;
-		int32_t L_2;
-		L_2 = SDKInterfaceIOS_ResetNidWeekly_mF663A390C927CBF0F5E4C4DB52CAC7A2EB333F79(__this, L_0, L_1, NULL);
-		SDKInterfaceIOS__RemoveNotification_m059026F17705A4812B2CB4DF649FDEB5EDF19C09(L_2, NULL);
-		// for (int i = 1; i <= 7; i++)
-		int32_t L_3 = V_0;
-		V_0 = ((int32_t)il2cpp_codegen_add(L_3, 1));
-	}
-
-IL_0015:
-	{
-		// for (int i = 1; i <= 7; i++)
-		int32_t L_4 = V_0;
-		if ((((int32_t)L_4) <= ((int32_t)7)))
-		{
-			goto IL_0004;
-		}
-	}
 	{
 		// }
 		return;
@@ -38507,28 +38424,14 @@ IL_0015:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_RemoveAllNotification_m9A524161E03AAC4EFE0B26580F126DD449E73DC3 (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, const RuntimeMethod* method) 
 {
 	{
-		// _RemoveAllNotification();
-		SDKInterfaceIOS__RemoveAllNotification_m0CD3CA0B57F6554D71C532C1964DCCA546FD5BA2(NULL);
 		// }
 		return;
-	}
-}
-// System.Int32 SDKInterfaceIOS::ResetNidWeekly(System.Int32,System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t SDKInterfaceIOS_ResetNidWeekly_mF663A390C927CBF0F5E4C4DB52CAC7A2EB333F79 (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, int32_t ___0_nid, int32_t ___1_weekly, const RuntimeMethod* method) 
-{
-	{
-		// return nid * 10 + 100000 + weekly;
-		int32_t L_0 = ___0_nid;
-		int32_t L_1 = ___1_weekly;
-		return ((int32_t)il2cpp_codegen_add(((int32_t)il2cpp_codegen_add(((int32_t)il2cpp_codegen_multiply(L_0, ((int32_t)10))), ((int32_t)100000))), L_1));
 	}
 }
 // System.Void SDKInterfaceIOS::ResetBadge()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_ResetBadge_m13B56C459D8E078FFF67163AEDB0FD6EE53C8B29 (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, const RuntimeMethod* method) 
 {
 	{
-		// _ResetBadge();
-		SDKInterfaceIOS__ResetBadge_m8C4E085B895503057A026C6F252431035FCE376D(NULL);
 		// }
 		return;
 	}
@@ -38537,9 +38440,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_ResetBadge_m13B56C459D8E
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_SetScreenBrightness_mE0F313CFAE5487211EE7885B6AEE72523C4620DD (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, float ___0_value, const RuntimeMethod* method) 
 {
 	{
-		// _SetBrightness(value);
-		float L_0 = ___0_value;
-		SDKInterfaceIOS__SetBrightness_mA3E893D5777D61A19D979D8465DA8BA8FB936120(L_0, NULL);
 		// }
 		return;
 	}
@@ -38548,18 +38448,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_SetScreenBrightness_mE0F
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float SDKInterfaceIOS_GetScreenBrightness_mE6782ACC138CF146E4FB6F7AEE14B65BA797E601 (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, const RuntimeMethod* method) 
 {
 	{
-		// return _GetBrightness();
-		float L_0;
-		L_0 = SDKInterfaceIOS__GetBrightness_m8B6788FB91C373CAA76017A05892CD6B263D8944(NULL);
-		return L_0;
+		// return 0.5f; // ????
+		return (0.5f);
 	}
 }
 // System.Void SDKInterfaceIOS::Exit()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_Exit_m18CE6B5631C13A78C74A5D78E6B6177510BD5536 (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, const RuntimeMethod* method) 
 {
 	{
-		// ExitIOS();
-		SDKInterfaceIOS_ExitIOS_mBEC7919D960EFDC6ABF7ABCE6C5ADAD69598208D(NULL);
 		// }
 		return;
 	}
@@ -38568,17 +38464,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_Exit_m18CE6B5631C13A78C7
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float SDKInterfaceIOS_GetBatteryLevel_m2A1BDF82D840307A6D41B327699F2BA72F744518 (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, const RuntimeMethod* method) 
 {
 	{
-		// return _GetBatteryLevel();
-		float L_0;
-		L_0 = SDKInterfaceIOS__GetBatteryLevel_m5D4F1FD05C92572024AB57A39A9C15DB75412E06(NULL);
-		return L_0;
+		// return 1.0f; // ?????
+		return (1.0f);
 	}
 }
 // System.String SDKInterfaceIOS::GetSystemTimeHHMM()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* SDKInterfaceIOS_GetSystemTimeHHMM_m5825640D7912451DF8738C016180805261F99D91 (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, const RuntimeMethod* method) 
 {
 	{
-		// return base.GetSystemTimeHHMM();
+		// return base.GetSystemTimeHHMM(); // ???????????
 		String_t* L_0;
 		L_0 = SDKInterface_GetSystemTimeHHMM_m1D75B97CF4776D651378F9E3E55FC682BC108AB6(__this, NULL);
 		return L_0;
@@ -38588,18 +38482,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* SDKInterfaceIOS_GetSystemTimeHHMM_m
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool SDKInterfaceIOS_RequestAudioAuthorization_m06C61F39838B3260C200F5EFEF5CBFD6E52A3181 (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, const RuntimeMethod* method) 
 {
 	{
-		// return _RequestAudioAuthorization();
-		bool L_0;
-		L_0 = SDKInterfaceIOS__RequestAudioAuthorization_m83CDA3FE0C61CBDFA48084FF415437737075ED54(NULL);
-		return L_0;
+		// return true; // ??????
+		return (bool)1;
 	}
 }
 // System.Void SDKInterfaceIOS::SetAudioSessionActive()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_SetAudioSessionActive_m5974F759820DE4072024A88B21169FB7874458D9 (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, const RuntimeMethod* method) 
 {
 	{
-		// _SetAudioSessionActive();
-		SDKInterfaceIOS__SetAudioSessionActive_m68114C3E4DA0B1B1953C0BA93A74E15CE14AB8D7(NULL);
 		// }
 		return;
 	}
@@ -38608,40 +38498,29 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_SetAudioSessionActive_m5
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t SDKInterfaceIOS_TryGetCurrVersionAPI_m1374DA4A8E521595B101C1C442345355ED6263E9 (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, const RuntimeMethod* method) 
 {
 	{
-		// if(_IsIOSSystemVersionMoreThanNine())
-		bool L_0;
-		L_0 = SDKInterfaceIOS__IsIOSSystemVersionMoreThanNine_m1308102DA4BD46832DE529C721B89FA186BBB1AF(NULL);
-		if (!L_0)
-		{
-			goto IL_000d;
-		}
-	}
-	{
 		// return 1000;
 		return ((int32_t)1000);
-	}
-
-IL_000d:
-	{
-		// return 0;
-		return 0;
 	}
 }
 // System.String SDKInterfaceIOS::GetClipboardText()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* SDKInterfaceIOS_GetClipboardText_mBE753F81E2730C3C5328687590E3BD90B9204B5C (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, const RuntimeMethod* method) 
 {
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
 	{
-		// return _GetTextFromClipboard();
-		String_t* L_0;
-		L_0 = SDKInterfaceIOS__GetTextFromClipboard_mDB273F13988B987F2E183449E44D7C715B6EC289(NULL);
-		return L_0;
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralDA39A3EE5E6B4B0D3255BFEF95601890AFD80709);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		// return ""; // ??????
+		return _stringLiteralDA39A3EE5E6B4B0D3255BFEF95601890AFD80709;
 	}
 }
 // System.String SDKInterfaceIOS::GetSystemIMEI()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* SDKInterfaceIOS_GetSystemIMEI_m98D6A947F40A9A76E98B790F94C170ADEB95FA1A (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, const RuntimeMethod* method) 
 {
 	{
-		// return UnityEngine.SystemInfo.deviceUniqueIdentifier;
+		// return UnityEngine.SystemInfo.deviceUniqueIdentifier; // ??Unity?ID
 		String_t* L_0;
 		L_0 = SystemInfo_get_deviceUniqueIdentifier_m61BA4CB77ADA09730B8B575700D85027EFDB4EFC(NULL);
 		return L_0;
@@ -38743,7 +38622,7 @@ IL_0013:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_MobileVibrate_m543954D37A496E5ACB133C8228DC088B8D9BA44B (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, const RuntimeMethod* method) 
 {
 	{
-		// Handheld.Vibrate();
+		// Handheld.Vibrate(); // Unity??????
 		Handheld_Vibrate_m820B68A9A3A1C5C0173B99A94C2054778BC3A2F9(NULL);
 		// }
 		return;
@@ -38753,9 +38632,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_MobileVibrate_m543954D37
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_ScanFile_m3C6B856F983DF4EE5ADD30DF468AB5CC500D3CC8 (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, String_t* ___0_path, const RuntimeMethod* method) 
 {
 	{
-		// _SavePhoto(path);
-		String_t* L_0 = ___0_path;
-		SDKInterfaceIOS__SavePhoto_m6E6C6570C9F77932BB96BF0D12093BF725A2B70A(L_0, NULL);
 		// }
 		return;
 	}
@@ -38764,11 +38640,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_ScanFile_m3C6B856F983DF4
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SDKInterfaceIOS_InitAlartText_mDF4FAFE139642CEBF108056EBF42CD02FE39B614 (SDKInterfaceIOS_t29BED8777C7C07A8040DC835B6832F28B2E7ECEB* __this, String_t* ___0_title, String_t* ___1_message, String_t* ___2_btnText, const RuntimeMethod* method) 
 {
 	{
-		// _InitAlartText(title, message, btnText);
-		String_t* L_0 = ___0_title;
-		String_t* L_1 = ___1_message;
-		String_t* L_2 = ___2_btnText;
-		SDKInterfaceIOS__InitAlartText_mB13C879A63FCFE4B1BD2E1116E3F62EB73F8B62A(L_0, L_1, L_2, NULL);
 		// }
 		return;
 	}

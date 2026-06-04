@@ -196,6 +196,8 @@ struct Dictionary_2_t967B1B42DB9C383C9DB6145D41DB564E73D0624E;
 struct Dictionary_2_t560727653FDC21FFD320D6DA9205F8FB91AC3E45;
 // System.Collections.Generic.Dictionary`2<UnityEngine.UIElements.StyleSheets.StylePropertyId,System.String>
 struct Dictionary_2_t9BEC34FFAABF80FD27E35B9955364F9D176F44EA;
+// System.Collections.Generic.Dictionary`2<UnityEngine.TerrainUtils.TerrainTileCoord,UnityEngine.Terrain>
+struct Dictionary_2_t5C5FBA59FA0804C53874B619629A7AF7EA74A119;
 // System.Collections.Generic.Dictionary`2<System.Threading.Thread,System.Diagnostics.StackTrace>
 struct Dictionary_2_t7422864FC6442AAC5C652136E3EDEF5F9AC328ED;
 // System.Collections.Generic.Dictionary`2<System.Type,DG.Tweening.Plugins.Core.ITweenPlugin>
@@ -272,8 +274,6 @@ struct EventFunction_1_tEF0BF5C5A27323118905EB07330A8EF108FED92F;
 struct EventFunction_1_tB9684C6044C44F9A8317A5E5A9A3C1C0376A4678;
 // System.EventHandler`1<System.Net.Sockets.SocketAsyncEventArgs>
 struct EventHandler_1_t5D3FC4609BD8133ED1226D6D49A1D8076B16A9ED;
-// System.Func`1<System.Collections.Generic.Dictionary`2<System.String,System.String>>
-struct Func_1_tDF56F0FBA686CAC5C4C234A701F97D1FCBB2C627;
 // System.Func`1<System.Boolean>
 struct Func_1_t2BE7F58348C9CC544A8973B3A9E55541DE43C457;
 // System.Func`1<System.Globalization.DateTimeFormatInfo>
@@ -1994,8 +1994,6 @@ struct OnPerformCulling_t02E073FD42F34E90694BF7D1C321EC8007FB45F2;
 struct Block_tC16ED855DBC82D8C78C1F89B766EA18B563EA698;
 // UnityEngine.UIElements.UIR.BestFitAllocator/BlockPool
 struct BlockPool_t2122FBCA9477E112DB16942F9F85F9FA11C76878;
-// BuglyAgent/LogCallbackDelegate
-struct LogCallbackDelegate_tD05D9B1265EFB62EE6521DDD4774393E72A8E051;
 // UnityEngine.UI.Button/ButtonClickedEvent
 struct ButtonClickedEvent_t8EA72E90B3BD1392FB3B3EF167D5121C23569E4C;
 // UnityEngine.Camera/CameraCallback
@@ -2134,6 +2132,10 @@ struct ReadWriteTask_t0821BF49EE38596C7734E86E1A6A39D769BE2C05;
 struct GetCursorIdFunction_tB1504572DE66050EB344B89BEDCB49E880152CF1;
 // UnityEngine.UIElements.StyleSheets.StyleSheetCache/SheetHandleKeyComparer
 struct SheetHandleKeyComparer_t0F97F4FB4E81BE38EEA0B0E57C445E7207BFF7CC;
+// UnityEngine.TerrainCallbacks/HeightmapChangedCallback
+struct HeightmapChangedCallback_tDF97623B4D5F5E1F3F7F75CC922345B098036EC0;
+// UnityEngine.TerrainCallbacks/TextureChangedCallback
+struct TextureChangedCallback_tA2D79601BF5AFEC6C8674AA03DAD28844CE69D2F;
 // System.Net.TimerThread/Callback
 struct Callback_tA82FB058E98BD8625CF1B4DC6D63600B1B129835;
 // System.Net.TimerThread/Queue
@@ -2733,11 +2735,6 @@ struct BufferOffsetSize_t46A7671E4C06281BB2D4C4AC98A6263715BDAC71  : public Runt
 	int32_t ___Offset_1;
 	// System.Int32 System.Net.BufferOffsetSize::Size
 	int32_t ___Size_2;
-};
-
-// BuglyAgent
-struct BuglyAgent_tB670C809C75C3BDDB8F140B554A60234343C3D12  : public RuntimeObject
-{
 };
 
 // UnityEngine.UIElements.CallbackEventHandler
@@ -3695,11 +3692,6 @@ struct MemoryProfiler_t2A9239167291C8CAAFE18A4A7516812416F4582E  : public Runtim
 {
 };
 
-// iOSUtility.MemoryReport
-struct MemoryReport_t424F995124C824C4E0E0CF1073E1A04CA4277E46  : public RuntimeObject
-{
-};
-
 // UnityEngine.UIElements.UIR.MeshBuilder
 struct MeshBuilder_t73D46F57E528BF26B22D710789F8E63D0F966A1F  : public RuntimeObject
 {
@@ -4539,6 +4531,11 @@ struct SystemDependencyProvider_tA85279DAEAEFAE42C70F6F7090424414FCD68261  : pub
 {
 	// Mono.SystemCertificateProvider Mono.SystemDependencyProvider::<CertificateProvider>k__BackingField
 	SystemCertificateProvider_t3D7DCC3AD126E11818C6C642A2C86A04DE1928DD* ___U3CCertificateProviderU3Ek__BackingField_2;
+};
+
+// UnityEngine.TerrainCallbacks
+struct TerrainCallbacks_tE504E6C7F9609FDE7009DFEA9E405218E5212B5C  : public RuntimeObject
+{
 };
 
 // UnityEngine.UIElements.UIR.Tessellation
@@ -6695,6 +6692,20 @@ struct TaskWrapperAsyncResult_t92158810980B265A1FF167BF0DACCCFA1C015031  : publi
 	RuntimeObject* ____state_1;
 	// System.Boolean System.Threading.Tasks.TaskToApm/TaskWrapperAsyncResult::_completedSynchronously
 	bool ____completedSynchronously_2;
+};
+
+// UnityEngine.TerrainUtils.TerrainMap/<>c__DisplayClass3_0
+struct U3CU3Ec__DisplayClass3_0_t5A3BA129A3DFF96B5C0658B95E1ED4A678218CC3  : public RuntimeObject
+{
+	// System.Int32 UnityEngine.TerrainUtils.TerrainMap/<>c__DisplayClass3_0::groupID
+	int32_t ___groupID_0;
+};
+
+// UnityEngine.TerrainUtils.TerrainUtility/<>c__DisplayClass2_0
+struct U3CU3Ec__DisplayClass2_0_t0E9CE80E29A8238529BFBB9FCD0C8D0AAD68A57E  : public RuntimeObject
+{
+	// System.Boolean UnityEngine.TerrainUtils.TerrainUtility/<>c__DisplayClass2_0::onlyAutoConnectedTerrains
+	bool ___onlyAutoConnectedTerrains_0;
 };
 
 // UnityEngine.TextAsset/EncodingUtility
@@ -9873,6 +9884,15 @@ struct TaskAwaiter_t9B661AC8C2EFA6BAB94C77BB24A5DDA82D61F833_marshaled_pinvoke
 struct TaskAwaiter_t9B661AC8C2EFA6BAB94C77BB24A5DDA82D61F833_marshaled_com
 {
 	Task_t751C4CC3ECD055BABA8A0B6A5DFBB4283DCA8572* ___m_task_0;
+};
+
+// UnityEngine.TerrainUtils.TerrainTileCoord
+struct TerrainTileCoord_t2181DDF40A8A428A84817957CB7FB19A314F4F09 
+{
+	// System.Int32 UnityEngine.TerrainUtils.TerrainTileCoord::tileX
+	int32_t ___tileX_0;
+	// System.Int32 UnityEngine.TerrainUtils.TerrainTileCoord::tileZ
+	int32_t ___tileZ_1;
 };
 
 // UnityEngine.UIElements.TextureId
@@ -15509,13 +15529,6 @@ struct LogOption_tC04900F6CDCBB3F160311F35CB275752FA3A1DE1
 	int32_t ___value___2;
 };
 
-// LogSeverity
-struct LogSeverity_tDFF14151862ADE8249E4A0517B70F4F94907FDE1 
-{
-	// System.Int32 LogSeverity::value__
-	int32_t ___value___2;
-};
-
 // UnityEngine.LogType
 struct LogType_t9CC0F1B620DFBF3A01E8C2D2316A850D745EF331 
 {
@@ -17415,6 +17428,13 @@ struct TagUnitType_tE96B416272B0326E2683B4BD84B5E51C60FCB7EE
 struct TagValueType_t9A889DA5C696E6477A6E1D5D6BC2767315745B2E 
 {
 	// System.Int32 UnityEngine.TextCore.Text.TagValueType::value__
+	int32_t ___value___2;
+};
+
+// UnityEngine.TerrainUtils.TerrainMapStatusCode
+struct TerrainMapStatusCode_t5F36434C02953C1E58623F2E3A41D7B5FC8ADCA8 
+{
+	// System.Int32 UnityEngine.TerrainUtils.TerrainMapStatusCode::value__
 	int32_t ___value___2;
 };
 
@@ -20115,6 +20135,13 @@ struct LightmapMixedBakeModes_tA9CBB8FED394CF87363E6013E665FA59267904EF
 struct ReflectionProbeModes_t09C3CE8EDD13F84305A19602D37D51F39E5E3DFC 
 {
 	// System.Int32 UnityEngine.Rendering.SupportedRenderingFeatures/ReflectionProbeModes::value__
+	int32_t ___value___2;
+};
+
+// UnityEngine.TerrainData/BoundaryValueType
+struct BoundaryValueType_t2B2F2E941A2F5A0411741220B4700D421279EF67 
+{
+	// System.Int32 UnityEngine.TerrainData/BoundaryValueType::value__
 	int32_t ___value___2;
 };
 
@@ -24617,6 +24644,22 @@ struct TcpClient_t753B702EE06B59897564F75CEBFB6C8AFF10BD58  : public RuntimeObje
 	int32_t ___m_Family_3;
 	// System.Boolean System.Net.Sockets.TcpClient::m_CleanedUp
 	bool ___m_CleanedUp_4;
+};
+
+// UnityEngine.TerrainData
+struct TerrainData_t615A68EAC648066681875D47FC641496D12F2E24  : public Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C
+{
+};
+
+// UnityEngine.TerrainUtils.TerrainMap
+struct TerrainMap_t6E07590E3151F47FFC6D5536635AC428ABDA79EB  : public RuntimeObject
+{
+	// UnityEngine.Vector3 UnityEngine.TerrainUtils.TerrainMap::m_patchSize
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___m_patchSize_0;
+	// UnityEngine.TerrainUtils.TerrainMapStatusCode UnityEngine.TerrainUtils.TerrainMap::m_errorCode
+	int32_t ___m_errorCode_1;
+	// System.Collections.Generic.Dictionary`2<UnityEngine.TerrainUtils.TerrainTileCoord,UnityEngine.Terrain> UnityEngine.TerrainUtils.TerrainMap::m_terrainTiles
+	Dictionary_2_t5C5FBA59FA0804C53874B619629A7AF7EA74A119* ___m_terrainTiles_2;
 };
 
 // UnityEngine.TextEditor
@@ -31612,11 +31655,6 @@ struct BindableElement_t873EFF65032D21AB3B7BFBA21675D1693967435C  : public Visua
 	String_t* ___U3CbindingPathU3Ek__BackingField_66;
 };
 
-// BuglyInit
-struct BuglyInit_t6DF4B47F02AAEC62F4600C5513BDD074600F0977  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
-{
-};
-
 // DG.Tweening.Core.DOTweenComponent
 struct DOTweenComponent_tEA6C5A1520B40681AE6FA1703529F60EBC3691DC  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
 {
@@ -33150,39 +33188,6 @@ struct Bits_t4D52329DF865E191908AE96952B27312B4FD1355_StaticFields
 
 // System.Net.BufferOffsetSize
 
-// BuglyAgent
-struct BuglyAgent_tB670C809C75C3BDDB8F140B554A60234343C3D12_StaticFields
-{
-	// System.Boolean BuglyAgent::_crashReporterTypeConfiged
-	bool ____crashReporterTypeConfiged_0;
-	// BuglyAgent/LogCallbackDelegate BuglyAgent::_LogCallbackEventHandler
-	LogCallbackDelegate_tD05D9B1265EFB62EE6521DDD4774393E72A8E051* ____LogCallbackEventHandler_1;
-	// System.Boolean BuglyAgent::_isInitialized
-	bool ____isInitialized_2;
-	// LogSeverity BuglyAgent::_autoReportLogLevel
-	int32_t ____autoReportLogLevel_3;
-	// System.Int32 BuglyAgent::_crashReporterType
-	int32_t ____crashReporterType_4;
-	// System.Int32 BuglyAgent::_crashReproterCustomizedLogLevel
-	int32_t ____crashReproterCustomizedLogLevel_5;
-	// System.Boolean BuglyAgent::_debugMode
-	bool ____debugMode_6;
-	// System.Boolean BuglyAgent::_autoQuitApplicationAfterReport
-	bool ____autoQuitApplicationAfterReport_7;
-	// System.Int32 BuglyAgent::EXCEPTION_TYPE_UNCAUGHT
-	int32_t ___EXCEPTION_TYPE_UNCAUGHT_8;
-	// System.Int32 BuglyAgent::EXCEPTION_TYPE_CAUGHT
-	int32_t ___EXCEPTION_TYPE_CAUGHT_9;
-	// System.String BuglyAgent::_pluginVersion
-	String_t* ____pluginVersion_10;
-	// System.Func`1<System.Collections.Generic.Dictionary`2<System.String,System.String>> BuglyAgent::_LogCallbackExtrasHandler
-	Func_1_tDF56F0FBA686CAC5C4C234A701F97D1FCBB2C627* ____LogCallbackExtrasHandler_11;
-	// System.Boolean BuglyAgent::_uncaughtAutoReportOnce
-	bool ____uncaughtAutoReportOnce_12;
-};
-
-// BuglyAgent
-
 // UnityEngine.UI.CanvasUpdateRegistry
 struct CanvasUpdateRegistry_t7A4CC63D880F418DCDE83152B6FDB3259DF14DD1_StaticFields
 {
@@ -34145,17 +34150,6 @@ struct MemoryProfiler_t2A9239167291C8CAAFE18A4A7516812416F4582E_StaticFields
 
 // UnityEngine.Profiling.Memory.Experimental.MemoryProfiler
 
-// iOSUtility.MemoryReport
-struct MemoryReport_t424F995124C824C4E0E0CF1073E1A04CA4277E46_StaticFields
-{
-	// System.Int32 iOSUtility.MemoryReport::mLastMemoryInMB
-	int32_t ___mLastMemoryInMB_0;
-	// System.Int32 iOSUtility.MemoryReport::mMaxMemoryInMB
-	int32_t ___mMaxMemoryInMB_1;
-};
-
-// iOSUtility.MemoryReport
-
 // UnityEngine.UIElements.UIR.MeshBuilder
 struct MeshBuilder_t73D46F57E528BF26B22D710789F8E63D0F966A1F_StaticFields
 {
@@ -34960,6 +34954,17 @@ struct SystemDependencyProvider_tA85279DAEAEFAE42C70F6F7090424414FCD68261_Static
 };
 
 // Mono.SystemDependencyProvider
+
+// UnityEngine.TerrainCallbacks
+struct TerrainCallbacks_tE504E6C7F9609FDE7009DFEA9E405218E5212B5C_StaticFields
+{
+	// UnityEngine.TerrainCallbacks/HeightmapChangedCallback UnityEngine.TerrainCallbacks::heightmapChanged
+	HeightmapChangedCallback_tDF97623B4D5F5E1F3F7F75CC922345B098036EC0* ___heightmapChanged_0;
+	// UnityEngine.TerrainCallbacks/TextureChangedCallback UnityEngine.TerrainCallbacks::textureChanged
+	TextureChangedCallback_tA2D79601BF5AFEC6C8674AA03DAD28844CE69D2F* ___textureChanged_1;
+};
+
+// UnityEngine.TerrainCallbacks
 
 // UnityEngine.UIElements.UIR.Tessellation
 struct Tessellation_tA2DF69D94AFEDAF41B90BB1F2C5E23C57BD65A31_StaticFields
@@ -36648,6 +36653,14 @@ struct U3CU3Ec_t04E77827D54CC7D69F04FDFC5A84C3F7392F9A76_StaticFields
 
 // System.Threading.Tasks.TaskToApm/TaskWrapperAsyncResult
 
+// UnityEngine.TerrainUtils.TerrainMap/<>c__DisplayClass3_0
+
+// UnityEngine.TerrainUtils.TerrainMap/<>c__DisplayClass3_0
+
+// UnityEngine.TerrainUtils.TerrainUtility/<>c__DisplayClass2_0
+
+// UnityEngine.TerrainUtils.TerrainUtility/<>c__DisplayClass2_0
+
 // UnityEngine.TextAsset/EncodingUtility
 struct EncodingUtility_t317B92DD3ECBFC6F61B28E1167A9B741A812B70B_StaticFields
 {
@@ -37667,6 +37680,10 @@ struct SystemNetworkCredential_tFBEE5F9E93DECB97C8622974DD2F2EBCB0CBD4FF_StaticF
 };
 
 // System.Net.SystemNetworkCredential
+
+// UnityEngine.TerrainUtils.TerrainTileCoord
+
+// UnityEngine.TerrainUtils.TerrainTileCoord
 
 // UnityEngine.TouchScreenKeyboard_InternalConstructorHelperArguments
 
@@ -39163,10 +39180,6 @@ struct LocalNotification_t0158F4A5883A461286AEAFD1EE1B60272D7ABEDE_StaticFields
 
 // UnityEngine.LogOption
 
-// LogSeverity
-
-// LogSeverity
-
 // UnityEngine.LogType
 
 // UnityEngine.LogType
@@ -39855,6 +39868,10 @@ struct StyleVariableResolver_tB24ACDD043A87F2F2339E1523539739D427B5185_StaticFie
 // UnityEngine.TextCore.Text.TagValueType
 
 // UnityEngine.TextCore.Text.TagValueType
+
+// UnityEngine.TerrainUtils.TerrainMapStatusCode
+
+// UnityEngine.TerrainUtils.TerrainMapStatusCode
 
 // UnityEngine.TextCore.Text.TextAlignment
 
@@ -40980,6 +40997,10 @@ struct Row_t5CAF04F94A4359C08ADDBA867B0817101F351999_StaticFields
 // UnityEngine.Rendering.SupportedRenderingFeatures/ReflectionProbeModes
 
 // UnityEngine.Rendering.SupportedRenderingFeatures/ReflectionProbeModes
+
+// UnityEngine.TerrainData/BoundaryValueType
+
+// UnityEngine.TerrainData/BoundaryValueType
 
 // UnityEngine.UIElements.UIR.Tessellation/Edges
 
@@ -42221,6 +42242,35 @@ struct SupportedRenderingFeatures_t569A94D488395E4967F2CA349DB518EA7BD117A6_Stat
 // System.Net.Sockets.TcpClient
 
 // System.Net.Sockets.TcpClient
+
+// UnityEngine.TerrainData
+struct TerrainData_t615A68EAC648066681875D47FC641496D12F2E24_StaticFields
+{
+	// System.Int32 UnityEngine.TerrainData::k_MaximumResolution
+	int32_t ___k_MaximumResolution_4;
+	// System.Int32 UnityEngine.TerrainData::k_MinimumDetailResolutionPerPatch
+	int32_t ___k_MinimumDetailResolutionPerPatch_5;
+	// System.Int32 UnityEngine.TerrainData::k_MaximumDetailResolutionPerPatch
+	int32_t ___k_MaximumDetailResolutionPerPatch_6;
+	// System.Int32 UnityEngine.TerrainData::k_MaximumDetailPatchCount
+	int32_t ___k_MaximumDetailPatchCount_7;
+	// System.Int32 UnityEngine.TerrainData::k_MaximumDetailsPerRes
+	int32_t ___k_MaximumDetailsPerRes_8;
+	// System.Int32 UnityEngine.TerrainData::k_MinimumAlphamapResolution
+	int32_t ___k_MinimumAlphamapResolution_9;
+	// System.Int32 UnityEngine.TerrainData::k_MaximumAlphamapResolution
+	int32_t ___k_MaximumAlphamapResolution_10;
+	// System.Int32 UnityEngine.TerrainData::k_MinimumBaseMapResolution
+	int32_t ___k_MinimumBaseMapResolution_11;
+	// System.Int32 UnityEngine.TerrainData::k_MaximumBaseMapResolution
+	int32_t ___k_MaximumBaseMapResolution_12;
+};
+
+// UnityEngine.TerrainData
+
+// UnityEngine.TerrainUtils.TerrainMap
+
+// UnityEngine.TerrainUtils.TerrainMap
 
 // UnityEngine.TextEditor
 struct TextEditor_t45128DFCB4C388BF7B8153693C9342D5D2358B27_StaticFields
@@ -44034,10 +44084,6 @@ struct XmlUntypedConverter_tB707BD09CB81865831777481D33D744A4E960703_StaticField
 // System.Net.Sockets.Socket/Int32TaskSocketAsyncEventArgs
 
 // System.Net.Sockets.Socket/Int32TaskSocketAsyncEventArgs
-
-// BuglyInit
-
-// BuglyInit
 
 // DG.Tweening.Core.DOTweenComponent
 
@@ -50347,15 +50393,27 @@ IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable26983[11] =
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable26985[2] = 
 {
 	static_cast<int32_t>(offsetof(Font_tC95270EA3198038970422D78B74A7F2E218A96B6_StaticFields, ___textureRebuilt_4)),static_cast<int32_t>(offsetof(Font_tC95270EA3198038970422D78B74A7F2E218A96B6, ___m_FontTextureRebuildCallback_5)),};
-IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable26987[8] = 
+IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable26992[2] = 
 {
-	static_cast<int32_t>(sizeof(RuntimeObject)),0,0,0,0,0,0,0,};
-IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable26989[13] = 
+	static_cast<int32_t>(offsetof(TerrainCallbacks_tE504E6C7F9609FDE7009DFEA9E405218E5212B5C_StaticFields, ___heightmapChanged_0)),static_cast<int32_t>(offsetof(TerrainCallbacks_tE504E6C7F9609FDE7009DFEA9E405218E5212B5C_StaticFields, ___textureChanged_1)),};
+IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable26993[10] = 
 {
-	static_cast<int32_t>(offsetof(BuglyAgent_tB670C809C75C3BDDB8F140B554A60234343C3D12_StaticFields, ____crashReporterTypeConfiged_0)),static_cast<int32_t>(offsetof(BuglyAgent_tB670C809C75C3BDDB8F140B554A60234343C3D12_StaticFields, ____LogCallbackEventHandler_1)),static_cast<int32_t>(offsetof(BuglyAgent_tB670C809C75C3BDDB8F140B554A60234343C3D12_StaticFields, ____isInitialized_2)),static_cast<int32_t>(offsetof(BuglyAgent_tB670C809C75C3BDDB8F140B554A60234343C3D12_StaticFields, ____autoReportLogLevel_3)),static_cast<int32_t>(offsetof(BuglyAgent_tB670C809C75C3BDDB8F140B554A60234343C3D12_StaticFields, ____crashReporterType_4)),static_cast<int32_t>(offsetof(BuglyAgent_tB670C809C75C3BDDB8F140B554A60234343C3D12_StaticFields, ____crashReproterCustomizedLogLevel_5)),static_cast<int32_t>(offsetof(BuglyAgent_tB670C809C75C3BDDB8F140B554A60234343C3D12_StaticFields, ____debugMode_6)),static_cast<int32_t>(offsetof(BuglyAgent_tB670C809C75C3BDDB8F140B554A60234343C3D12_StaticFields, ____autoQuitApplicationAfterReport_7)),static_cast<int32_t>(offsetof(BuglyAgent_tB670C809C75C3BDDB8F140B554A60234343C3D12_StaticFields, ___EXCEPTION_TYPE_UNCAUGHT_8)),static_cast<int32_t>(offsetof(BuglyAgent_tB670C809C75C3BDDB8F140B554A60234343C3D12_StaticFields, ___EXCEPTION_TYPE_CAUGHT_9)),static_cast<int32_t>(offsetof(BuglyAgent_tB670C809C75C3BDDB8F140B554A60234343C3D12_StaticFields, ____pluginVersion_10)),static_cast<int32_t>(offsetof(BuglyAgent_tB670C809C75C3BDDB8F140B554A60234343C3D12_StaticFields, ____LogCallbackExtrasHandler_11)),static_cast<int32_t>(offsetof(BuglyAgent_tB670C809C75C3BDDB8F140B554A60234343C3D12_StaticFields, ____uncaughtAutoReportOnce_12)),};
-IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable26991[1] = 
+	static_cast<int32_t>(sizeof(RuntimeObject)),0,0,0,0,0,0,0,0,0,};
+IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable26994[9] = 
 {
-	0,};
-IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable26993[2] = 
+	static_cast<int32_t>(offsetof(TerrainData_t615A68EAC648066681875D47FC641496D12F2E24_StaticFields, ___k_MaximumResolution_4)),static_cast<int32_t>(offsetof(TerrainData_t615A68EAC648066681875D47FC641496D12F2E24_StaticFields, ___k_MinimumDetailResolutionPerPatch_5)),static_cast<int32_t>(offsetof(TerrainData_t615A68EAC648066681875D47FC641496D12F2E24_StaticFields, ___k_MaximumDetailResolutionPerPatch_6)),static_cast<int32_t>(offsetof(TerrainData_t615A68EAC648066681875D47FC641496D12F2E24_StaticFields, ___k_MaximumDetailPatchCount_7)),static_cast<int32_t>(offsetof(TerrainData_t615A68EAC648066681875D47FC641496D12F2E24_StaticFields, ___k_MaximumDetailsPerRes_8)),static_cast<int32_t>(offsetof(TerrainData_t615A68EAC648066681875D47FC641496D12F2E24_StaticFields, ___k_MinimumAlphamapResolution_9)),static_cast<int32_t>(offsetof(TerrainData_t615A68EAC648066681875D47FC641496D12F2E24_StaticFields, ___k_MaximumAlphamapResolution_10)),static_cast<int32_t>(offsetof(TerrainData_t615A68EAC648066681875D47FC641496D12F2E24_StaticFields, ___k_MinimumBaseMapResolution_11)),static_cast<int32_t>(offsetof(TerrainData_t615A68EAC648066681875D47FC641496D12F2E24_StaticFields, ___k_MaximumBaseMapResolution_12)),};
+IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable26995[5] = 
 {
-	static_cast<int32_t>(offsetof(MemoryReport_t424F995124C824C4E0E0CF1073E1A04CA4277E46_StaticFields, ___mLastMemoryInMB_0)),static_cast<int32_t>(offsetof(MemoryReport_t424F995124C824C4E0E0CF1073E1A04CA4277E46_StaticFields, ___mMaxMemoryInMB_1)),};
+	static_cast<int32_t>(sizeof(RuntimeObject)),0,0,0,0,};
+IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable26996[2] = 
+{
+	static_cast<int32_t>(offsetof(TerrainTileCoord_t2181DDF40A8A428A84817957CB7FB19A314F4F09, ___tileX_0)) + static_cast<int32_t>(sizeof(RuntimeObject)),static_cast<int32_t>(offsetof(TerrainTileCoord_t2181DDF40A8A428A84817957CB7FB19A314F4F09, ___tileZ_1)) + static_cast<int32_t>(sizeof(RuntimeObject)),};
+IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable26997[1] = 
+{
+	static_cast<int32_t>(offsetof(U3CU3Ec__DisplayClass3_0_t5A3BA129A3DFF96B5C0658B95E1ED4A678218CC3, ___groupID_0)),};
+IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable26998[3] = 
+{
+	static_cast<int32_t>(offsetof(TerrainMap_t6E07590E3151F47FFC6D5536635AC428ABDA79EB, ___m_patchSize_0)),static_cast<int32_t>(offsetof(TerrainMap_t6E07590E3151F47FFC6D5536635AC428ABDA79EB, ___m_errorCode_1)),static_cast<int32_t>(offsetof(TerrainMap_t6E07590E3151F47FFC6D5536635AC428ABDA79EB, ___m_terrainTiles_2)),};
+IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable26999[1] = 
+{
+	static_cast<int32_t>(offsetof(U3CU3Ec__DisplayClass2_0_t0E9CE80E29A8238529BFBB9FCD0C8D0AAD68A57E, ___onlyAutoConnectedTerrains_0)),};

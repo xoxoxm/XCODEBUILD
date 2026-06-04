@@ -28,8 +28,8 @@ struct Action_2_t6AAF2E215E74E16A4EEF0A0749A4A325D99F5BA6;
 struct Action_3_t4730167C8E7EB19F1E0034580790A915D549F6CB;
 // System.Collections.Generic.Dictionary`2<System.String,System.String>
 struct Dictionary_2_t46B2DB028096FA2B828359E52F37F3105A83AD83;
-// System.Collections.Generic.Dictionary`2<UnityEngine.TerrainUtils.TerrainTileCoord,UnityEngine.Terrain>
-struct Dictionary_2_t5C5FBA59FA0804C53874B619629A7AF7EA74A119;
+// System.Func`1<System.Collections.Generic.Dictionary`2<System.String,System.String>>
+struct Func_1_tDF56F0FBA686CAC5C4C234A701F97D1FCBB2C627;
 // System.Func`1<System.Collections.Generic.KeyValuePair`2<System.Int32,UnityEngine.Vector2>>
 struct Func_1_tF5F7F5DCF1679E08B2536581A6E1EEF5529155C9;
 // System.Func`2<UnityEngineInternal.Input.NativeInputUpdateType,System.Boolean>
@@ -70,6 +70,8 @@ struct HitInfoU5BU5D_tDAE7DF0D2B0BE3EB2FD25FB4418704E27A2BF1D5;
 struct Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07;
 // UnityEngine.AnimationCurve
 struct AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354;
+// System.AsyncCallback
+struct AsyncCallback_t7FEF460CBDCFB9C5FA2EF776984778B9A4145F4C;
 // UnityEngine.Experimental.Audio.AudioSampleProvider
 struct AudioSampleProvider_t602353124A2F6F2AEC38E56C3C21932344F712E2;
 // UnityEngine.Camera
@@ -80,6 +82,8 @@ struct CanvasGroup_t048C1461B14628CFAEBE6E7353093ADB04EBC094;
 struct DelegateData_t9B286B493293CD2D23A5B2B5EF0E5B1324C2B77E;
 // UnityEngine.GameObject
 struct GameObject_t76FEDD663AB33C991A9C9A23129337651094216F;
+// System.IAsyncResult
+struct IAsyncResult_t7B9B5A0ECB35DCEC31B8A8122C37D687369253B5;
 // System.Collections.IDictionary
 struct IDictionary_t6D03155AF1FA9083817AA5B6AD7DEEACC26AB220;
 // ILogger
@@ -148,14 +152,12 @@ struct PCMSetPositionCallback_t8D7135A2FB40647CAEC93F5254AD59E18DEB6072;
 struct SampleFramesHandler_tFE84FF9BBCEFB880D46227188F375BEF680AAA30;
 // UnityEngine.AudioSettings/AudioConfigurationChangeHandler
 struct AudioConfigurationChangeHandler_tE071B0CBA3B3A77D3E41F5FCB65B4017885B3177;
+// BuglyAgent/LogCallbackDelegate
+struct LogCallbackDelegate_tD05D9B1265EFB62EE6521DDD4774393E72A8E051;
 // UnityEngine.AI.NavMesh/OnNavMeshPreUpdate
 struct OnNavMeshPreUpdate_t332BD19DBCB087D7DE3F4F48C1E8F6A4EAB691C7;
 // UnityEngine.RemoteSettings/UpdatedEventHandler
 struct UpdatedEventHandler_tB0D5A5BA322FE093894992C29DCF51E7E12579C4;
-// UnityEngine.TerrainCallbacks/HeightmapChangedCallback
-struct HeightmapChangedCallback_tDF97623B4D5F5E1F3F7F75CC922345B098036EC0;
-// UnityEngine.TerrainCallbacks/TextureChangedCallback
-struct TextureChangedCallback_tA2D79601BF5AFEC6C8674AA03DAD28844CE69D2F;
 // UnityEngine.TerrainUtils.TerrainUtility/<>c__DisplayClass2_0
 struct U3CU3Ec__DisplayClass2_0_t0E9CE80E29A8238529BFBB9FCD0C8D0AAD68A57E;
 // UnityEngine.Video.VideoPlayer/ErrorEventHandler
@@ -183,6 +185,11 @@ IL2CPP_EXTERN_C_END
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
+
+// <Module>
+struct U3CModuleU3E_tF062866229C4952B8051AD32AB6E9D931142CC95 
+{
+};
 
 // <Module>
 struct U3CModuleU3E_tDF5F35880482E11ACEA8D0B2923FA20A56CB455F 
@@ -328,6 +335,16 @@ struct AudioSettings_t66C4BCA1E463B061E2EC9063FB882ACED20D47BD  : public Runtime
 {
 };
 
+// BuglyAgent
+struct BuglyAgent_tB670C809C75C3BDDB8F140B554A60234343C3D12  : public RuntimeObject
+{
+};
+
+// BuglyCallback
+struct BuglyCallback_t81F72172BC44DA604552B3E70B01BBA272206E23  : public RuntimeObject
+{
+};
+
 // UnityEngine.CameraRaycastHelper
 struct CameraRaycastHelper_tEF8B5EE50B6F5141652EAAF44A77E8B3621FE455  : public RuntimeObject
 {
@@ -380,6 +397,11 @@ struct Internal_SubsystemDescriptors_t087D53EE6F9D7AAEA9E38D42AF436C952DF7936F  
 
 // UnityEngine.JsonUtility
 struct JsonUtility_t731013D97E03B7EDAE6186D6D6826A53B85F7197  : public RuntimeObject
+{
+};
+
+// iOSUtility.MemoryReport
+struct MemoryReport_t424F995124C824C4E0E0CF1073E1A04CA4277E46  : public RuntimeObject
 {
 };
 
@@ -467,11 +489,6 @@ struct SubsystemWithProvider_tC72E35EE2D413A4B0635B058154BABF265F31242  : public
 {
 };
 
-// UnityEngine.TerrainCallbacks
-struct TerrainCallbacks_tE504E6C7F9609FDE7009DFEA9E405218E5212B5C  : public RuntimeObject
-{
-};
-
 // UnityEngine.TerrainUtils.TerrainUtility
 struct TerrainUtility_t2033CBF4E86976650C0371A424B6BDD6B051451D  : public RuntimeObject
 {
@@ -530,6 +547,11 @@ struct ZipFileExtensions_t06E75DEE7D8E222C1E0E563C2393652E251FD218  : public Run
 
 // System.__Il2CppComDelegate
 struct __Il2CppComDelegate_tD0DD2BBA6AC8F151D32B6DFD02F6BDA339F8DC4D  : public Il2CppComObject
+{
+};
+
+// iOSConfigureLibGC
+struct iOSConfigureLibGC_t24E8B7AD284EC6A9B23510832BD916A93B07FDF9  : public RuntimeObject
 {
 };
 
@@ -641,20 +663,6 @@ struct U3CU3Ec__DisplayClasse_t3251C32B0D5FC54383208FCA43DC383C3A13994B  : publi
 {
 	// UnityEngine.UI.Image DG.Tweening.ShortcutExtensions46/<>c__DisplayClasse::target
 	Image_tBC1D03F63BF71132E9A5E472B8742F172A011E7E* ___target_0;
-};
-
-// UnityEngine.TerrainUtils.TerrainMap/<>c__DisplayClass3_0
-struct U3CU3Ec__DisplayClass3_0_t5A3BA129A3DFF96B5C0658B95E1ED4A678218CC3  : public RuntimeObject
-{
-	// System.Int32 UnityEngine.TerrainUtils.TerrainMap/<>c__DisplayClass3_0::groupID
-	int32_t ___groupID_0;
-};
-
-// UnityEngine.TerrainUtils.TerrainUtility/<>c__DisplayClass2_0
-struct U3CU3Ec__DisplayClass2_0_t0E9CE80E29A8238529BFBB9FCD0C8D0AAD68A57E  : public RuntimeObject
-{
-	// System.Boolean UnityEngine.TerrainUtils.TerrainUtility/<>c__DisplayClass2_0::onlyAutoConnectedTerrains
-	bool ___onlyAutoConnectedTerrains_0;
 };
 
 // UnityEngine.TerrainUtils.TerrainUtility/<>c__DisplayClass2_1
@@ -955,15 +963,6 @@ struct RequiredByNativeCodeAttribute_t86B11F2BA12BB463CE3258E64E16B43484014FCA  
 	bool ___U3COptionalU3Ek__BackingField_1;
 	// System.Boolean UnityEngine.Scripting.RequiredByNativeCodeAttribute::<GenerateProxy>k__BackingField
 	bool ___U3CGenerateProxyU3Ek__BackingField_2;
-};
-
-// UnityEngine.TerrainUtils.TerrainTileCoord
-struct TerrainTileCoord_t2181DDF40A8A428A84817957CB7FB19A314F4F09 
-{
-	// System.Int32 UnityEngine.TerrainUtils.TerrainTileCoord::tileX
-	int32_t ___tileX_0;
-	// System.Int32 UnityEngine.TerrainUtils.TerrainTileCoord::tileZ
-	int32_t ___tileZ_1;
 };
 
 // UnityEngine.ThreadAndSerializationSafeAttribute
@@ -1416,6 +1415,20 @@ struct IntegratedSubsystemDescriptor_t9232963B842E01748A8E032928DC8E35DF00C10D_m
 	intptr_t ___m_Ptr_0;
 };
 
+// LogSeverity
+struct LogSeverity_tDFF14151862ADE8249E4A0517B70F4F94907FDE1 
+{
+	// System.Int32 LogSeverity::value__
+	int32_t ___value___2;
+};
+
+// UnityEngine.LogType
+struct LogType_t9CC0F1B620DFBF3A01E8C2D2316A850D745EF331 
+{
+	// System.Int32 UnityEngine.LogType::value__
+	int32_t ___value___2;
+};
+
 // DG.Tweening.LoopType
 struct LoopType_t3128AD2C907BAF825D244B38F274987C1AA08FE5 
 {
@@ -1532,13 +1545,6 @@ struct StaticAccessorType_tF6A5EE60B92B64C8D7B8B7EA2B3DD226440FAFCD
 struct TargetType_tA9EF51A449A4E7FC6D6E04F9F64D4AA62D4D44EC 
 {
 	// System.Int32 UnityEngine.Bindings.TargetType::value__
-	int32_t ___value___2;
-};
-
-// UnityEngine.TerrainUtils.TerrainMapStatusCode
-struct TerrainMapStatusCode_t5F36434C02953C1E58623F2E3A41D7B5FC8ADCA8 
-{
-	// System.Int32 UnityEngine.TerrainUtils.TerrainMapStatusCode::value__
 	int32_t ___value___2;
 };
 
@@ -1711,13 +1717,6 @@ struct Tag_t65C719EEBD4BD6BC3814607DC26A76E97D24E034
 	int32_t ___value___2;
 };
 
-// UnityEngine.TerrainData/BoundaryValueType
-struct BoundaryValueType_t2B2F2E941A2F5A0411741220B4700D421279EF67 
-{
-	// System.Int32 UnityEngine.TerrainData/BoundaryValueType::value__
-	int32_t ___value___2;
-};
-
 // UnityEngine.Tilemaps.Tile/ColliderType
 struct ColliderType_t4C26FB284A330CAD69E47FFD734C9C778E077692 
 {
@@ -1883,22 +1882,6 @@ struct StaticAccessorAttribute_tDE194716AED7A414D473DC570B2E0035A5CE130A  : publ
 // System.SystemException
 struct SystemException_tCC48D868298F4C0705279823E34B00F4FBDB7295  : public Exception_t
 {
-};
-
-// UnityEngine.TerrainData
-struct TerrainData_t615A68EAC648066681875D47FC641496D12F2E24  : public Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C
-{
-};
-
-// UnityEngine.TerrainUtils.TerrainMap
-struct TerrainMap_t6E07590E3151F47FFC6D5536635AC428ABDA79EB  : public RuntimeObject
-{
-	// UnityEngine.Vector3 UnityEngine.TerrainUtils.TerrainMap::m_patchSize
-	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___m_patchSize_0;
-	// UnityEngine.TerrainUtils.TerrainMapStatusCode UnityEngine.TerrainUtils.TerrainMap::m_errorCode
-	int32_t ___m_errorCode_1;
-	// System.Collections.Generic.Dictionary`2<UnityEngine.TerrainUtils.TerrainTileCoord,UnityEngine.Terrain> UnityEngine.TerrainUtils.TerrainMap::m_terrainTiles
-	Dictionary_2_t5C5FBA59FA0804C53874B619629A7AF7EA74A119* ___m_terrainTiles_2;
 };
 
 // UnityEngine.Tilemaps.TileData
@@ -2076,6 +2059,11 @@ struct AudioConfigurationChangeHandler_tE071B0CBA3B3A77D3E41F5FCB65B4017885B3177
 {
 };
 
+// BuglyAgent/LogCallbackDelegate
+struct LogCallbackDelegate_tD05D9B1265EFB62EE6521DDD4774393E72A8E051  : public MulticastDelegate_t
+{
+};
+
 // UnityEngine.AI.NavMesh/OnNavMeshPreUpdate
 struct OnNavMeshPreUpdate_t332BD19DBCB087D7DE3F4F48C1E8F6A4EAB691C7  : public MulticastDelegate_t
 {
@@ -2230,6 +2218,11 @@ struct AudioListener_t1D629CE9BC079C8ECDE8F822616E8A8E319EAE35  : public AudioBe
 
 // UnityEngine.AudioSource
 struct AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299  : public AudioBehaviour_t2DC0BEF7B020C952F3D2DA5AAAC88501C7EEB941
+{
+};
+
+// BuglyInit
+struct BuglyInit_t6DF4B47F02AAEC62F4600C5513BDD074600F0977  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
 {
 };
 
@@ -2423,6 +2416,10 @@ struct DOTweenPath_t85303F1DE03EB091CAEC5489D5CDF051ACAED2FF  : public ABSAnimat
 
 // <Module>
 
+// <Module>
+
+// <Module>
+
 // UnityEngine.Analytics.AnalyticsSessionInfo
 struct AnalyticsSessionInfo_tDE8F7A9E13EF9723E2D975F76E916753DA61AD76_StaticFields
 {
@@ -2450,6 +2447,43 @@ struct AudioSettings_t66C4BCA1E463B061E2EC9063FB882ACED20D47BD_StaticFields
 };
 
 // UnityEngine.AudioSettings
+
+// BuglyAgent
+struct BuglyAgent_tB670C809C75C3BDDB8F140B554A60234343C3D12_StaticFields
+{
+	// System.Boolean BuglyAgent::_crashReporterTypeConfiged
+	bool ____crashReporterTypeConfiged_0;
+	// BuglyAgent/LogCallbackDelegate BuglyAgent::_LogCallbackEventHandler
+	LogCallbackDelegate_tD05D9B1265EFB62EE6521DDD4774393E72A8E051* ____LogCallbackEventHandler_1;
+	// System.Boolean BuglyAgent::_isInitialized
+	bool ____isInitialized_2;
+	// LogSeverity BuglyAgent::_autoReportLogLevel
+	int32_t ____autoReportLogLevel_3;
+	// System.Int32 BuglyAgent::_crashReporterType
+	int32_t ____crashReporterType_4;
+	// System.Int32 BuglyAgent::_crashReproterCustomizedLogLevel
+	int32_t ____crashReproterCustomizedLogLevel_5;
+	// System.Boolean BuglyAgent::_debugMode
+	bool ____debugMode_6;
+	// System.Boolean BuglyAgent::_autoQuitApplicationAfterReport
+	bool ____autoQuitApplicationAfterReport_7;
+	// System.Int32 BuglyAgent::EXCEPTION_TYPE_UNCAUGHT
+	int32_t ___EXCEPTION_TYPE_UNCAUGHT_8;
+	// System.Int32 BuglyAgent::EXCEPTION_TYPE_CAUGHT
+	int32_t ___EXCEPTION_TYPE_CAUGHT_9;
+	// System.String BuglyAgent::_pluginVersion
+	String_t* ____pluginVersion_10;
+	// System.Func`1<System.Collections.Generic.Dictionary`2<System.String,System.String>> BuglyAgent::_LogCallbackExtrasHandler
+	Func_1_tDF56F0FBA686CAC5C4C234A701F97D1FCBB2C627* ____LogCallbackExtrasHandler_11;
+	// System.Boolean BuglyAgent::_uncaughtAutoReportOnce
+	bool ____uncaughtAutoReportOnce_12;
+};
+
+// BuglyAgent
+
+// BuglyCallback
+
+// BuglyCallback
 
 // UnityEngine.CameraRaycastHelper
 
@@ -2499,6 +2533,17 @@ struct Debugger_tC6D2E5E813B12AE0ED84458A6AEB0328F4A2D6BD_StaticFields
 // UnityEngine.JsonUtility
 
 // UnityEngine.JsonUtility
+
+// iOSUtility.MemoryReport
+struct MemoryReport_t424F995124C824C4E0E0CF1073E1A04CA4277E46_StaticFields
+{
+	// System.Int32 iOSUtility.MemoryReport::mLastMemoryInMB
+	int32_t ___mLastMemoryInMB_0;
+	// System.Int32 iOSUtility.MemoryReport::mMaxMemoryInMB
+	int32_t ___mMaxMemoryInMB_1;
+};
+
+// iOSUtility.MemoryReport
 
 // MyExtensionMethods
 struct MyExtensionMethods_t313F32175F3DAA6F89BAFB2C2C01A9B787BD8B9E_StaticFields
@@ -2646,17 +2691,6 @@ struct SubsystemManager_t9A7261E4D0B53B996F04B8707D8E1C33AB65E824_StaticFields
 
 // UnityEngine.SubsystemsImplementation.SubsystemWithProvider
 
-// UnityEngine.TerrainCallbacks
-struct TerrainCallbacks_tE504E6C7F9609FDE7009DFEA9E405218E5212B5C_StaticFields
-{
-	// UnityEngine.TerrainCallbacks/HeightmapChangedCallback UnityEngine.TerrainCallbacks::heightmapChanged
-	HeightmapChangedCallback_tDF97623B4D5F5E1F3F7F75CC922345B098036EC0* ___heightmapChanged_0;
-	// UnityEngine.TerrainCallbacks/TextureChangedCallback UnityEngine.TerrainCallbacks::textureChanged
-	TextureChangedCallback_tA2D79601BF5AFEC6C8674AA03DAD28844CE69D2F* ___textureChanged_1;
-};
-
-// UnityEngine.TerrainCallbacks
-
 // UnityEngine.TerrainUtils.TerrainUtility
 
 // UnityEngine.TerrainUtils.TerrainUtility
@@ -2694,6 +2728,10 @@ struct XRDevice_tD076A68EFE413B3EEEEA362BE0364A488B58F194_StaticFields
 // System.__Il2CppComDelegate
 
 // System.__Il2CppComDelegate
+
+// iOSConfigureLibGC
+
+// iOSConfigureLibGC
 
 // UnityEngine.AudioSettings/Mobile
 struct Mobile_t304A73480DF447472BDB16BA19A9E4FE2C8CB2DD_StaticFields
@@ -2768,14 +2806,6 @@ struct Mobile_t304A73480DF447472BDB16BA19A9E4FE2C8CB2DD_StaticFields
 
 // DG.Tweening.ShortcutExtensions46/<>c__DisplayClasse
 
-// UnityEngine.TerrainUtils.TerrainMap/<>c__DisplayClass3_0
-
-// UnityEngine.TerrainUtils.TerrainMap/<>c__DisplayClass3_0
-
-// UnityEngine.TerrainUtils.TerrainUtility/<>c__DisplayClass2_0
-
-// UnityEngine.TerrainUtils.TerrainUtility/<>c__DisplayClass2_0
-
 // UnityEngine.TerrainUtils.TerrainUtility/<>c__DisplayClass2_1
 
 // UnityEngine.TerrainUtils.TerrainUtility/<>c__DisplayClass2_1
@@ -2851,10 +2881,6 @@ struct Mobile_t304A73480DF447472BDB16BA19A9E4FE2C8CB2DD_StaticFields
 // UnityEngine.Scripting.RequiredByNativeCodeAttribute
 
 // UnityEngine.Scripting.RequiredByNativeCodeAttribute
-
-// UnityEngine.TerrainUtils.TerrainTileCoord
-
-// UnityEngine.TerrainUtils.TerrainTileCoord
 
 // UnityEngine.ThreadAndSerializationSafeAttribute
 
@@ -2944,6 +2970,10 @@ struct Mobile_t304A73480DF447472BDB16BA19A9E4FE2C8CB2DD_StaticFields
 
 // UnityEngine.IntegratedSubsystemDescriptor
 
+// LogSeverity
+
+// LogSeverity
+
 // UnityEngineInternal.Input.NativeInputUpdateType
 
 // UnityEngineInternal.Input.NativeInputUpdateType
@@ -2967,10 +2997,6 @@ struct Mobile_t304A73480DF447472BDB16BA19A9E4FE2C8CB2DD_StaticFields
 // UnityEngine.Bindings.TargetType
 
 // UnityEngine.Bindings.TargetType
-
-// UnityEngine.TerrainUtils.TerrainMapStatusCode
-
-// UnityEngine.TerrainUtils.TerrainMapStatusCode
 
 // UnityEngine.Bindings.ThreadSafeAttribute
 
@@ -3040,10 +3066,6 @@ struct Mobile_t304A73480DF447472BDB16BA19A9E4FE2C8CB2DD_StaticFields
 
 // UnityEngine.RemoteConfigSettingsHelper/Tag
 
-// UnityEngine.TerrainData/BoundaryValueType
-
-// UnityEngine.TerrainData/BoundaryValueType
-
 // UnityEngine.Tilemaps.Tile/ColliderType
 
 // UnityEngine.Tilemaps.Tile/ColliderType
@@ -3087,35 +3109,6 @@ struct Mobile_t304A73480DF447472BDB16BA19A9E4FE2C8CB2DD_StaticFields
 // UnityEngine.Bindings.StaticAccessorAttribute
 
 // UnityEngine.Bindings.StaticAccessorAttribute
-
-// UnityEngine.TerrainData
-struct TerrainData_t615A68EAC648066681875D47FC641496D12F2E24_StaticFields
-{
-	// System.Int32 UnityEngine.TerrainData::k_MaximumResolution
-	int32_t ___k_MaximumResolution_4;
-	// System.Int32 UnityEngine.TerrainData::k_MinimumDetailResolutionPerPatch
-	int32_t ___k_MinimumDetailResolutionPerPatch_5;
-	// System.Int32 UnityEngine.TerrainData::k_MaximumDetailResolutionPerPatch
-	int32_t ___k_MaximumDetailResolutionPerPatch_6;
-	// System.Int32 UnityEngine.TerrainData::k_MaximumDetailPatchCount
-	int32_t ___k_MaximumDetailPatchCount_7;
-	// System.Int32 UnityEngine.TerrainData::k_MaximumDetailsPerRes
-	int32_t ___k_MaximumDetailsPerRes_8;
-	// System.Int32 UnityEngine.TerrainData::k_MinimumAlphamapResolution
-	int32_t ___k_MinimumAlphamapResolution_9;
-	// System.Int32 UnityEngine.TerrainData::k_MaximumAlphamapResolution
-	int32_t ___k_MaximumAlphamapResolution_10;
-	// System.Int32 UnityEngine.TerrainData::k_MinimumBaseMapResolution
-	int32_t ___k_MinimumBaseMapResolution_11;
-	// System.Int32 UnityEngine.TerrainData::k_MaximumBaseMapResolution
-	int32_t ___k_MaximumBaseMapResolution_12;
-};
-
-// UnityEngine.TerrainData
-
-// UnityEngine.TerrainUtils.TerrainMap
-
-// UnityEngine.TerrainUtils.TerrainMap
 
 // UnityEngine.Tilemaps.TileData
 struct TileData_tFB814629D010ABD175127C0BE96FD96EA606E00F_StaticFields
@@ -3206,6 +3199,10 @@ struct VisualEffectAsset_t0CD57FD9980CD68033BD96DA356697F92A69E688_StaticFields
 
 // UnityEngine.AudioSettings/AudioConfigurationChangeHandler
 
+// BuglyAgent/LogCallbackDelegate
+
+// BuglyAgent/LogCallbackDelegate
+
 // UnityEngine.AI.NavMesh/OnNavMeshPreUpdate
 
 // UnityEngine.AI.NavMesh/OnNavMeshPreUpdate
@@ -3273,6 +3270,10 @@ struct VisualEffectAsset_t0CD57FD9980CD68033BD96DA356697F92A69E688_StaticFields
 // UnityEngine.AudioSource
 
 // UnityEngine.AudioSource
+
+// BuglyInit
+
+// BuglyInit
 
 // DG.Tweening.DOTweenVisualManager
 
@@ -3301,43 +3302,43 @@ struct VisualEffectAsset_t0CD57FD9980CD68033BD96DA356697F92A69E688_StaticFields
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27000;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize27000 = { sizeof(TerrainCallbacks_tE504E6C7F9609FDE7009DFEA9E405218E5212B5C), -1, sizeof(TerrainCallbacks_tE504E6C7F9609FDE7009DFEA9E405218E5212B5C_StaticFields), 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize27000 = { sizeof(U3CU3Ec__DisplayClass2_1_t550F5BA64A779BA6B1FDFAC1457F462892D2A951), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27001;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize27001 = { sizeof(int32_t)+ sizeof(RuntimeObject), sizeof(int32_t), 0, 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize27001 = { sizeof(TerrainUtility_t2033CBF4E86976650C0371A424B6BDD6B051451D), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27002;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize27002 = { sizeof(TerrainData_t615A68EAC648066681875D47FC641496D12F2E24), -1, sizeof(TerrainData_t615A68EAC648066681875D47FC641496D12F2E24_StaticFields), 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize27002 = { sizeof(U3CModuleU3E_t941B0EB06FD57B79F043CCA70C8AA4C0B3FB68E7), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27003;
 const Il2CppTypeDefinitionSizes g_typeDefinitionSize27003 = { sizeof(int32_t)+ sizeof(RuntimeObject), sizeof(int32_t), 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27004;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize27004 = { sizeof(TerrainTileCoord_t2181DDF40A8A428A84817957CB7FB19A314F4F09)+ sizeof(RuntimeObject), sizeof(TerrainTileCoord_t2181DDF40A8A428A84817957CB7FB19A314F4F09), 0, 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize27004 = { sizeof(int32_t)+ sizeof(RuntimeObject), sizeof(int32_t), 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27005;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize27005 = { sizeof(U3CU3Ec__DisplayClass3_0_t5A3BA129A3DFF96B5C0658B95E1ED4A678218CC3), -1, 0, 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize27005 = { sizeof(int32_t)+ sizeof(RuntimeObject), sizeof(int32_t), 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27006;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize27006 = { sizeof(TerrainMap_t6E07590E3151F47FFC6D5536635AC428ABDA79EB), -1, 0, 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize27006 = { sizeof(Touch_t03E51455ED508492B3F278903A0114FA0E87B417)+ sizeof(RuntimeObject), sizeof(Touch_t03E51455ED508492B3F278903A0114FA0E87B417), 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27007;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize27007 = { sizeof(U3CU3Ec__DisplayClass2_0_t0E9CE80E29A8238529BFBB9FCD0C8D0AAD68A57E), -1, 0, 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize27007 = { sizeof(CameraRaycastHelper_tEF8B5EE50B6F5141652EAAF44A77E8B3621FE455), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27008;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize27008 = { sizeof(U3CU3Ec__DisplayClass2_1_t550F5BA64A779BA6B1FDFAC1457F462892D2A951), -1, 0, 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize27008 = { sizeof(Input_t47D83E2A50E6AF7F8A47AA06FBEF9EBE6BBC22BB), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27009;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize27009 = { sizeof(TerrainUtility_t2033CBF4E86976650C0371A424B6BDD6B051451D), -1, 0, 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize27009 = { sizeof(HitInfo_t34AF939575E1C059D581AB7ED8F039BCFFC70314)+ sizeof(RuntimeObject), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27010;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize27010 = { sizeof(U3CModuleU3E_t941B0EB06FD57B79F043CCA70C8AA4C0B3FB68E7), -1, 0, 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize27010 = { sizeof(SendMouseEvents_t30F6848ABBD277C51340A02CF6664B8D6183EC39), -1, sizeof(SendMouseEvents_t30F6848ABBD277C51340A02CF6664B8D6183EC39_StaticFields), 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27011;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize27011 = { sizeof(int32_t)+ sizeof(RuntimeObject), sizeof(int32_t), 0, 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize27011 = { sizeof(U3CModuleU3E_tF062866229C4952B8051AD32AB6E9D931142CC95), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27012;
 const Il2CppTypeDefinitionSizes g_typeDefinitionSize27012 = { sizeof(int32_t)+ sizeof(RuntimeObject), sizeof(int32_t), 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27013;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize27013 = { sizeof(int32_t)+ sizeof(RuntimeObject), sizeof(int32_t), 0, 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize27013 = { sizeof(LogCallbackDelegate_tD05D9B1265EFB62EE6521DDD4774393E72A8E051), sizeof(Il2CppMethodPointer), 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27014;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize27014 = { sizeof(Touch_t03E51455ED508492B3F278903A0114FA0E87B417)+ sizeof(RuntimeObject), sizeof(Touch_t03E51455ED508492B3F278903A0114FA0E87B417), 0, 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize27014 = { sizeof(BuglyAgent_tB670C809C75C3BDDB8F140B554A60234343C3D12), -1, sizeof(BuglyAgent_tB670C809C75C3BDDB8F140B554A60234343C3D12_StaticFields), 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27015;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize27015 = { sizeof(CameraRaycastHelper_tEF8B5EE50B6F5141652EAAF44A77E8B3621FE455), -1, 0, 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize27015 = { sizeof(BuglyCallback_t81F72172BC44DA604552B3E70B01BBA272206E23), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27016;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize27016 = { sizeof(Input_t47D83E2A50E6AF7F8A47AA06FBEF9EBE6BBC22BB), -1, 0, 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize27016 = { sizeof(BuglyInit_t6DF4B47F02AAEC62F4600C5513BDD074600F0977), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27017;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize27017 = { sizeof(HitInfo_t34AF939575E1C059D581AB7ED8F039BCFFC70314)+ sizeof(RuntimeObject), -1, 0, 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize27017 = { sizeof(iOSConfigureLibGC_t24E8B7AD284EC6A9B23510832BD916A93B07FDF9), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27018;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize27018 = { sizeof(SendMouseEvents_t30F6848ABBD277C51340A02CF6664B8D6183EC39), -1, sizeof(SendMouseEvents_t30F6848ABBD277C51340A02CF6664B8D6183EC39_StaticFields), 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize27018 = { sizeof(MemoryReport_t424F995124C824C4E0E0CF1073E1A04CA4277E46), -1, sizeof(MemoryReport_t424F995124C824C4E0E0CF1073E1A04CA4277E46_StaticFields), 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27019;
 const Il2CppTypeDefinitionSizes g_typeDefinitionSize27019 = { sizeof(U3CModuleU3E_t416C1B54F702B9F0B5C7C848BFDFA85A9E90F443), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize27020;
