@@ -281,8 +281,6 @@ struct Action_1_t69EB809689C3300D989936532C8164C61EC80E03;
 struct Action_1_t310F18CB4338A2740CA701F160C62E2C3198E66A;
 // System.Action`1<YouMe.StatusCode>
 struct Action_1_t41BC5D7F3CB983F5216E4286341B047B10443084;
-// System.Action`1<System.String>
-struct Action_1_t3CB5D1A819C3ED3F99E9E39F890F18633253949A;
 // System.Action`1<UniWebViewNativeResultPayload>
 struct Action_1_t24386F56CBAE28A0F0FAA4506302F773E0CE2E2C;
 // System.Action`2<YIMEngine.ChatType,System.String>
@@ -1101,8 +1099,6 @@ struct YIMBehaviour_t449B1DF69D7C3C17DA82566AEAD80655C58252B2;
 struct CullStateChangedEvent_t6073CD0D951EC1256BF74B8F9107D68FC89B99B8;
 // UnityEngine.RectTransform/ReapplyDrivenProperties
 struct ReapplyDrivenProperties_t3482EA130A01FF7EE2EEFE37F66A5215D08CFE24;
-// UniWebView/<>c__DisplayClass111_0
-struct U3CU3Ec__DisplayClass111_0_t7AC83E9782CC26AE3165A006060311B430FEF4EE;
 // UniWebView/KeyCodeReceivedDelegate
 struct KeyCodeReceivedDelegate_tBE995869284793C8ABDEF3667F43DDC95C91D288;
 // UniWebView/MessageReceivedDelegate
@@ -1120,7 +1116,6 @@ struct ShouldCloseDelegate_tDC044BA04779D85D429790E489CE2E61745DE6D9;
 // UniWebViewInterface/UnitySendMessageDelegate
 struct UnitySendMessageDelegate_t3F01054CD06334EC7C2D2987692DCA8197D05DE3;
 
-IL2CPP_EXTERN_C RuntimeClass* Action_1_t24386F56CBAE28A0F0FAA4506302F773E0CE2E2C_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Action_2_t15015E7E37A0E1B37D9DE2922C9B49484A5A5D74_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Action_2_t546D1C48539611CBACF941E41EF97323A0E8DE29_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Action_2_t8191E049CCA969997D522B44E7FFE892A6EECA4E_il2cpp_TypeInfo_var;
@@ -1226,7 +1221,6 @@ IL2CPP_EXTERN_C RuntimeClass* StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9
 IL2CPP_EXTERN_C RuntimeClass* TextMessage_t475851D01B3273C9814A470CA7A43388A50306C1_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* TextMessage_tABA0693DF2F017AA113A0ED2685BFD0437A3806F_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* TimeUtil_tA9A6FE6501240B06D086472EB48A7411EE2B43DF_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* U3CU3Ec__DisplayClass111_0_t7AC83E9782CC26AE3165A006060311B430FEF4EE_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CU3Ec__DisplayClass20_0_tC9F8EAB95D5A9AEA58A145AE48E299B9BE6F74D7_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CU3Ec__DisplayClass23_0_tB115858CD1F6BD9F76E80C4CC2B55BA7D3847AEC_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CU3Ec__DisplayClass7_0_t65D2D106ED923B3A34E9F60B27B6A33170F41C8F_il2cpp_TypeInfo_var;
@@ -1244,13 +1238,11 @@ IL2CPP_EXTERN_C String_t* _stringLiteral061A8010D4205A1D21073716210E2F8428BD5E14
 IL2CPP_EXTERN_C String_t* _stringLiteral0B9A36AC355E455668E01710164AC3C80BAE2C16;
 IL2CPP_EXTERN_C String_t* _stringLiteral0E3C4A4E113783E0BF9FDA66C91110A5566B82AE;
 IL2CPP_EXTERN_C String_t* _stringLiteral1130A94A6E26557139444B223D86DCF216658D09;
-IL2CPP_EXTERN_C String_t* _stringLiteral1172A1CEF3378DA89DA639BD09ED58C07EE90C7E;
 IL2CPP_EXTERN_C String_t* _stringLiteral1B49369FB3D81533ACCE4CC50C7A93DE8EE95FBB;
 IL2CPP_EXTERN_C String_t* _stringLiteral1FA13CA565DC9B5105D70A528D26A6FC7A57049E;
 IL2CPP_EXTERN_C String_t* _stringLiteral218F5A08519088A96BE3C1074984C53EA49F1CCA;
 IL2CPP_EXTERN_C String_t* _stringLiteral265E15F1F86F1C766555899D5771CF29055DE75A;
 IL2CPP_EXTERN_C String_t* _stringLiteral304D400932589AB6698AC3233B263A5EF8C1BE0A;
-IL2CPP_EXTERN_C String_t* _stringLiteral33EB4DD410972BEFE9F0A67F8A7FCD8A235E01B7;
 IL2CPP_EXTERN_C String_t* _stringLiteral3BDBF19BEE52D0F6D468D06193E3655A9A4DF9F5;
 IL2CPP_EXTERN_C String_t* _stringLiteral3C2E3A64D0B50D44D4C11C6FD14A4E840F28032B;
 IL2CPP_EXTERN_C String_t* _stringLiteral455A7407451936D30ADA3E76C7EB02A81283BF92;
@@ -1267,22 +1259,17 @@ IL2CPP_EXTERN_C String_t* _stringLiteral6560BCC19EE01496F47CC5EE4DFF2A3F09B1EFF4
 IL2CPP_EXTERN_C String_t* _stringLiteral6A1D52382547009AB732F651FE2CA42F1BBA769A;
 IL2CPP_EXTERN_C String_t* _stringLiteral6B8C38ECA928BDF06897EE449E38727B78F7D8B2;
 IL2CPP_EXTERN_C String_t* _stringLiteral70F0BCC7EC74C51E15554496BE0DB6565EBEEE67;
-IL2CPP_EXTERN_C String_t* _stringLiteral7174781ACA1FA077C93755E54C155E9C90186CFC;
 IL2CPP_EXTERN_C String_t* _stringLiteral738F291E53E97C08DAE378C71EF70A60E31AE900;
 IL2CPP_EXTERN_C String_t* _stringLiteral7B7D33323BA93D25E3749ABC98725558724ACFB3;
 IL2CPP_EXTERN_C String_t* _stringLiteral7C18CF1B37B49917E6D8058AC143814D191A0E21;
 IL2CPP_EXTERN_C String_t* _stringLiteral7CA22DD1BB6A498F7AE46BBBE9230C841E896751;
-IL2CPP_EXTERN_C String_t* _stringLiteral7CB52D6F4A9943E8A23A1AA0CBB183BDE4AC2E7B;
-IL2CPP_EXTERN_C String_t* _stringLiteral7D5A1BC658DA7223D5B3A37EDE7E9A3F1C60C984;
 IL2CPP_EXTERN_C String_t* _stringLiteral7E2CDB796AC0AE13882E39A6F26B9DF2B27D6A30;
 IL2CPP_EXTERN_C String_t* _stringLiteral7E466ED6CA9379CEA196322072EE2D57E81D2A6F;
 IL2CPP_EXTERN_C String_t* _stringLiteral7EF67CAF3681E05C484A06FDBC22B44C14E1963A;
 IL2CPP_EXTERN_C String_t* _stringLiteral7F8C014BD4810CC276D0F9F81A1E759C7B098B1E;
 IL2CPP_EXTERN_C String_t* _stringLiteral8D004CCFB2C7F7062B882865483FF7F4DC36E04E;
-IL2CPP_EXTERN_C String_t* _stringLiteral93B204B4CDC241356AD725235A5C0966C643FAF8;
 IL2CPP_EXTERN_C String_t* _stringLiteralA82D23700F6B0488E16EC900CE9C012B8B8D5EF5;
 IL2CPP_EXTERN_C String_t* _stringLiteralB0D5E7C91F6A2B19CACBDBA3D85F48CDC24A51E8;
-IL2CPP_EXTERN_C String_t* _stringLiteralBAA5A3EA71ED89EC8F8D5755DC9EFFB906291550;
 IL2CPP_EXTERN_C String_t* _stringLiteralBBBF314E11E6D568B78A64E3B00AF2069B7A4111;
 IL2CPP_EXTERN_C String_t* _stringLiteralBC680BF0707BEDCB4A42DAD71D646862150485D8;
 IL2CPP_EXTERN_C String_t* _stringLiteralBD1D70BF883A6B4BE579369691F61A279441950E;
@@ -1291,16 +1278,13 @@ IL2CPP_EXTERN_C String_t* _stringLiteralC18C9BB6DF0D5C60CE5A5D2D3D6111BEB6F8CCEB
 IL2CPP_EXTERN_C String_t* _stringLiteralC4CC144598BD145E00CD6F81EDD805EA5BBA24E6;
 IL2CPP_EXTERN_C String_t* _stringLiteralC8958CD955E48DB95A49B82386149ED32A9DD59B;
 IL2CPP_EXTERN_C String_t* _stringLiteralCCC81426293B91F35B234307120A0683A8E8468A;
-IL2CPP_EXTERN_C String_t* _stringLiteralD0261650E60CCD4DB8E943AFD94028507D700FA6;
 IL2CPP_EXTERN_C String_t* _stringLiteralD2199E4A06060B44700618DF6B43A85D47E229DF;
 IL2CPP_EXTERN_C String_t* _stringLiteralD36877C5F51DFCF27BD6E50EFE17F811114D9198;
-IL2CPP_EXTERN_C String_t* _stringLiteralD3FCE46B907FCCFB1380979FD158061B0542D64D;
 IL2CPP_EXTERN_C String_t* _stringLiteralD6BB3661E0B8AF7D91E3EB869BE4036AE1C39321;
 IL2CPP_EXTERN_C String_t* _stringLiteralDA39A3EE5E6B4B0D3255BFEF95601890AFD80709;
 IL2CPP_EXTERN_C String_t* _stringLiteralDAA6088CBC07EF29554E3B11487E82BA4ABBC7FF;
 IL2CPP_EXTERN_C String_t* _stringLiteralDC99E95A31C8C0EAC33C33DB56D1A26B35DC611D;
 IL2CPP_EXTERN_C String_t* _stringLiteralE13D66222204052CD72B386B0CB59C1DF8A7F323;
-IL2CPP_EXTERN_C String_t* _stringLiteralED6AE4548C7A75D64077C9E1530452184FF92182;
 IL2CPP_EXTERN_C String_t* _stringLiteralF4A0C981689238AFF713117FEFE71DFB9C94E191;
 IL2CPP_EXTERN_C String_t* _stringLiteralF8D6B5E5D1A349370529FE8E7793F6F40FEB98F6;
 IL2CPP_EXTERN_C String_t* _stringLiteralFDCECD9E2C92B72139E3350AD17CEC578B1411DC;
@@ -1309,9 +1293,7 @@ IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponent_TisCanvasGroup_t048C
 IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponent_TisCharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A_m96B48A644EDC97C5C82F154D1FEA551B2E392040_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponent_TisImage_tBC1D03F63BF71132E9A5E472B8742F172A011E7E_mE74EE63C85A63FC34DCFC631BC229207B420BC79_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponent_TisMeshRenderer_t4B7747212F0B88244BB7790C61AE124BFC15BAAE_m0EDA0079FA3617687C4A28623B79A37D618D9CFB_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* Dictionary_2_Add_m42116195150ED3A5F1B337CEDF25923016ADBC98_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Dictionary_2_Add_m50A8FE8BC95C669196990DFCFE67234617B525A9_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* Dictionary_2_Add_m56969FD3A3617318D7E206572E831947FCEFC29B_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Dictionary_2_Add_mA7CE1E0CC899CE4CA0AC326EE676AC40B2846131_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Dictionary_2_Add_mCE0C1B18669067F94AAAAEDC3676A9E29F206F21_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Dictionary_2_Add_mE9498F9147F882FA741FE63A1F457818E60286F0_RuntimeMethod_var;
@@ -1346,7 +1328,6 @@ IL2CPP_EXTERN_C const RuntimeMethod* FBSkillDataTools_Call_TisOffset_1_t4025FBC1
 IL2CPP_EXTERN_C const RuntimeMethod* FBSkillDataTools_Call_TisOffset_1_t8307C5320D79ABD79B001B027554DE3A118EDAA4_m7FAB6E9EE53CB010A299D0AB4E2452FA59C3DE3D_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* FBSkillDataTools_Call_TisOffset_1_tC5D9D59B80CFCE7241497F6352ACA33D5229E5CD_m82492AAA3A433B7D471D82745A70EB7C549B8856_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* FBSkillDataTools_Call_TisVectorOffset_t3A2ED64BEE918CC5047A3DCB8FF84F39689F2083_m1E0E295A55CB185A358B827936B980E519232ACA_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* GameObject_AddComponent_TisUniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3_m108312645BA6B45E74CF02D8747D5371BB70E508_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* GameObject_AddComponent_TisYIMBehaviour_t449B1DF69D7C3C17DA82566AEAD80655C58252B2_m543E90A8591BB55EFEFE4C51390477830E2EDA4F_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* JsonUtility_FromJson_TisUniWebViewNativeResultPayload_tBCA45F38C3C5C0176F51726EE6159FD7C95EC7BB_mD98195B0F136A48C30ABA877F437CDE245885E69_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* List_1_Add_m073B9A8B66BB89257B4C990BD1E6FD24A5399B1C_RuntimeMethod_var;
@@ -1459,7 +1440,6 @@ IL2CPP_EXTERN_C const RuntimeMethod* List_1_get_Item_m2F7638D2BCBC77DF70B6FC8246
 IL2CPP_EXTERN_C const RuntimeMethod* List_1_get_Item_m80C565D2E58E9D1998EEAF3C47E692CD74592E77_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* List_1_get_Item_mABAA1225C8D4151DB5AE6A3FE8129ADAB8746A3F_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Singleton_1_get_instance_mF5EE1855F3B5678B84159DF5CD946068660AA911_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec__DisplayClass111_0_U3CGetHTMLContentU3Eb__0_m9CC6D371FE4022DC14D0E3B12658867CF7E7A5B7_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec__DisplayClass20_0_U3CPlayAudioU3Eb__0_m19A7A4022B34AC5D22A52775246C13FCB777F7D1_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec__DisplayClass23_0_U3CDownloadU3Eb__0_m53B2969CE93CF5BCFBFC5BB243411D1F865FCEEB_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec__DisplayClass7_0_U3CCreateFBSkillDataU3Eb__0_mC5D7800B51215952E795A070F53D47F443A6BC4C_RuntimeMethod_var;
@@ -2764,13 +2744,6 @@ struct U3CU3Ec__DisplayClass7_0_t65D2D106ED923B3A34E9F60B27B6A33170F41C8F  : pub
 	FlatBufferBuilder_t23300BA2CCA2B71FA198DB54732F8694558769E6* ___builder_1;
 	// FBSkillDataTools FBSkillDataTools/<>c__DisplayClass7_0::<>4__this
 	FBSkillDataTools_t5969D5115BB56E533F3CBBB2084600C8DDF51367* ___U3CU3E4__this_2;
-};
-
-// UniWebView/<>c__DisplayClass111_0
-struct U3CU3Ec__DisplayClass111_0_t7AC83E9782CC26AE3165A006060311B430FEF4EE  : public RuntimeObject
-{
-	// System.Action`1<System.String> UniWebView/<>c__DisplayClass111_0::handler
-	Action_1_t3CB5D1A819C3ED3F99E9E39F890F18633253949A* ___handler_0;
 };
 
 // FlatBuffers.Offset`1<FBSkillData.AnimationFrames>
@@ -5596,11 +5569,6 @@ struct Action_1_t41BC5D7F3CB983F5216E4286341B047B10443084  : public MulticastDel
 {
 };
 
-// System.Action`1<System.String>
-struct Action_1_t3CB5D1A819C3ED3F99E9E39F890F18633253949A  : public MulticastDelegate_t
-{
-};
-
 // System.Action`1<UniWebViewNativeResultPayload>
 struct Action_1_t24386F56CBAE28A0F0FAA4506302F773E0CE2E2C  : public MulticastDelegate_t
 {
@@ -7643,10 +7611,6 @@ struct UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_StaticField
 
 // FBSkillDataTools/<>c__DisplayClass7_0
 
-// UniWebView/<>c__DisplayClass111_0
-
-// UniWebView/<>c__DisplayClass111_0
-
 // FlatBuffers.Offset`1<FBSkillData.AnimationFrames>
 
 // FlatBuffers.Offset`1<FBSkillData.AnimationFrames>
@@ -8728,10 +8692,6 @@ struct UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967_StaticFields
 // System.Action`1<YouMe.StatusCode>
 
 // System.Action`1<YouMe.StatusCode>
-
-// System.Action`1<System.String>
-
-// System.Action`1<System.String>
 
 // System.Action`1<UniWebViewNativeResultPayload>
 
@@ -11674,12 +11634,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnityEvent_1__ctor_m75F2CB288BDA04F9CA65
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ExecuteEvents_Execute_TisRuntimeObject_mDC4455B743BE4A6BA46DD741D0E0AB150FF1209A_gshared (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_target, BaseEventData_tE03A848325C0AE8E76C6CA15FD86395EBF83364F* ___1_eventData, EventFunction_1_t297B5C47242D1B98BEC955E2804FA142B43E7927* ___2_functor, const RuntimeMethod* method) ;
 // T UnityEngine.Component::GetComponentInParent<System.Object>()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Component_GetComponentInParent_TisRuntimeObject_m6746D6BB99912B1B509746C993906492F86CD119_gshared (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method) ;
-// T UnityEngine.GameObject::AddComponent<System.Object>()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* GameObject_AddComponent_TisRuntimeObject_m69B93700FACCF372F5753371C6E8FB780800B824_gshared (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, const RuntimeMethod* method) ;
-// System.Void System.Collections.Generic.Dictionary`2<System.Object,System.Object>::Add(TKey,TValue)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2_Add_m93FFFABE8FCE7FA9793F0915E2A8842C7CD0C0C1_gshared (Dictionary_2_t14FE4A752A83D53771C584E4C8D14E01F2AFD7BA* __this, RuntimeObject* ___0_key, RuntimeObject* ___1_value, const RuntimeMethod* method) ;
-// System.Void System.Action`1<System.Object>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_1__ctor_m2E1DFA67718FC1A0B6E5DFEB78831FFE9C059EB4_gshared (Action_1_t6F9EB113EB3F16226AEF811A2744F4111C116C87* __this, RuntimeObject* ___0_object, intptr_t ___1_method, const RuntimeMethod* method) ;
 // System.Boolean System.Collections.Generic.Dictionary`2<System.Object,System.Object>::TryGetValue(TKey,TValue&)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Dictionary_2_TryGetValue_mD15380A4ED7CDEE99EA45881577D26BA9CE1B849_gshared (Dictionary_2_t14FE4A752A83D53771C584E4C8D14E01F2AFD7BA* __this, RuntimeObject* ___0_key, RuntimeObject** ___1_value, const RuntimeMethod* method) ;
 // System.Boolean System.Collections.Generic.Dictionary`2<System.Object,System.Object>::Remove(TKey)
@@ -11700,10 +11654,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* JsonUtility_FromJson_TisRuntim
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Dictionary_2_ContainsKey_m9614D897FE4C4AF2808D8BA89535FF6060823355_gshared (Dictionary_2_t01A465CD199FB14D59FEC2DC7DDE76D2CD0A09F4* __this, uint64_t ___0_key, const RuntimeMethod* method) ;
 // System.Void System.Collections.Generic.Dictionary`2<System.UInt64,System.Object>::Add(TKey,TValue)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2_Add_m780B77D83B69F205D5C14934B23B8D91C79DDCDB_gshared (Dictionary_2_t01A465CD199FB14D59FEC2DC7DDE76D2CD0A09F4* __this, uint64_t ___0_key, RuntimeObject* ___1_value, const RuntimeMethod* method) ;
+// System.Void System.Collections.Generic.Dictionary`2<System.Object,System.Object>::Add(TKey,TValue)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2_Add_m93FFFABE8FCE7FA9793F0915E2A8842C7CD0C0C1_gshared (Dictionary_2_t14FE4A752A83D53771C584E4C8D14E01F2AFD7BA* __this, RuntimeObject* ___0_key, RuntimeObject* ___1_value, const RuntimeMethod* method) ;
 // System.Void System.Collections.Generic.Dictionary`2<System.UInt64,System.Object>::.ctor(System.Int32)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2__ctor_mD9F2D1A3820FA90253E302E940D67EF3BFB789E0_gshared (Dictionary_2_t01A465CD199FB14D59FEC2DC7DDE76D2CD0A09F4* __this, int32_t ___0_capacity, const RuntimeMethod* method) ;
 // System.Void System.Collections.Generic.Dictionary`2<System.Object,System.Object>::.ctor(System.Int32)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2__ctor_mF225F49F6BE54C39563CECD7C693F0AE4F0530E8_gshared (Dictionary_2_t14FE4A752A83D53771C584E4C8D14E01F2AFD7BA* __this, int32_t ___0_capacity, const RuntimeMethod* method) ;
+// T UnityEngine.GameObject::AddComponent<System.Object>()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* GameObject_AddComponent_TisRuntimeObject_m69B93700FACCF372F5753371C6E8FB780800B824_gshared (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, const RuntimeMethod* method) ;
 // System.Boolean System.Collections.Generic.Dictionary`2<System.UInt64,System.Object>::TryGetValue(TKey,TValue&)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Dictionary_2_TryGetValue_m610AC9FAFAA596802CD176D49D81FC2E15278ABF_gshared (Dictionary_2_t01A465CD199FB14D59FEC2DC7DDE76D2CD0A09F4* __this, uint64_t ___0_key, RuntimeObject** ___1_value, const RuntimeMethod* method) ;
 // System.Void System.Action`2<System.Int32Enum,System.Object>::Invoke(T1,T2)
@@ -12030,28 +11988,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Delegate_t* Delegate_Combine_m1F725AEF318BE6F
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Delegate_t* Delegate_Remove_m8B7DD5661308FA972E23CA1CC3FC9CEB355504E3 (Delegate_t* ___0_source, Delegate_t* ___1_value, const RuntimeMethod* method) ;
 // System.Void UniWebView::UpdateFrame()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_UpdateFrame_m0049A0CE214FD09A9A238CB42E05A9BD57C20D49 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, const RuntimeMethod* method) ;
-// System.String UniWebViewNativeListener::get_Name()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3 (UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* __this, const RuntimeMethod* method) ;
-// System.String UniWebViewInterface::GetUrl(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* UniWebViewInterface_GetUrl_m506A3AA4E02FC8EE3ACF78941F13D2C5257D17B1 (String_t* ___0_name, const RuntimeMethod* method) ;
-// UnityEngine.Rect UniWebView::NextFrameRect()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D UniWebView_NextFrameRect_mE2854421CC9760BE504B13E093E8E4ECE13937A7 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, const RuntimeMethod* method) ;
-// System.Single UnityEngine.Rect::get_x()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Rect_get_x_mB267B718E0D067F2BAE31BA477647FBF964916EB (Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D* __this, const RuntimeMethod* method) ;
-// System.Single UnityEngine.Rect::get_y()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Rect_get_y_mC733E8D49F3CE21B2A3D40A1B72D687F22C97F49 (Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D* __this, const RuntimeMethod* method) ;
-// System.Single UnityEngine.Rect::get_width()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Rect_get_width_m620D67551372073C9C32C4C4624C2A5713F7F9A9 (Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D* __this, const RuntimeMethod* method) ;
-// System.Single UnityEngine.Rect::get_height()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Rect_get_height_mE1AA6C6C725CCD2D317BD2157396D3CF7D47C9D8 (Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D* __this, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetFrame(System.String,System.Int32,System.Int32,System.Int32,System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetFrame_m8C049130E9547F81641FD2F46D8B4A1CFBE6F690 (String_t* ___0_name, int32_t ___1_x, int32_t ___2_y, int32_t ___3_width, int32_t ___4_height, const RuntimeMethod* method) ;
 // System.Boolean UnityEngine.Object::op_Equality(UnityEngine.Object,UnityEngine.Object)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_x, Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___1_y, const RuntimeMethod* method) ;
-// UniWebViewLogger UniWebViewLogger::get_Instance()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967* UniWebViewLogger_get_Instance_m050672DA24F144C5243035A0847A1DD3A1D7B94A (const RuntimeMethod* method) ;
-// System.Void UniWebViewLogger::Info(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewLogger_Info_mFB35E56AD91BCB1B186699D78CDE818DA76EB126 (UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967* __this, String_t* ___0_message, const RuntimeMethod* method) ;
 // System.Void UnityEngine.RectTransform::GetWorldCorners(UnityEngine.Vector3[])
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RectTransform_GetWorldCorners_m6E15303C3B065B2F65E0A7F0E0217695564C2E09 (RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* __this, Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* ___0_fourCornersArray, const RuntimeMethod* method) ;
 // T UnityEngine.Component::GetComponentInParent<UnityEngine.Canvas>()
@@ -12061,27 +11999,12 @@ inline Canvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26* Component_GetComponentI
 }
 // UnityEngine.RenderMode UnityEngine.Canvas::get_renderMode()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Canvas_get_renderMode_m1BEF259548C6CAD27E4466F31D20752D246688CC (Canvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26* __this, const RuntimeMethod* method) ;
-// System.Void UniWebViewLogger::Critical(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewLogger_Critical_m7BC1868F4524EDF471C0E4A16ABD6174C6B5009F (UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967* __this, String_t* ___0_message, const RuntimeMethod* method) ;
 // UnityEngine.Vector3 UnityEngine.Camera::WorldToScreenPoint(UnityEngine.Vector3)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Camera_WorldToScreenPoint_m26B4C8945C3B5731F1CC5944CFD96BF17126BAA3 (Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_position, const RuntimeMethod* method) ;
 // System.Int32 UnityEngine.Screen::get_height()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Screen_get_height_m01A3102DE71EE1FBEA51D09D6B0261CF864FE8F9 (const RuntimeMethod* method) ;
 // System.Void UnityEngine.Rect::.ctor(System.Single,System.Single,System.Single,System.Single)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rect__ctor_m18C3033D135097BEE424AAA68D91C706D2647F23 (Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D* __this, float ___0_x, float ___1_y, float ___2_width, float ___3_height, const RuntimeMethod* method) ;
-// System.Void UnityEngine.GameObject::.ctor(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameObject__ctor_m37D512B05D292F954792225E6C6EEE95293A9B88 (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, String_t* ___0_name, const RuntimeMethod* method) ;
-// T UnityEngine.GameObject::AddComponent<UniWebViewNativeListener>()
-inline UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* GameObject_AddComponent_TisUniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3_m108312645BA6B45E74CF02D8747D5371BB70E508 (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, const RuntimeMethod* method)
-{
-	return ((  UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* (*) (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*, const RuntimeMethod*))GameObject_AddComponent_TisRuntimeObject_m69B93700FACCF372F5753371C6E8FB780800B824_gshared)(__this, method);
-}
-// System.Void UnityEngine.Transform::set_parent(UnityEngine.Transform)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transform_set_parent_m9BD5E563B539DD5BEC342736B03F97B38A243234 (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* __this, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_value, const RuntimeMethod* method) ;
-// System.Int32 UnityEngine.Screen::get_width()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Screen_get_width_mF608FF3252213E7EFA1F0D2F744C28110E9E5AC9 (const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::Init(System.String,System.Int32,System.Int32,System.Int32,System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_Init_m5FC69157C5D16E457EEFB8AA5CF8CE2E58F0BE7B (String_t* ___0_name, int32_t ___1_x, int32_t ___2_y, int32_t ___3_width, int32_t ___4_height, const RuntimeMethod* method) ;
 // System.Boolean UniWebView::Show(System.Boolean,UniWebViewTransitionEdge,System.Single,System.Action)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool UniWebView_Show_m372060500755B70480FEE952C98D64DF35E73A2E (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, bool ___0_fade, int32_t ___1_edge, float ___2_duration, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___3_completionHandler, const RuntimeMethod* method) ;
 // System.Boolean System.String::IsNullOrEmpty(System.String)
@@ -12090,127 +12013,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool String_IsNullOrEmpty_mEA9E3FB005AC28FE02
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_Load_m809BDA0DE5FDE104CB2B1C25FD6FD03D103CEEF2 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, String_t* ___0_url, bool ___1_skipEncoding, const RuntimeMethod* method) ;
 // System.Void UniWebView::SetShowToolbar(System.Boolean,System.Boolean,System.Boolean,System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetShowToolbar_m41F06BB5121DB46D27322D7637C797EAC4E1595D (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, bool ___0_show, bool ___1_animated, bool ___2_onTop, bool ___3_adjustInset, const RuntimeMethod* method) ;
-// System.Void UniWebView/OreintationChangedDelegate::Invoke(UniWebView,UnityEngine.ScreenOrientation)
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void OreintationChangedDelegate_Invoke_mFA1B1116C0EA098C02315D0B566192FB26009E89_inline (OreintationChangedDelegate_t37143AB67AC552F9E024A6A8B4226F627AAAA15E* __this, UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* ___0_webView, int32_t ___1_orientation, const RuntimeMethod* method) ;
 // System.Boolean UniWebView::Hide(System.Boolean,UniWebViewTransitionEdge,System.Single,System.Action)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool UniWebView_Hide_m412E6F40DE1A3DDE3771CA3F065B5BEF20CF1EF0 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, bool ___0_fade, int32_t ___1_edge, float ___2_duration, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___3_completionHandler, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::Load(System.String,System.String,System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_Load_mE2F187E2D88BBD53C18AEF6B577B3F25B8C9E503 (String_t* ___0_name, String_t* ___1_url, bool ___2_skipEncoding, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::LoadHTMLString(System.String,System.String,System.String,System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_LoadHTMLString_mE8AAD10CC23CB49111306180A86B05E56183E71E (String_t* ___0_name, String_t* ___1_html, String_t* ___2_baseUrl, bool ___3_skipEncoding, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::Reload(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_Reload_mE1FC04D07862A1DAAA2D0565AA1E743D4EDDF018 (String_t* ___0_name, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::Stop(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_Stop_m650782316C2A2C8E818DF069A15B753E531A7825 (String_t* ___0_name, const RuntimeMethod* method) ;
-// System.String UnityEngine.Object::get_name()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* Object_get_name_mAC2F6B897CF1303BA4249B4CB55271AFACBB6392 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* __this, const RuntimeMethod* method) ;
-// System.Boolean UniWebViewInterface::CanGoBack(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool UniWebViewInterface_CanGoBack_m509C812B70967738794530A056A40BAA5D39CAFC (String_t* ___0_name, const RuntimeMethod* method) ;
-// System.Boolean UniWebViewInterface::CanGoForward(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool UniWebViewInterface_CanGoForward_mFC5BA9344E9E12EFC94CCCD0354F4B323B0A99D6 (String_t* ___0_name, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::GoBack(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_GoBack_mF9C04539E18E34BDAC2118EAE723B4C4B8FD60A8 (String_t* ___0_name, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::GoForward(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_GoForward_m9EF5623B77805C23536C1CCB2F0AF351ADF6FB15 (String_t* ___0_name, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetOpenLinksInExternalBrowser(System.String,System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetOpenLinksInExternalBrowser_m5883309EB4F7EB22C852FB1A2BA6C4D2D11C4348 (String_t* ___0_name, bool ___1_flag, const RuntimeMethod* method) ;
-// System.Guid System.Guid::NewGuid()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Guid_t Guid_NewGuid_m1F4894E8DC089811D6252148AD5858E58D43A7BD (const RuntimeMethod* method) ;
-// System.String System.Guid::ToString()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* Guid_ToString_m2BFFD5FA726E03FA707AAFCCF065896C46D5290C (Guid_t* __this, const RuntimeMethod* method) ;
-// System.Boolean UniWebViewInterface::Show(System.String,System.Boolean,System.Int32,System.Single,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool UniWebViewInterface_Show_mF3B131FE4CDB82922FA01B563044A0CB8CEB8578 (String_t* ___0_name, bool ___1_fade, int32_t ___2_edge, float ___3_duration, String_t* ___4_identifier, const RuntimeMethod* method) ;
-// System.Void System.Collections.Generic.Dictionary`2<System.String,System.Action>::Add(TKey,TValue)
-inline void Dictionary_2_Add_m42116195150ED3A5F1B337CEDF25923016ADBC98 (Dictionary_2_t3481DB12CFC627C97EF9EE95A2F3D08D3607A6D6* __this, String_t* ___0_key, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___1_value, const RuntimeMethod* method)
-{
-	((  void (*) (Dictionary_2_t3481DB12CFC627C97EF9EE95A2F3D08D3607A6D6*, String_t*, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07*, const RuntimeMethod*))Dictionary_2_Add_m93FFFABE8FCE7FA9793F0915E2A8842C7CD0C0C1_gshared)(__this, ___0_key, ___1_value, method);
-}
-// System.Boolean UniWebViewInterface::Hide(System.String,System.Boolean,System.Int32,System.Single,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool UniWebViewInterface_Hide_m8E5F69DE1EE7E3E95F1AB3A8FD6EEF27A077BA3E (String_t* ___0_name, bool ___1_fade, int32_t ___2_edge, float ___3_duration, String_t* ___4_identifier, const RuntimeMethod* method) ;
-// System.Boolean UniWebViewInterface::AnimateTo(System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Single,System.Single,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool UniWebViewInterface_AnimateTo_mA4923A8EA379E1482B213D27575D20BEA0E61D1C (String_t* ___0_name, int32_t ___1_x, int32_t ___2_y, int32_t ___3_width, int32_t ___4_height, float ___5_duration, float ___6_delay, String_t* ___7_identifier, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::AddJavaScript(System.String,System.String,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_AddJavaScript_mB9F66432038C001E36D6B977F96A4F4A9B993C20 (String_t* ___0_name, String_t* ___1_jsString, String_t* ___2_identifier, const RuntimeMethod* method) ;
-// System.Void System.Collections.Generic.Dictionary`2<System.String,System.Action`1<UniWebViewNativeResultPayload>>::Add(TKey,TValue)
-inline void Dictionary_2_Add_m56969FD3A3617318D7E206572E831947FCEFC29B (Dictionary_2_t118BA705ECA0DB19BCAA7A0245A819F21FD4B5D6* __this, String_t* ___0_key, Action_1_t24386F56CBAE28A0F0FAA4506302F773E0CE2E2C* ___1_value, const RuntimeMethod* method)
-{
-	((  void (*) (Dictionary_2_t118BA705ECA0DB19BCAA7A0245A819F21FD4B5D6*, String_t*, Action_1_t24386F56CBAE28A0F0FAA4506302F773E0CE2E2C*, const RuntimeMethod*))Dictionary_2_Add_m93FFFABE8FCE7FA9793F0915E2A8842C7CD0C0C1_gshared)(__this, ___0_key, ___1_value, method);
-}
-// System.Void UniWebViewInterface::EvaluateJavaScript(System.String,System.String,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_EvaluateJavaScript_m5BB170890DAA9C82A3489C7238585B78D6566FA3 (String_t* ___0_name, String_t* ___1_jsString, String_t* ___2_identifier, const RuntimeMethod* method) ;
-// System.Boolean System.String::Contains(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool String_Contains_m6D77B121FADA7CA5F397C0FABB65DA62DF03B6C3 (String_t* __this, String_t* ___0_value, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::AddUrlScheme(System.String,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_AddUrlScheme_m3DA20DF1A1A3D4F50AC8E45C89298C4790EF7C3C (String_t* ___0_name, String_t* ___1_scheme, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::RemoveUrlScheme(System.String,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_RemoveUrlScheme_mC1AA29F1E5491E6E6F7CC65EB89212D95AB0B3AB (String_t* ___0_name, String_t* ___1_scheme, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::AddSslExceptionDomain(System.String,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_AddSslExceptionDomain_m441F9D9648CA4CCB68E96BD225D17184E0DF3EB3 (String_t* ___0_name, String_t* ___1_domain, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::RemoveSslExceptionDomain(System.String,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_RemoveSslExceptionDomain_mAEDE52D772B18254E4AEB17B394FABDBC8E71968 (String_t* ___0_name, String_t* ___1_domain, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetHeaderField(System.String,System.String,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetHeaderField_mD954E058FED1A042725F84B3DF6D227668997525 (String_t* ___0_name, String_t* ___1_key, String_t* ___2_value, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetUserAgent(System.String,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetUserAgent_m00AB042F74F4E80FFE4475FF98384EE23B535B95 (String_t* ___0_name, String_t* ___1_userAgent, const RuntimeMethod* method) ;
-// System.String UniWebViewInterface::GetUserAgent(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* UniWebViewInterface_GetUserAgent_mB502E45D84626AD242BEB119B91D55525E2FD3EF (String_t* ___0_name, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetAllowAutoPlay(System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetAllowAutoPlay_m4B98EA2D6FFE42616E087CCE1A896C26BE380E28 (bool ___0_flag, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetAllowInlinePlay(System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetAllowInlinePlay_mD9F79D89E7517E9F8181E88BB1BE5C3CAFE0909C (bool ___0_flag, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetJavaScriptEnabled(System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetJavaScriptEnabled_m43BE4D9329A3324BD24E0BB6524277042736059E (bool ___0_flag, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetAllowJavaScriptOpenWindow(System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetAllowJavaScriptOpenWindow_mCA55B00F659EF5E1F2799693E5D132B3D41BB52A (bool ___0_flag, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::CleanCache(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_CleanCache_m6D7119233F4675229C817DEA2B97ECC144E075D8 (String_t* ___0_name, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::ClearCookies()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_ClearCookies_mDF1213BA76FFC2D2DAE1684BAD0D1BB5B95F6964 (const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetCookie(System.String,System.String,System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetCookie_m693D6EBCB5E881D7CDC59ECA16FD6C7D1AC7F84B (String_t* ___0_url, String_t* ___1_cookie, bool ___2_skipEncoding, const RuntimeMethod* method) ;
-// System.String UniWebViewInterface::GetCookie(System.String,System.String,System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* UniWebViewInterface_GetCookie_mCEB634B744E8889989728B4F04A942F50AC0D36A (String_t* ___0_url, String_t* ___1_key, bool ___2_skipEncoding, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::ClearHttpAuthUsernamePassword(System.String,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_ClearHttpAuthUsernamePassword_mAC7E6C6FB00A4CE2B29B1405DA5D6596E100433A (String_t* ___0_host, String_t* ___1_realm, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetBackgroundColor(System.String,System.Single,System.Single,System.Single,System.Single)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetBackgroundColor_m30A974F9A02705913A7D61642270B415DA7615D4 (String_t* ___0_name, float ___1_r, float ___2_g, float ___3_b, float ___4_a, const RuntimeMethod* method) ;
-// System.Single UniWebViewInterface::GetWebViewAlpha(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float UniWebViewInterface_GetWebViewAlpha_mB83E20E9733CF53DE664E549FE07FBB228264AB0 (String_t* ___0_name, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetWebViewAlpha(System.String,System.Single)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetWebViewAlpha_m9E1041D602F2E5B6D389DA76225C5A4269703B57 (String_t* ___0_name, float ___1_alpha, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetShowSpinnerWhileLoading(System.String,System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetShowSpinnerWhileLoading_m1D2B24C1A2F55D3130C65FFC8F6D7C97B3D20892 (String_t* ___0_name, bool ___1_show, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetSpinnerText(System.String,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetSpinnerText_m49794A022D9FA37BA8C4AE38CB69AAE2CD7402A8 (String_t* ___0_name, String_t* ___1_text, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetHorizontalScrollBarEnabled(System.String,System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetHorizontalScrollBarEnabled_m61D6E280B17F7DE02921927BBC28E3BDFEF64ADB (String_t* ___0_name, bool ___1_enabled, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetVerticalScrollBarEnabled(System.String,System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetVerticalScrollBarEnabled_mCF87F36EB225A8FEDB87B51DB8258204DA91E8E8 (String_t* ___0_name, bool ___1_enabled, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetBouncesEnabled(System.String,System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetBouncesEnabled_m732371C6BC98FE90F37F6BE84EA2722892E6C0A0 (String_t* ___0_name, bool ___1_enabled, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetZoomEnabled(System.String,System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetZoomEnabled_m7B8ED7CFEBA79F5AF63FA92F5C46867D1345F462 (String_t* ___0_name, bool ___1_enabled, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetShowToolbar(System.String,System.Boolean,System.Boolean,System.Boolean,System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetShowToolbar_m0A9C796DFCC905E3317A596C2CD8DC5B829263FC (String_t* ___0_name, bool ___1_show, bool ___2_animated, bool ___3_onTop, bool ___4_adjustInset, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetToolbarDoneButtonText(System.String,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetToolbarDoneButtonText_m312B1D3225231A522A1931E2C489C5DA307EB4AD (String_t* ___0_name, String_t* ___1_text, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetWebContentsDebuggingEnabled(System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetWebContentsDebuggingEnabled_m6A77C477E113FD21E78B04AB94794CB154DD16EA (bool ___0_enabled, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::SetWindowUserResizeEnabled(System.String,System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_SetWindowUserResizeEnabled_m11AA22CF9F56043DE6FC1A19A350E6A2BCC18413 (String_t* ___0_name, bool ___1_enabled, const RuntimeMethod* method) ;
-// System.Void UniWebView/<>c__DisplayClass111_0::.ctor()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass111_0__ctor_m9CBDCA33B2A6F53C8009DA7767A6C920729F7883 (U3CU3Ec__DisplayClass111_0_t7AC83E9782CC26AE3165A006060311B430FEF4EE* __this, const RuntimeMethod* method) ;
-// System.Void System.Action`1<UniWebViewNativeResultPayload>::.ctor(System.Object,System.IntPtr)
-inline void Action_1__ctor_mDF564CC0C67B1C4BC246A3DBF8A28D6DCF1E1895 (Action_1_t24386F56CBAE28A0F0FAA4506302F773E0CE2E2C* __this, RuntimeObject* ___0_object, intptr_t ___1_method, const RuntimeMethod* method)
-{
-	((  void (*) (Action_1_t24386F56CBAE28A0F0FAA4506302F773E0CE2E2C*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_1__ctor_m2E1DFA67718FC1A0B6E5DFEB78831FFE9C059EB4_gshared)(__this, ___0_object, ___1_method, method);
-}
-// System.Void UniWebView::EvaluateJavaScript(System.String,System.Action`1<UniWebViewNativeResultPayload>)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_EvaluateJavaScript_mDBBD8685DE34B54B07D4E968AD547CC268484A36 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, String_t* ___0_jsString, Action_1_t24386F56CBAE28A0F0FAA4506302F773E0CE2E2C* ___1_completionHandler, const RuntimeMethod* method) ;
-// System.Void UniWebViewInterface::Destroy(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewInterface_Destroy_m65137F5FAEEDC29EA1222CAE9C3E92972FED7FAF (String_t* ___0_name, const RuntimeMethod* method) ;
-// System.Void UnityEngine.Object::Destroy(UnityEngine.Object)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Object_Destroy_mE97D0A766419A81296E8D4E5C23D01D3FE91ACBB (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_obj, const RuntimeMethod* method) ;
 // System.Boolean System.Collections.Generic.Dictionary`2<System.String,System.Action>::TryGetValue(TKey,TValue&)
 inline bool Dictionary_2_TryGetValue_mC7224FFE7F05B1073C6D82CEA2B163BA93221CF8 (Dictionary_2_t3481DB12CFC627C97EF9EE95A2F3D08D3607A6D6* __this, String_t* ___0_key, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07** ___1_value, const RuntimeMethod* method)
 {
@@ -12242,8 +12046,12 @@ inline bool Dictionary_2_Remove_mFFB4B1520656D2BAC300BE9E077FB6FAF95E969C (Dicti
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Int32_TryParse_mC928DE2FEC1C35ED5298BDDCA9868076E94B8A21 (String_t* ___0_s, int32_t* ___1_result, const RuntimeMethod* method) ;
 // System.Void UniWebView/PageFinishedDelegate::Invoke(UniWebView,System.Int32,System.String)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void PageFinishedDelegate_Invoke_mFD4855BF81B1EECF864472F1739F554094DAFC7C_inline (PageFinishedDelegate_tDD19269F98632CA1DC3BDAA7CD499CD438F45528* __this, UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* ___0_webView, int32_t ___1_statusCode, String_t* ___2_url, const RuntimeMethod* method) ;
+// UniWebViewLogger UniWebViewLogger::get_Instance()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967* UniWebViewLogger_get_Instance_m050672DA24F144C5243035A0847A1DD3A1D7B94A (const RuntimeMethod* method) ;
 // System.String System.String::Concat(System.String,System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* String_Concat_m9E3155FB84015C823606188F53B47CB44C444991 (String_t* ___0_str0, String_t* ___1_str1, const RuntimeMethod* method) ;
+// System.Void UniWebViewLogger::Critical(System.String)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewLogger_Critical_m7BC1868F4524EDF471C0E4A16ABD6174C6B5009F (UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967* __this, String_t* ___0_message, const RuntimeMethod* method) ;
 // System.Void UniWebView/PageStartedDelegate::Invoke(UniWebView,System.String)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void PageStartedDelegate_Invoke_mFE79D50F05D24EB4BB3CD1CD20D64322188767FB_inline (PageStartedDelegate_tE020BF74F2E201A5435599937CE57B99700691DE* __this, UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* ___0_webView, String_t* ___1_url, const RuntimeMethod* method) ;
 // System.Void UniWebView/PageErrorReceivedDelegate::Invoke(UniWebView,System.Int32,System.String)
@@ -12256,6 +12064,12 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void MessageReceivedDelegate_Invo
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void KeyCodeReceivedDelegate_Invoke_mDB7FC321B90E8B857E1561BA5ECE185F5EB2375C_inline (KeyCodeReceivedDelegate_tBE995869284793C8ABDEF3667F43DDC95C91D288* __this, UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* ___0_webView, int32_t ___1_keyCode, const RuntimeMethod* method) ;
 // System.Boolean UniWebView/ShouldCloseDelegate::Invoke(UniWebView)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool ShouldCloseDelegate_Invoke_m40950A5003C60956B3854BD3E54FC8C69D6F4DFE_inline (ShouldCloseDelegate_tDC044BA04779D85D429790E489CE2E61745DE6D9* __this, UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* ___0_webView, const RuntimeMethod* method) ;
+// System.Void UnityEngine.Object::Destroy(UnityEngine.Object)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Object_Destroy_mE97D0A766419A81296E8D4E5C23D01D3FE91ACBB (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_obj, const RuntimeMethod* method) ;
+// System.Guid System.Guid::NewGuid()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Guid_t Guid_NewGuid_m1F4894E8DC089811D6252148AD5858E58D43A7BD (const RuntimeMethod* method) ;
+// System.String System.Guid::ToString()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* Guid_ToString_m2BFFD5FA726E03FA707AAFCCF065896C46D5290C (Guid_t* __this, const RuntimeMethod* method) ;
 // System.Void System.Collections.Generic.Dictionary`2<System.String,System.Action>::.ctor()
 inline void Dictionary_2__ctor_mA5C69BAAEA4997E39BCBB941E85A3CC71BEB6D8E (Dictionary_2_t3481DB12CFC627C97EF9EE95A2F3D08D3607A6D6* __this, const RuntimeMethod* method)
 {
@@ -12270,19 +12084,14 @@ inline void Dictionary_2__ctor_m0BD6EE64C7307F08B336E1969DA3ABE3C9C5CB5E (Dictio
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F Color_get_white_m068F5AF879B0FCA584E3693F762EA41BB65532C6_inline (const RuntimeMethod* method) ;
 // System.Void UnityEngine.MonoBehaviour::.ctor()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E (MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71* __this, const RuntimeMethod* method) ;
-// System.Void System.Object::.ctor()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2 (RuntimeObject* __this, const RuntimeMethod* method) ;
-// System.Void System.Action`1<System.String>::Invoke(T)
-inline void Action_1_Invoke_m690438AAE38F9762172E3AE0A33D0B42ACD35790_inline (Action_1_t3CB5D1A819C3ED3F99E9E39F890F18633253949A* __this, String_t* ___0_obj, const RuntimeMethod* method)
-{
-	((  void (*) (Action_1_t3CB5D1A819C3ED3F99E9E39F890F18633253949A*, String_t*, const RuntimeMethod*))Action_1_Invoke_mF2422B2DD29F74CE66F791C3F68E288EC7C3DB9E_gshared_inline)(__this, ___0_obj, method);
-}
 // System.String UnityEngine.Application::get_streamingAssetsPath()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* Application_get_streamingAssetsPath_mB904BCD9A7A4F18A52C175DE4A81F5DC3010CDB5 (const RuntimeMethod* method) ;
 // System.String System.IO.Path::Combine(System.String,System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* Path_Combine_m1ADAC05CDA2D1D61B172DF65A81E86592696BEAE (String_t* ___0_path1, String_t* ___1_path2, const RuntimeMethod* method) ;
 // System.String UnityEngine.Application::get_persistentDataPath()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* Application_get_persistentDataPath_mC58BD3E1A20732E0A536491DBCAE6505B1624399 (const RuntimeMethod* method) ;
+// System.Void System.Object::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2 (RuntimeObject* __this, const RuntimeMethod* method) ;
 // System.String System.Enum::ToString()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* Enum_ToString_m946B0B83C4470457D0FF555D862022C72BB55741 (RuntimeObject* __this, const RuntimeMethod* method) ;
 // System.Void UniWebViewLogger::Log(UniWebViewLogger/Level,System.String)
@@ -12349,6 +12158,10 @@ inline void Dictionary_2_set_Item_m9BF625649E96E60C1509898A992A6447E351D1A2 (Dic
 }
 // System.String System.String::Concat(System.String,System.String,System.String,System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* String_Concat_m093934F71A9B351911EE46311674ED463B180006 (String_t* ___0_str0, String_t* ___1_str1, String_t* ___2_str2, String_t* ___3_str3, const RuntimeMethod* method) ;
+// System.String UnityEngine.Object::get_name()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* Object_get_name_mAC2F6B897CF1303BA4249B4CB55271AFACBB6392 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* __this, const RuntimeMethod* method) ;
+// System.Void UniWebViewLogger::Info(System.String)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewLogger_Info_mFB35E56AD91BCB1B186699D78CDE818DA76EB126 (UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967* __this, String_t* ___0_message, const RuntimeMethod* method) ;
 // System.Void UniWebView::InternalOnPageStarted(System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_InternalOnPageStarted_mFE1CEB0C16071EAD65257ABF36B498BA420594F4 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, String_t* ___0_url, const RuntimeMethod* method) ;
 // T UnityEngine.JsonUtility::FromJson<UniWebViewNativeResultPayload>(System.String)
@@ -12562,6 +12375,8 @@ inline void Dictionary_2__ctor_m82714B287EB2A0281630D6A61085212C40235720 (Dictio
 {
 	((  void (*) (Dictionary_2_t29FA5514F6B4CB2391D35BD615150A65C8AF2898*, int32_t, const RuntimeMethod*))Dictionary_2__ctor_mD9F2D1A3820FA90253E302E940D67EF3BFB789E0_gshared)(__this, ___0_capacity, method);
 }
+// System.Void UnityEngine.GameObject::.ctor(System.String)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameObject__ctor_m37D512B05D292F954792225E6C6EEE95293A9B88 (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, String_t* ___0_name, const RuntimeMethod* method) ;
 // System.Void UnityEngine.Object::DontDestroyOnLoad(UnityEngine.Object)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Object_DontDestroyOnLoad_m4B70C3AEF886C176543D1295507B6455C9DCAEA7 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_target, const RuntimeMethod* method) ;
 // System.Void UnityEngine.Object::set_hideFlags(UnityEngine.HideFlags)
@@ -20483,12 +20298,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_set_Frame_m29766A01EA140AC4CD7B153CF999093B7BA5D733 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D ___0_value, const RuntimeMethod* method) 
 {
 	{
-		// frame = value;
+		// set { frame = value; UpdateFrame(); }
 		Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D L_0 = ___0_value;
 		__this->___frame_19 = L_0;
-		// UpdateFrame();
+		// set { frame = value; UpdateFrame(); }
 		UniWebView_UpdateFrame_m0049A0CE214FD09A9A238CB42E05A9BD57C20D49(__this, NULL);
-		// }
+		// set { frame = value; UpdateFrame(); }
 		return;
 	}
 }
@@ -20496,7 +20311,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_set_Frame_m29766A01EA140AC4CD
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* UniWebView_get_ReferenceRectTransform_m1C3A0F7710068F20CF6CE1D970E3607EAACC304E (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, const RuntimeMethod* method) 
 {
 	{
-		// return referenceRectTransform;
+		// get { return referenceRectTransform; }
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_0 = __this->___referenceRectTransform_20;
 		return L_0;
 	}
@@ -20505,13 +20320,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RectTransform_t6C5DA5E41A89E0F488B001E45E5896
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_set_ReferenceRectTransform_m1509C1E5413D0989EEEBC6D0D2E0D5476E34382B (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* ___0_value, const RuntimeMethod* method) 
 {
 	{
-		// referenceRectTransform = value;
+		// set { referenceRectTransform = value; UpdateFrame(); }
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_0 = ___0_value;
 		__this->___referenceRectTransform_20 = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___referenceRectTransform_20), (void*)L_0);
-		// UpdateFrame();
+		// set { referenceRectTransform = value; UpdateFrame(); }
 		UniWebView_UpdateFrame_m0049A0CE214FD09A9A238CB42E05A9BD57C20D49(__this, NULL);
-		// }
+		// set { referenceRectTransform = value; UpdateFrame(); }
 		return;
 	}
 }
@@ -20521,52 +20336,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* UniWebView_get_Url_m67CC54C7719EA71
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralDA39A3EE5E6B4B0D3255BFEF95601890AFD80709);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		// get { return UniWebViewInterface.GetUrl(listener.Name); }
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		String_t* L_2;
-		L_2 = UniWebViewInterface_GetUrl_m506A3AA4E02FC8EE3ACF78941F13D2C5257D17B1(L_1, NULL);
-		return L_2;
+		// return "";
+		return _stringLiteralDA39A3EE5E6B4B0D3255BFEF95601890AFD80709;
 	}
 }
 // System.Void UniWebView::UpdateFrame()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_UpdateFrame_m0049A0CE214FD09A9A238CB42E05A9BD57C20D49 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D V_0;
-	memset((&V_0), 0, sizeof(V_0));
-	{
-		// Rect rect = NextFrameRect();
-		Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D L_0;
-		L_0 = UniWebView_NextFrameRect_mE2854421CC9760BE504B13E093E8E4ECE13937A7(__this, NULL);
-		V_0 = L_0;
-		// UniWebViewInterface.SetFrame(listener.Name, (int)rect.x, (int)rect.y, (int)rect.width, (int)rect.height);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_1 = __this->___listener_12;
-		NullCheck(L_1);
-		String_t* L_2;
-		L_2 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_1, NULL);
-		float L_3;
-		L_3 = Rect_get_x_mB267B718E0D067F2BAE31BA477647FBF964916EB((&V_0), NULL);
-		float L_4;
-		L_4 = Rect_get_y_mC733E8D49F3CE21B2A3D40A1B72D687F22C97F49((&V_0), NULL);
-		float L_5;
-		L_5 = Rect_get_width_m620D67551372073C9C32C4C4624C2A5713F7F9A9((&V_0), NULL);
-		float L_6;
-		L_6 = Rect_get_height_mE1AA6C6C725CCD2D317BD2157396D3CF7D47C9D8((&V_0), NULL);
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetFrame_m8C049130E9547F81641FD2F46D8B4A1CFBE6F690(L_2, il2cpp_codegen_cast_double_to_int<int32_t>(L_3), il2cpp_codegen_cast_double_to_int<int32_t>(L_4), il2cpp_codegen_cast_double_to_int<int32_t>(L_5), il2cpp_codegen_cast_double_to_int<int32_t>(L_6), NULL);
 		// }
 		return;
 	}
@@ -20580,10 +20361,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Component_GetComponentInParent_TisCanvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26_m5FB554DD7C0F662DAB84C0F292B221CAE3F0A5B3_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral7D5A1BC658DA7223D5B3A37EDE7E9A3F1C60C984);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralBAA5A3EA71ED89EC8F8D5755DC9EFFB906291550);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralD0261650E60CCD4DB8E943AFD94028507D700FA6);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralED6AE4548C7A75D64077C9E1530452184FF92182);
 		s_Il2CppMethodInitialized = true;
 	}
 	Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* V_0 = NULL;
@@ -20600,281 +20377,168 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0
 	float V_7 = 0.0f;
 	float V_8 = 0.0f;
 	Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* V_9 = NULL;
-	int32_t V_10 = 0;
 	{
-		// if (referenceRectTransform == null) {
+		// if (referenceRectTransform == null)
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_0 = __this->___referenceRectTransform_20;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
 		L_1 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_0, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (!L_1)
 		{
-			goto IL_0024;
+			goto IL_0015;
 		}
 	}
 	{
-		// UniWebViewLogger.Instance.Info("Using Frame setting to determine web view frame.");
-		UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967* L_2;
-		L_2 = UniWebViewLogger_get_Instance_m050672DA24F144C5243035A0847A1DD3A1D7B94A(NULL);
-		NullCheck(L_2);
-		UniWebViewLogger_Info_mFB35E56AD91BCB1B186699D78CDE818DA76EB126(L_2, _stringLiteral7D5A1BC658DA7223D5B3A37EDE7E9A3F1C60C984, NULL);
 		// return frame;
-		Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D L_3 = __this->___frame_19;
-		return L_3;
+		Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D L_2 = __this->___frame_19;
+		return L_2;
 	}
 
-IL_0024:
+IL_0015:
 	{
-		// UniWebViewLogger.Instance.Info("Using reference RectTransform to determine web view frame.");
-		UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967* L_4;
-		L_4 = UniWebViewLogger_get_Instance_m050672DA24F144C5243035A0847A1DD3A1D7B94A(NULL);
-		NullCheck(L_4);
-		UniWebViewLogger_Info_mFB35E56AD91BCB1B186699D78CDE818DA76EB126(L_4, _stringLiteralD0261650E60CCD4DB8E943AFD94028507D700FA6, NULL);
 		// var worldCorners = new Vector3[4];
-		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_5 = (Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C*)(Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C*)SZArrayNew(Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C_il2cpp_TypeInfo_var, (uint32_t)4);
-		V_0 = L_5;
+		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_3 = (Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C*)(Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C*)SZArrayNew(Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C_il2cpp_TypeInfo_var, (uint32_t)4);
+		V_0 = L_3;
 		// referenceRectTransform.GetWorldCorners(worldCorners);
-		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_6 = __this->___referenceRectTransform_20;
-		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_7 = V_0;
-		NullCheck(L_6);
-		RectTransform_GetWorldCorners_m6E15303C3B065B2F65E0A7F0E0217695564C2E09(L_6, L_7, NULL);
+		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_4 = __this->___referenceRectTransform_20;
+		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_5 = V_0;
+		NullCheck(L_4);
+		RectTransform_GetWorldCorners_m6E15303C3B065B2F65E0A7F0E0217695564C2E09(L_4, L_5, NULL);
 		// var bottomLeft = worldCorners[0];
-		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_8 = V_0;
-		NullCheck(L_8);
-		int32_t L_9 = 0;
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_10 = (L_8)->GetAt(static_cast<il2cpp_array_size_t>(L_9));
-		V_1 = L_10;
+		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_6 = V_0;
+		NullCheck(L_6);
+		int32_t L_7 = 0;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_8 = (L_6)->GetAt(static_cast<il2cpp_array_size_t>(L_7));
+		V_1 = L_8;
 		// var topLeft = worldCorners[1];
-		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_11 = V_0;
-		NullCheck(L_11);
-		int32_t L_12 = 1;
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_13 = (L_11)->GetAt(static_cast<il2cpp_array_size_t>(L_12));
-		V_2 = L_13;
+		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_9 = V_0;
+		NullCheck(L_9);
+		int32_t L_10 = 1;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_11 = (L_9)->GetAt(static_cast<il2cpp_array_size_t>(L_10));
+		V_2 = L_11;
 		// var topRight = worldCorners[2];
-		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_14 = V_0;
-		NullCheck(L_14);
-		int32_t L_15 = 2;
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_16 = (L_14)->GetAt(static_cast<il2cpp_array_size_t>(L_15));
-		V_3 = L_16;
+		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_12 = V_0;
+		NullCheck(L_12);
+		int32_t L_13 = 2;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_14 = (L_12)->GetAt(static_cast<il2cpp_array_size_t>(L_13));
+		V_3 = L_14;
 		// var bottomRight = worldCorners[3];
-		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_17 = V_0;
-		NullCheck(L_17);
-		int32_t L_18 = 3;
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_19 = (L_17)->GetAt(static_cast<il2cpp_array_size_t>(L_18));
-		V_4 = L_19;
+		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_15 = V_0;
+		NullCheck(L_15);
+		int32_t L_16 = 3;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_17 = (L_15)->GetAt(static_cast<il2cpp_array_size_t>(L_16));
+		V_4 = L_17;
 		// var canvas = referenceRectTransform.GetComponentInParent<Canvas>();
-		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_20 = __this->___referenceRectTransform_20;
-		NullCheck(L_20);
-		Canvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26* L_21;
-		L_21 = Component_GetComponentInParent_TisCanvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26_m5FB554DD7C0F662DAB84C0F292B221CAE3F0A5B3(L_20, Component_GetComponentInParent_TisCanvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26_m5FB554DD7C0F662DAB84C0F292B221CAE3F0A5B3_RuntimeMethod_var);
-		V_5 = L_21;
-		// switch (canvas.renderMode) {
+		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_18 = __this->___referenceRectTransform_20;
+		NullCheck(L_18);
+		Canvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26* L_19;
+		L_19 = Component_GetComponentInParent_TisCanvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26_m5FB554DD7C0F662DAB84C0F292B221CAE3F0A5B3(L_18, Component_GetComponentInParent_TisCanvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26_m5FB554DD7C0F662DAB84C0F292B221CAE3F0A5B3_RuntimeMethod_var);
+		V_5 = L_19;
+		// if (canvas != null && canvas.renderMode != RenderMode.ScreenSpaceOverlay)
+		Canvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26* L_20 = V_5;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_21;
+		L_21 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_20, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_21)
+		{
+			goto IL_00a2;
+		}
+	}
+	{
 		Canvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26* L_22 = V_5;
 		NullCheck(L_22);
 		int32_t L_23;
 		L_23 = Canvas_get_renderMode_m1BEF259548C6CAD27E4466F31D20752D246688CC(L_22, NULL);
-		V_10 = L_23;
-		int32_t L_24 = V_10;
-		if (!L_24)
+		if (!L_23)
 		{
-			goto IL_00e1;
-		}
-	}
-	{
-		int32_t L_25 = V_10;
-		if ((!(((uint32_t)((int32_t)il2cpp_codegen_subtract((int32_t)L_25, 1))) <= ((uint32_t)1))))
-		{
-			goto IL_00e1;
+			goto IL_00a2;
 		}
 	}
 	{
 		// var camera = canvas.worldCamera;
-		Canvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26* L_26 = V_5;
-		NullCheck(L_26);
-		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_27;
-		L_27 = Canvas_get_worldCamera_mD2FDE13B61A5213F4E64B40008EB0A8D2D07B853(L_26, NULL);
-		V_9 = L_27;
-		// if (camera == null) {
-		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_28 = V_9;
+		Canvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26* L_24 = V_5;
+		NullCheck(L_24);
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_25;
+		L_25 = Canvas_get_worldCamera_mD2FDE13B61A5213F4E64B40008EB0A8D2D07B853(L_24, NULL);
+		V_9 = L_25;
+		// if (camera != null)
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_26 = V_9;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		bool L_29;
-		L_29 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_28, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_29)
+		bool L_27;
+		L_27 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_26, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_27)
 		{
-			goto IL_00bb;
+			goto IL_00a2;
 		}
 	}
 	{
-		// UniWebViewLogger.Instance.Critical(@"You need a render camera
-		// or event camera to use RectTransform to determine correct
-		// frame for UniWebView.");
-		UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967* L_30;
-		L_30 = UniWebViewLogger_get_Instance_m050672DA24F144C5243035A0847A1DD3A1D7B94A(NULL);
-		NullCheck(L_30);
-		UniWebViewLogger_Critical_m7BC1868F4524EDF471C0E4A16ABD6174C6B5009F(L_30, _stringLiteralED6AE4548C7A75D64077C9E1530452184FF92182, NULL);
-		// UniWebViewLogger.Instance.Info("No camera found. Fall back to ScreenSpaceOverlay mode.");
-		UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967* L_31;
-		L_31 = UniWebViewLogger_get_Instance_m050672DA24F144C5243035A0847A1DD3A1D7B94A(NULL);
-		NullCheck(L_31);
-		UniWebViewLogger_Info_mFB35E56AD91BCB1B186699D78CDE818DA76EB126(L_31, _stringLiteralBAA5A3EA71ED89EC8F8D5755DC9EFFB906291550, NULL);
-		goto IL_00e1;
-	}
-
-IL_00bb:
-	{
 		// bottomLeft = camera.WorldToScreenPoint(bottomLeft);
-		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_32 = V_9;
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_33 = V_1;
-		NullCheck(L_32);
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_34;
-		L_34 = Camera_WorldToScreenPoint_m26B4C8945C3B5731F1CC5944CFD96BF17126BAA3(L_32, L_33, NULL);
-		V_1 = L_34;
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_28 = V_9;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_29 = V_1;
+		NullCheck(L_28);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_30;
+		L_30 = Camera_WorldToScreenPoint_m26B4C8945C3B5731F1CC5944CFD96BF17126BAA3(L_28, L_29, NULL);
+		V_1 = L_30;
 		// topLeft = camera.WorldToScreenPoint(topLeft);
-		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_35 = V_9;
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_36 = V_2;
-		NullCheck(L_35);
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_37;
-		L_37 = Camera_WorldToScreenPoint_m26B4C8945C3B5731F1CC5944CFD96BF17126BAA3(L_35, L_36, NULL);
-		V_2 = L_37;
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_31 = V_9;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_32 = V_2;
+		NullCheck(L_31);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_33;
+		L_33 = Camera_WorldToScreenPoint_m26B4C8945C3B5731F1CC5944CFD96BF17126BAA3(L_31, L_32, NULL);
+		V_2 = L_33;
 		// topRight = camera.WorldToScreenPoint(topRight);
-		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_38 = V_9;
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_39 = V_3;
-		NullCheck(L_38);
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_40;
-		L_40 = Camera_WorldToScreenPoint_m26B4C8945C3B5731F1CC5944CFD96BF17126BAA3(L_38, L_39, NULL);
-		V_3 = L_40;
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_34 = V_9;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_35 = V_3;
+		NullCheck(L_34);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_36;
+		L_36 = Camera_WorldToScreenPoint_m26B4C8945C3B5731F1CC5944CFD96BF17126BAA3(L_34, L_35, NULL);
+		V_3 = L_36;
 		// bottomRight = camera.WorldToScreenPoint(bottomRight);
-		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_41 = V_9;
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_42 = V_4;
-		NullCheck(L_41);
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_43;
-		L_43 = Camera_WorldToScreenPoint_m26B4C8945C3B5731F1CC5944CFD96BF17126BAA3(L_41, L_42, NULL);
-		V_4 = L_43;
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_37 = V_9;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_38 = V_4;
+		NullCheck(L_37);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_39;
+		L_39 = Camera_WorldToScreenPoint_m26B4C8945C3B5731F1CC5944CFD96BF17126BAA3(L_37, L_38, NULL);
+		V_4 = L_39;
 	}
 
-IL_00e1:
+IL_00a2:
 	{
 		// float x = topLeft.x;
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_44 = V_2;
-		float L_45 = L_44.___x_2;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_40 = V_2;
+		float L_41 = L_40.___x_2;
 		// float y = Screen.height - topLeft.y;
-		int32_t L_46;
-		L_46 = Screen_get_height_m01A3102DE71EE1FBEA51D09D6B0261CF864FE8F9(NULL);
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_47 = V_2;
-		float L_48 = L_47.___y_3;
-		V_6 = ((float)il2cpp_codegen_subtract(((float)L_46), L_48));
+		int32_t L_42;
+		L_42 = Screen_get_height_m01A3102DE71EE1FBEA51D09D6B0261CF864FE8F9(NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_43 = V_2;
+		float L_44 = L_43.___y_3;
+		V_6 = ((float)il2cpp_codegen_subtract(((float)L_42), L_44));
 		// float width = bottomRight.x - topLeft.x;
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_49 = V_4;
-		float L_50 = L_49.___x_2;
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_51 = V_2;
-		float L_52 = L_51.___x_2;
-		V_7 = ((float)il2cpp_codegen_subtract(L_50, L_52));
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_45 = V_4;
+		float L_46 = L_45.___x_2;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_47 = V_2;
+		float L_48 = L_47.___x_2;
+		V_7 = ((float)il2cpp_codegen_subtract(L_46, L_48));
 		// float height = topLeft.y - bottomRight.y;
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_53 = V_2;
-		float L_54 = L_53.___y_3;
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_55 = V_4;
-		float L_56 = L_55.___y_3;
-		V_8 = ((float)il2cpp_codegen_subtract(L_54, L_56));
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_49 = V_2;
+		float L_50 = L_49.___y_3;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_51 = V_4;
+		float L_52 = L_51.___y_3;
+		V_8 = ((float)il2cpp_codegen_subtract(L_50, L_52));
 		// return new Rect(x, y, width, height);
-		float L_57 = V_6;
-		float L_58 = V_7;
-		float L_59 = V_8;
-		Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D L_60;
-		memset((&L_60), 0, sizeof(L_60));
-		Rect__ctor_m18C3033D135097BEE424AAA68D91C706D2647F23((&L_60), L_45, L_57, L_58, L_59, /*hidden argument*/NULL);
-		return L_60;
+		float L_53 = V_6;
+		float L_54 = V_7;
+		float L_55 = V_8;
+		Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D L_56;
+		memset((&L_56), 0, sizeof(L_56));
+		Rect__ctor_m18C3033D135097BEE424AAA68D91C706D2647F23((&L_56), L_41, L_53, L_54, L_55, /*hidden argument*/NULL);
+		return L_56;
 	}
 }
 // System.Void UniWebView::Awake()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_Awake_m8FB57CC21B845F65B21A776A319BF81BD953A1D4 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameObject_AddComponent_TisUniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3_m108312645BA6B45E74CF02D8747D5371BB70E508_RuntimeMethod_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameObject_t76FEDD663AB33C991A9C9A23129337651094216F_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* V_0 = NULL;
-	Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D V_1;
-	memset((&V_1), 0, sizeof(V_1));
-	{
-		// var listenerObject = new GameObject(id);
-		String_t* L_0 = __this->___id_11;
-		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_1 = (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*)il2cpp_codegen_object_new(GameObject_t76FEDD663AB33C991A9C9A23129337651094216F_il2cpp_TypeInfo_var);
-		NullCheck(L_1);
-		GameObject__ctor_m37D512B05D292F954792225E6C6EEE95293A9B88(L_1, L_0, NULL);
-		V_0 = L_1;
-		// listener = listenerObject.AddComponent<UniWebViewNativeListener>();
-		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2 = V_0;
-		NullCheck(L_2);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_3;
-		L_3 = GameObject_AddComponent_TisUniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3_m108312645BA6B45E74CF02D8747D5371BB70E508(L_2, GameObject_AddComponent_TisUniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3_m108312645BA6B45E74CF02D8747D5371BB70E508_RuntimeMethod_var);
-		__this->___listener_12 = L_3;
-		Il2CppCodeGenWriteBarrier((void**)(&__this->___listener_12), (void*)L_3);
-		// listenerObject.transform.parent = transform;
-		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_4 = V_0;
-		NullCheck(L_4);
-		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_5;
-		L_5 = GameObject_get_transform_m0BC10ADFA1632166AE5544BDF9038A2650C2AE56(L_4, NULL);
-		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_6;
-		L_6 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
-		NullCheck(L_5);
-		Transform_set_parent_m9BD5E563B539DD5BEC342736B03F97B38A243234(L_5, L_6, NULL);
-		// listener.webView = this;
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_7 = __this->___listener_12;
-		NullCheck(L_7);
-		L_7->___webView_4 = __this;
-		Il2CppCodeGenWriteBarrier((void**)(&L_7->___webView_4), (void*)__this);
-		// if (fullScreen) {
-		bool L_8 = __this->___fullScreen_18;
-		if (!L_8)
-		{
-			goto IL_005c;
-		}
-	}
-	{
-		// rect = new Rect(0, 0, Screen.width, Screen.height);
-		int32_t L_9;
-		L_9 = Screen_get_width_mF608FF3252213E7EFA1F0D2F744C28110E9E5AC9(NULL);
-		int32_t L_10;
-		L_10 = Screen_get_height_m01A3102DE71EE1FBEA51D09D6B0261CF864FE8F9(NULL);
-		Rect__ctor_m18C3033D135097BEE424AAA68D91C706D2647F23((&V_1), (0.0f), (0.0f), ((float)L_9), ((float)L_10), NULL);
-		goto IL_0063;
-	}
-
-IL_005c:
-	{
-		// rect = NextFrameRect();
-		Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D L_11;
-		L_11 = UniWebView_NextFrameRect_mE2854421CC9760BE504B13E093E8E4ECE13937A7(__this, NULL);
-		V_1 = L_11;
-	}
-
-IL_0063:
-	{
-		// UniWebViewInterface.Init(listener.Name, (int)rect.x, (int)rect. y, (int)rect.width, (int)rect.height);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_12 = __this->___listener_12;
-		NullCheck(L_12);
-		String_t* L_13;
-		L_13 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_12, NULL);
-		float L_14;
-		L_14 = Rect_get_x_mB267B718E0D067F2BAE31BA477647FBF964916EB((&V_1), NULL);
-		float L_15;
-		L_15 = Rect_get_y_mC733E8D49F3CE21B2A3D40A1B72D687F22C97F49((&V_1), NULL);
-		float L_16;
-		L_16 = Rect_get_width_m620D67551372073C9C32C4C4624C2A5713F7F9A9((&V_1), NULL);
-		float L_17;
-		L_17 = Rect_get_height_mE1AA6C6C725CCD2D317BD2157396D3CF7D47C9D8((&V_1), NULL);
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_Init_m5FC69157C5D16E457EEFB8AA5CF8CE2E58F0BE7B(L_13, il2cpp_codegen_cast_double_to_int<int32_t>(L_14), il2cpp_codegen_cast_double_to_int<int32_t>(L_15), il2cpp_codegen_cast_double_to_int<int32_t>(L_16), il2cpp_codegen_cast_double_to_int<int32_t>(L_17), NULL);
-		// isPortrait = Screen.height >= Screen.width;
-		int32_t L_18;
-		L_18 = Screen_get_height_m01A3102DE71EE1FBEA51D09D6B0261CF864FE8F9(NULL);
-		int32_t L_19;
-		L_19 = Screen_get_width_mF608FF3252213E7EFA1F0D2F744C28110E9E5AC9(NULL);
-		__this->___isPortrait_13 = (bool)((((int32_t)((((int32_t)L_18) < ((int32_t)L_19))? 1 : 0)) == ((int32_t)0))? 1 : 0);
 		// }
 		return;
 	}
@@ -20884,7 +20548,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_Start_mC2140677EC23EED9E9332E
 {
 	bool V_0 = false;
 	{
-		// if (showOnStart) {
+		// if (showOnStart)
 		bool L_0 = __this->___showOnStart_15;
 		if (!L_0)
 		{
@@ -20899,7 +20563,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_Start_mC2140677EC23EED9E9332E
 
 IL_0017:
 	{
-		// if (!string.IsNullOrEmpty(urlOnStart)) {
+		// if (!string.IsNullOrEmpty(urlOnStart))
 		String_t* L_2 = __this->___urlOnStart_14;
 		bool L_3;
 		L_3 = String_IsNullOrEmpty_mEA9E3FB005AC28FE02E69FCF95A7B8456192B478(L_2, NULL);
@@ -20916,7 +20580,7 @@ IL_0017:
 
 IL_0031:
 	{
-		// if (useToolbar) {
+		// if (useToolbar)
 		bool L_5 = __this->___useToolbar_21;
 		if (!L_5)
 		{
@@ -20944,97 +20608,6 @@ IL_0052:
 // System.Void UniWebView::Update()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_Update_m2C607C665A323DB7E2B59F750C0BB3042AFA4923 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	bool V_0 = false;
-	UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* G_B4_0 = NULL;
-	OreintationChangedDelegate_t37143AB67AC552F9E024A6A8B4226F627AAAA15E* G_B4_1 = NULL;
-	UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* G_B3_0 = NULL;
-	OreintationChangedDelegate_t37143AB67AC552F9E024A6A8B4226F627AAAA15E* G_B3_1 = NULL;
-	int32_t G_B5_0 = 0;
-	UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* G_B5_1 = NULL;
-	OreintationChangedDelegate_t37143AB67AC552F9E024A6A8B4226F627AAAA15E* G_B5_2 = NULL;
-	{
-		// var newIsPortrait = Screen.height >= Screen.width;
-		int32_t L_0;
-		L_0 = Screen_get_height_m01A3102DE71EE1FBEA51D09D6B0261CF864FE8F9(NULL);
-		int32_t L_1;
-		L_1 = Screen_get_width_mF608FF3252213E7EFA1F0D2F744C28110E9E5AC9(NULL);
-		V_0 = (bool)((((int32_t)((((int32_t)L_0) < ((int32_t)L_1))? 1 : 0)) == ((int32_t)0))? 1 : 0);
-		// if (isPortrait != newIsPortrait) {
-		bool L_2 = __this->___isPortrait_13;
-		bool L_3 = V_0;
-		if ((((int32_t)L_2) == ((int32_t)L_3)))
-		{
-			goto IL_0054;
-		}
-	}
-	{
-		// isPortrait = newIsPortrait;
-		bool L_4 = V_0;
-		__this->___isPortrait_13 = L_4;
-		// if (OnOreintationChanged != null) {
-		OreintationChangedDelegate_t37143AB67AC552F9E024A6A8B4226F627AAAA15E* L_5 = __this->___OnOreintationChanged_10;
-		if (!L_5)
-		{
-			goto IL_0040;
-		}
-	}
-	{
-		// OnOreintationChanged(this, isPortrait ? ScreenOrientation.Portrait : ScreenOrientation.LandscapeLeft);
-		OreintationChangedDelegate_t37143AB67AC552F9E024A6A8B4226F627AAAA15E* L_6 = __this->___OnOreintationChanged_10;
-		bool L_7 = __this->___isPortrait_13;
-		G_B3_0 = __this;
-		G_B3_1 = L_6;
-		if (L_7)
-		{
-			G_B4_0 = __this;
-			G_B4_1 = L_6;
-			goto IL_003a;
-		}
-	}
-	{
-		G_B5_0 = 3;
-		G_B5_1 = G_B3_0;
-		G_B5_2 = G_B3_1;
-		goto IL_003b;
-	}
-
-IL_003a:
-	{
-		G_B5_0 = 1;
-		G_B5_1 = G_B4_0;
-		G_B5_2 = G_B4_1;
-	}
-
-IL_003b:
-	{
-		NullCheck(G_B5_2);
-		OreintationChangedDelegate_Invoke_mFA1B1116C0EA098C02315D0B566192FB26009E89_inline(G_B5_2, G_B5_1, G_B5_0, NULL);
-	}
-
-IL_0040:
-	{
-		// if (referenceRectTransform != null) {
-		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_8 = __this->___referenceRectTransform_20;
-		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		bool L_9;
-		L_9 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_8, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_9)
-		{
-			goto IL_0054;
-		}
-	}
-	{
-		// UpdateFrame();
-		UniWebView_UpdateFrame_m0049A0CE214FD09A9A238CB42E05A9BD57C20D49(__this, NULL);
-	}
-
-IL_0054:
 	{
 		// }
 		return;
@@ -21044,7 +20617,7 @@ IL_0054:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_OnEnable_m858CD6A100604F745120A7BFB990F1F0F034232A (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, const RuntimeMethod* method) 
 {
 	{
-		// if (started) {
+		// if (started) Show();
 		bool L_0 = __this->___started_23;
 		if (!L_0)
 		{
@@ -21052,7 +20625,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_OnEnable_m858CD6A100604F74512
 		}
 	}
 	{
-		// Show();
+		// if (started) Show();
 		bool L_1;
 		L_1 = UniWebView_Show_m372060500755B70480FEE952C98D64DF35E73A2E(__this, (bool)0, 0, (0.400000006f), (Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07*)NULL, NULL);
 	}
@@ -21067,7 +20640,7 @@ IL_0017:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_OnDisable_m5C8C63E026A87B453DCCD2CD1B5F4DC3D14B639D (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, const RuntimeMethod* method) 
 {
 	{
-		// if (started) {
+		// if (started) Hide();
 		bool L_0 = __this->___started_23;
 		if (!L_0)
 		{
@@ -21075,7 +20648,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_OnDisable_m5C8C63E026A87B453D
 		}
 	}
 	{
-		// Hide();
+		// if (started) Hide();
 		bool L_1;
 		L_1 = UniWebView_Hide_m412E6F40DE1A3DDE3771CA3F065B5BEF20CF1EF0(__this, (bool)0, 0, (0.400000006f), (Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07*)NULL, NULL);
 	}
@@ -21089,22 +20662,7 @@ IL_0017:
 // System.Void UniWebView::Load(System.String,System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_Load_m809BDA0DE5FDE104CB2B1C25FD6FD03D103CEEF2 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, String_t* ___0_url, bool ___1_skipEncoding, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.Load(listener.Name, url, skipEncoding);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		String_t* L_2 = ___0_url;
-		bool L_3 = ___1_skipEncoding;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_Load_mE2F187E2D88BBD53C18AEF6B577B3F25B8C9E503(L_1, L_2, L_3, NULL);
 		// }
 		return;
 	}
@@ -21112,23 +20670,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_Load_m809BDA0DE5FDE104CB2B1C2
 // System.Void UniWebView::LoadHTMLString(System.String,System.String,System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_LoadHTMLString_m78043076065887C6E8559CAD4D5119A328621D58 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, String_t* ___0_htmlString, String_t* ___1_baseUrl, bool ___2_skipEncoding, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.LoadHTMLString(listener.Name, htmlString, baseUrl, skipEncoding);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		String_t* L_2 = ___0_htmlString;
-		String_t* L_3 = ___1_baseUrl;
-		bool L_4 = ___2_skipEncoding;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_LoadHTMLString_mE8AAD10CC23CB49111306180A86B05E56183E71E(L_1, L_2, L_3, L_4, NULL);
 		// }
 		return;
 	}
@@ -21136,20 +20678,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_LoadHTMLString_m7804307606588
 // System.Void UniWebView::Reload()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_Reload_m3DF849DF9FD5E60403F4255A4E548EF8247B7B6A (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.Reload(listener.Name);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_Reload_mE1FC04D07862A1DAAA2D0565AA1E743D4EDDF018(L_1, NULL);
 		// }
 		return;
 	}
@@ -21157,20 +20686,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_Reload_m3DF849DF9FD5E60403F42
 // System.Void UniWebView::Stop()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_Stop_mDB060E4618AA857C0DA56E49457DA9F34AAD8387 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.Stop(listener.Name);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_Stop_m650782316C2A2C8E818DF069A15B753E531A7825(L_1, NULL);
 		// }
 		return;
 	}
@@ -21178,62 +20694,23 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_Stop_mDB060E4618AA857C0DA56E4
 // System.Boolean UniWebView::get_CanGoBack()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool UniWebView_get_CanGoBack_m2F35F1CFBE87ADF5086A63B280ED8EC6AB4B2875 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// return UniWebViewInterface.CanGoBack(listener.name);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = Object_get_name_mAC2F6B897CF1303BA4249B4CB55271AFACBB6392(L_0, NULL);
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		bool L_2;
-		L_2 = UniWebViewInterface_CanGoBack_m509C812B70967738794530A056A40BAA5D39CAFC(L_1, NULL);
-		return L_2;
+		// return false;
+		return (bool)0;
 	}
 }
 // System.Boolean UniWebView::get_CanGoForward()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool UniWebView_get_CanGoForward_m48B5C64078C2DDF30CDF710F012320C9AC79C847 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// return UniWebViewInterface.CanGoForward(listener.name);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = Object_get_name_mAC2F6B897CF1303BA4249B4CB55271AFACBB6392(L_0, NULL);
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		bool L_2;
-		L_2 = UniWebViewInterface_CanGoForward_mFC5BA9344E9E12EFC94CCCD0354F4B323B0A99D6(L_1, NULL);
-		return L_2;
+		// return false;
+		return (bool)0;
 	}
 }
 // System.Void UniWebView::GoBack()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_GoBack_m77821D450205CA28286177EC5CE578C8956BDA98 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.GoBack(listener.Name);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_GoBack_mF9C04539E18E34BDAC2118EAE723B4C4B8FD60A8(L_1, NULL);
 		// }
 		return;
 	}
@@ -21241,20 +20718,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_GoBack_m77821D450205CA2828617
 // System.Void UniWebView::GoForward()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_GoForward_m4921BB904990C719F36B69242B1E41C99A4EF30E (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.GoForward(listener.Name);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_GoForward_m9EF5623B77805C23536C1CCB2F0AF351ADF6FB15(L_1, NULL);
 		// }
 		return;
 	}
@@ -21262,21 +20726,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_GoForward_m4921BB904990C719F3
 // System.Void UniWebView::SetOpenLinksInExternalBrowser(System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetOpenLinksInExternalBrowser_m8709089E3461E18BC8C8E7D308BFBC6C3B2F1F23 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, bool ___0_flag, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.SetOpenLinksInExternalBrowser(listener.Name, flag);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		bool L_2 = ___0_flag;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetOpenLinksInExternalBrowser_m5883309EB4F7EB22C852FB1A2BA6C4D2D11C4348(L_1, L_2, NULL);
 		// }
 		return;
 	}
@@ -21284,272 +20734,30 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetOpenLinksInExternalBrowser
 // System.Boolean UniWebView::Show(System.Boolean,UniWebViewTransitionEdge,System.Single,System.Action)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool UniWebView_Show_m372060500755B70480FEE952C98D64DF35E73A2E (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, bool ___0_fade, int32_t ___1_edge, float ___2_duration, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___3_completionHandler, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Dictionary_2_Add_m42116195150ED3A5F1B337CEDF25923016ADBC98_RuntimeMethod_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	String_t* V_0 = NULL;
-	Guid_t V_1;
-	memset((&V_1), 0, sizeof(V_1));
-	bool G_B3_0 = false;
-	bool G_B1_0 = false;
-	bool G_B2_0 = false;
-	{
-		// var identifier = Guid.NewGuid().ToString();
-		Guid_t L_0;
-		L_0 = Guid_NewGuid_m1F4894E8DC089811D6252148AD5858E58D43A7BD(NULL);
-		V_1 = L_0;
-		String_t* L_1;
-		L_1 = Guid_ToString_m2BFFD5FA726E03FA707AAFCCF065896C46D5290C((&V_1), NULL);
-		V_0 = L_1;
-		// var showStarted = UniWebViewInterface.Show(listener.Name, fade, (int)edge, duration, identifier);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_2 = __this->___listener_12;
-		NullCheck(L_2);
-		String_t* L_3;
-		L_3 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_2, NULL);
-		bool L_4 = ___0_fade;
-		int32_t L_5 = ___1_edge;
-		float L_6 = ___2_duration;
-		String_t* L_7 = V_0;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		bool L_8;
-		L_8 = UniWebViewInterface_Show_mF3B131FE4CDB82922FA01B563044A0CB8CEB8578(L_3, L_4, L_5, L_6, L_7, NULL);
-		// if (showStarted && completionHandler != null) {
-		bool L_9 = L_8;
-		G_B1_0 = L_9;
-		if (!L_9)
-		{
-			G_B3_0 = L_9;
-			goto IL_003d;
-		}
-	}
-	{
-		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_10 = ___3_completionHandler;
-		G_B2_0 = G_B1_0;
-		if (!L_10)
-		{
-			G_B3_0 = G_B1_0;
-			goto IL_003d;
-		}
-	}
-	{
-		// actions.Add(identifier, completionHandler);
-		Dictionary_2_t3481DB12CFC627C97EF9EE95A2F3D08D3607A6D6* L_11 = __this->___actions_16;
-		String_t* L_12 = V_0;
-		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_13 = ___3_completionHandler;
-		NullCheck(L_11);
-		Dictionary_2_Add_m42116195150ED3A5F1B337CEDF25923016ADBC98(L_11, L_12, L_13, Dictionary_2_Add_m42116195150ED3A5F1B337CEDF25923016ADBC98_RuntimeMethod_var);
-		G_B3_0 = G_B2_0;
-	}
-
-IL_003d:
-	{
-		// return showStarted;
-		return G_B3_0;
+		// return false;
+		return (bool)0;
 	}
 }
 // System.Boolean UniWebView::Hide(System.Boolean,UniWebViewTransitionEdge,System.Single,System.Action)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool UniWebView_Hide_m412E6F40DE1A3DDE3771CA3F065B5BEF20CF1EF0 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, bool ___0_fade, int32_t ___1_edge, float ___2_duration, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___3_completionHandler, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Dictionary_2_Add_m42116195150ED3A5F1B337CEDF25923016ADBC98_RuntimeMethod_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	String_t* V_0 = NULL;
-	Guid_t V_1;
-	memset((&V_1), 0, sizeof(V_1));
-	bool G_B3_0 = false;
-	bool G_B1_0 = false;
-	bool G_B2_0 = false;
-	{
-		// var identifier = Guid.NewGuid().ToString();
-		Guid_t L_0;
-		L_0 = Guid_NewGuid_m1F4894E8DC089811D6252148AD5858E58D43A7BD(NULL);
-		V_1 = L_0;
-		String_t* L_1;
-		L_1 = Guid_ToString_m2BFFD5FA726E03FA707AAFCCF065896C46D5290C((&V_1), NULL);
-		V_0 = L_1;
-		// var hideStarted = UniWebViewInterface.Hide(listener.Name, fade, (int)edge, duration, identifier);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_2 = __this->___listener_12;
-		NullCheck(L_2);
-		String_t* L_3;
-		L_3 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_2, NULL);
-		bool L_4 = ___0_fade;
-		int32_t L_5 = ___1_edge;
-		float L_6 = ___2_duration;
-		String_t* L_7 = V_0;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		bool L_8;
-		L_8 = UniWebViewInterface_Hide_m8E5F69DE1EE7E3E95F1AB3A8FD6EEF27A077BA3E(L_3, L_4, L_5, L_6, L_7, NULL);
-		// if (hideStarted && completionHandler != null) {
-		bool L_9 = L_8;
-		G_B1_0 = L_9;
-		if (!L_9)
-		{
-			G_B3_0 = L_9;
-			goto IL_003d;
-		}
-	}
-	{
-		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_10 = ___3_completionHandler;
-		G_B2_0 = G_B1_0;
-		if (!L_10)
-		{
-			G_B3_0 = G_B1_0;
-			goto IL_003d;
-		}
-	}
-	{
-		// actions.Add(identifier, completionHandler);
-		Dictionary_2_t3481DB12CFC627C97EF9EE95A2F3D08D3607A6D6* L_11 = __this->___actions_16;
-		String_t* L_12 = V_0;
-		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_13 = ___3_completionHandler;
-		NullCheck(L_11);
-		Dictionary_2_Add_m42116195150ED3A5F1B337CEDF25923016ADBC98(L_11, L_12, L_13, Dictionary_2_Add_m42116195150ED3A5F1B337CEDF25923016ADBC98_RuntimeMethod_var);
-		G_B3_0 = G_B2_0;
-	}
-
-IL_003d:
-	{
-		// return hideStarted;
-		return G_B3_0;
+		// return false;
+		return (bool)0;
 	}
 }
 // System.Boolean UniWebView::AnimateTo(UnityEngine.Rect,System.Single,System.Single,System.Action)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool UniWebView_AnimateTo_m6B2C1825DB6A96E3159780AC2F4F54D3A724264D (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D ___0_frame, float ___1_duration, float ___2_delay, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___3_completionHandler, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Dictionary_2_Add_m42116195150ED3A5F1B337CEDF25923016ADBC98_RuntimeMethod_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	String_t* V_0 = NULL;
-	Guid_t V_1;
-	memset((&V_1), 0, sizeof(V_1));
-	bool G_B3_0 = false;
-	bool G_B1_0 = false;
-	bool G_B2_0 = false;
-	{
-		// var identifier = Guid.NewGuid().ToString();
-		Guid_t L_0;
-		L_0 = Guid_NewGuid_m1F4894E8DC089811D6252148AD5858E58D43A7BD(NULL);
-		V_1 = L_0;
-		String_t* L_1;
-		L_1 = Guid_ToString_m2BFFD5FA726E03FA707AAFCCF065896C46D5290C((&V_1), NULL);
-		V_0 = L_1;
-		// var animationStarted = UniWebViewInterface.AnimateTo(listener.Name,
-		//             (int)frame.x, (int)frame.y, (int)frame.width, (int)frame.height, duration, delay, identifier);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_2 = __this->___listener_12;
-		NullCheck(L_2);
-		String_t* L_3;
-		L_3 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_2, NULL);
-		float L_4;
-		L_4 = Rect_get_x_mB267B718E0D067F2BAE31BA477647FBF964916EB((&___0_frame), NULL);
-		float L_5;
-		L_5 = Rect_get_y_mC733E8D49F3CE21B2A3D40A1B72D687F22C97F49((&___0_frame), NULL);
-		float L_6;
-		L_6 = Rect_get_width_m620D67551372073C9C32C4C4624C2A5713F7F9A9((&___0_frame), NULL);
-		float L_7;
-		L_7 = Rect_get_height_mE1AA6C6C725CCD2D317BD2157396D3CF7D47C9D8((&___0_frame), NULL);
-		float L_8 = ___1_duration;
-		float L_9 = ___2_delay;
-		String_t* L_10 = V_0;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		bool L_11;
-		L_11 = UniWebViewInterface_AnimateTo_mA4923A8EA379E1482B213D27575D20BEA0E61D1C(L_3, il2cpp_codegen_cast_double_to_int<int32_t>(L_4), il2cpp_codegen_cast_double_to_int<int32_t>(L_5), il2cpp_codegen_cast_double_to_int<int32_t>(L_6), il2cpp_codegen_cast_double_to_int<int32_t>(L_7), L_8, L_9, L_10, NULL);
-		// if (animationStarted) {
-		bool L_12 = L_11;
-		G_B1_0 = L_12;
-		if (!L_12)
-		{
-			G_B3_0 = L_12;
-			goto IL_0063;
-		}
-	}
-	{
-		// this.frame = frame;
-		Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D L_13 = ___0_frame;
-		__this->___frame_19 = L_13;
-		// if (completionHandler != null) {
-		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_14 = ___3_completionHandler;
-		G_B2_0 = G_B1_0;
-		if (!L_14)
-		{
-			G_B3_0 = G_B1_0;
-			goto IL_0063;
-		}
-	}
-	{
-		// actions.Add(identifier, completionHandler);
-		Dictionary_2_t3481DB12CFC627C97EF9EE95A2F3D08D3607A6D6* L_15 = __this->___actions_16;
-		String_t* L_16 = V_0;
-		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_17 = ___3_completionHandler;
-		NullCheck(L_15);
-		Dictionary_2_Add_m42116195150ED3A5F1B337CEDF25923016ADBC98(L_15, L_16, L_17, Dictionary_2_Add_m42116195150ED3A5F1B337CEDF25923016ADBC98_RuntimeMethod_var);
-		G_B3_0 = G_B2_0;
-	}
-
-IL_0063:
-	{
-		// return animationStarted;
-		return G_B3_0;
+		// return false;
+		return (bool)0;
 	}
 }
 // System.Void UniWebView::AddJavaScript(System.String,System.Action`1<UniWebViewNativeResultPayload>)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_AddJavaScript_m1925FB7E09E8AC9E5B8BEA46210F2A20BD475D14 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, String_t* ___0_jsString, Action_1_t24386F56CBAE28A0F0FAA4506302F773E0CE2E2C* ___1_completionHandler, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Dictionary_2_Add_m56969FD3A3617318D7E206572E831947FCEFC29B_RuntimeMethod_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	String_t* V_0 = NULL;
-	Guid_t V_1;
-	memset((&V_1), 0, sizeof(V_1));
-	{
-		// var identifier = Guid.NewGuid().ToString();
-		Guid_t L_0;
-		L_0 = Guid_NewGuid_m1F4894E8DC089811D6252148AD5858E58D43A7BD(NULL);
-		V_1 = L_0;
-		String_t* L_1;
-		L_1 = Guid_ToString_m2BFFD5FA726E03FA707AAFCCF065896C46D5290C((&V_1), NULL);
-		V_0 = L_1;
-		// UniWebViewInterface.AddJavaScript(listener.Name, jsString, identifier);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_2 = __this->___listener_12;
-		NullCheck(L_2);
-		String_t* L_3;
-		L_3 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_2, NULL);
-		String_t* L_4 = ___0_jsString;
-		String_t* L_5 = V_0;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_AddJavaScript_mB9F66432038C001E36D6B977F96A4F4A9B993C20(L_3, L_4, L_5, NULL);
-		// if (completionHandler != null) {
-		Action_1_t24386F56CBAE28A0F0FAA4506302F773E0CE2E2C* L_6 = ___1_completionHandler;
-		if (!L_6)
-		{
-			goto IL_0036;
-		}
-	}
-	{
-		// payloadActions.Add(identifier, completionHandler);
-		Dictionary_2_t118BA705ECA0DB19BCAA7A0245A819F21FD4B5D6* L_7 = __this->___payloadActions_17;
-		String_t* L_8 = V_0;
-		Action_1_t24386F56CBAE28A0F0FAA4506302F773E0CE2E2C* L_9 = ___1_completionHandler;
-		NullCheck(L_7);
-		Dictionary_2_Add_m56969FD3A3617318D7E206572E831947FCEFC29B(L_7, L_8, L_9, Dictionary_2_Add_m56969FD3A3617318D7E206572E831947FCEFC29B_RuntimeMethod_var);
-	}
-
-IL_0036:
 	{
 		// }
 		return;
@@ -21558,50 +20766,6 @@ IL_0036:
 // System.Void UniWebView::EvaluateJavaScript(System.String,System.Action`1<UniWebViewNativeResultPayload>)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_EvaluateJavaScript_mDBBD8685DE34B54B07D4E968AD547CC268484A36 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, String_t* ___0_jsString, Action_1_t24386F56CBAE28A0F0FAA4506302F773E0CE2E2C* ___1_completionHandler, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Dictionary_2_Add_m56969FD3A3617318D7E206572E831947FCEFC29B_RuntimeMethod_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	String_t* V_0 = NULL;
-	Guid_t V_1;
-	memset((&V_1), 0, sizeof(V_1));
-	{
-		// var identifier = Guid.NewGuid().ToString();
-		Guid_t L_0;
-		L_0 = Guid_NewGuid_m1F4894E8DC089811D6252148AD5858E58D43A7BD(NULL);
-		V_1 = L_0;
-		String_t* L_1;
-		L_1 = Guid_ToString_m2BFFD5FA726E03FA707AAFCCF065896C46D5290C((&V_1), NULL);
-		V_0 = L_1;
-		// UniWebViewInterface.EvaluateJavaScript(listener.Name, jsString, identifier);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_2 = __this->___listener_12;
-		NullCheck(L_2);
-		String_t* L_3;
-		L_3 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_2, NULL);
-		String_t* L_4 = ___0_jsString;
-		String_t* L_5 = V_0;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_EvaluateJavaScript_m5BB170890DAA9C82A3489C7238585B78D6566FA3(L_3, L_4, L_5, NULL);
-		// if (completionHandler != null) {
-		Action_1_t24386F56CBAE28A0F0FAA4506302F773E0CE2E2C* L_6 = ___1_completionHandler;
-		if (!L_6)
-		{
-			goto IL_0036;
-		}
-	}
-	{
-		// payloadActions.Add(identifier, completionHandler);
-		Dictionary_2_t118BA705ECA0DB19BCAA7A0245A819F21FD4B5D6* L_7 = __this->___payloadActions_17;
-		String_t* L_8 = V_0;
-		Action_1_t24386F56CBAE28A0F0FAA4506302F773E0CE2E2C* L_9 = ___1_completionHandler;
-		NullCheck(L_7);
-		Dictionary_2_Add_m56969FD3A3617318D7E206572E831947FCEFC29B(L_7, L_8, L_9, Dictionary_2_Add_m56969FD3A3617318D7E206572E831947FCEFC29B_RuntimeMethod_var);
-	}
-
-IL_0036:
 	{
 		// }
 		return;
@@ -21610,65 +20774,7 @@ IL_0036:
 // System.Void UniWebView::AddUrlScheme(System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_AddUrlScheme_mA69EE65C785EF2E7C3B93B5FF5CECF2F4347E7EF (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, String_t* ___0_scheme, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral6A1D52382547009AB732F651FE2CA42F1BBA769A);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral7CB52D6F4A9943E8A23A1AA0CBB183BDE4AC2E7B);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralD3FCE46B907FCCFB1380979FD158061B0542D64D);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// if (scheme == null) {
-		String_t* L_0 = ___0_scheme;
-		if (L_0)
-		{
-			goto IL_0013;
-		}
-	}
-	{
-		// UniWebViewLogger.Instance.Critical("The scheme should not be null.");
-		UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967* L_1;
-		L_1 = UniWebViewLogger_get_Instance_m050672DA24F144C5243035A0847A1DD3A1D7B94A(NULL);
-		NullCheck(L_1);
-		UniWebViewLogger_Critical_m7BC1868F4524EDF471C0E4A16ABD6174C6B5009F(L_1, _stringLiteralD3FCE46B907FCCFB1380979FD158061B0542D64D, NULL);
-		// return;
-		return;
-	}
-
-IL_0013:
-	{
-		// if (scheme.Contains("://")) {
-		String_t* L_2 = ___0_scheme;
-		NullCheck(L_2);
-		bool L_3;
-		L_3 = String_Contains_m6D77B121FADA7CA5F397C0FABB65DA62DF03B6C3(L_2, _stringLiteral6A1D52382547009AB732F651FE2CA42F1BBA769A, NULL);
-		if (!L_3)
-		{
-			goto IL_0030;
-		}
-	}
-	{
-		// UniWebViewLogger.Instance.Critical("The scheme should not include invalid characters '://'");
-		UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967* L_4;
-		L_4 = UniWebViewLogger_get_Instance_m050672DA24F144C5243035A0847A1DD3A1D7B94A(NULL);
-		NullCheck(L_4);
-		UniWebViewLogger_Critical_m7BC1868F4524EDF471C0E4A16ABD6174C6B5009F(L_4, _stringLiteral7CB52D6F4A9943E8A23A1AA0CBB183BDE4AC2E7B, NULL);
-		// return;
-		return;
-	}
-
-IL_0030:
-	{
-		// UniWebViewInterface.AddUrlScheme(listener.Name, scheme);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_5 = __this->___listener_12;
-		NullCheck(L_5);
-		String_t* L_6;
-		L_6 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_5, NULL);
-		String_t* L_7 = ___0_scheme;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_AddUrlScheme_m3DA20DF1A1A3D4F50AC8E45C89298C4790EF7C3C(L_6, L_7, NULL);
 		// }
 		return;
 	}
@@ -21676,65 +20782,7 @@ IL_0030:
 // System.Void UniWebView::RemoveUrlScheme(System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_RemoveUrlScheme_m931A762E3EC4E57E3079F3178B7FBB5971FD07B0 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, String_t* ___0_scheme, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral6A1D52382547009AB732F651FE2CA42F1BBA769A);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral7CB52D6F4A9943E8A23A1AA0CBB183BDE4AC2E7B);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralD3FCE46B907FCCFB1380979FD158061B0542D64D);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// if (scheme == null) {
-		String_t* L_0 = ___0_scheme;
-		if (L_0)
-		{
-			goto IL_0013;
-		}
-	}
-	{
-		// UniWebViewLogger.Instance.Critical("The scheme should not be null.");
-		UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967* L_1;
-		L_1 = UniWebViewLogger_get_Instance_m050672DA24F144C5243035A0847A1DD3A1D7B94A(NULL);
-		NullCheck(L_1);
-		UniWebViewLogger_Critical_m7BC1868F4524EDF471C0E4A16ABD6174C6B5009F(L_1, _stringLiteralD3FCE46B907FCCFB1380979FD158061B0542D64D, NULL);
-		// return;
-		return;
-	}
-
-IL_0013:
-	{
-		// if (scheme.Contains("://")) {
-		String_t* L_2 = ___0_scheme;
-		NullCheck(L_2);
-		bool L_3;
-		L_3 = String_Contains_m6D77B121FADA7CA5F397C0FABB65DA62DF03B6C3(L_2, _stringLiteral6A1D52382547009AB732F651FE2CA42F1BBA769A, NULL);
-		if (!L_3)
-		{
-			goto IL_0030;
-		}
-	}
-	{
-		// UniWebViewLogger.Instance.Critical("The scheme should not include invalid characters '://'");
-		UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967* L_4;
-		L_4 = UniWebViewLogger_get_Instance_m050672DA24F144C5243035A0847A1DD3A1D7B94A(NULL);
-		NullCheck(L_4);
-		UniWebViewLogger_Critical_m7BC1868F4524EDF471C0E4A16ABD6174C6B5009F(L_4, _stringLiteral7CB52D6F4A9943E8A23A1AA0CBB183BDE4AC2E7B, NULL);
-		// return;
-		return;
-	}
-
-IL_0030:
-	{
-		// UniWebViewInterface.RemoveUrlScheme(listener.Name, scheme);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_5 = __this->___listener_12;
-		NullCheck(L_5);
-		String_t* L_6;
-		L_6 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_5, NULL);
-		String_t* L_7 = ___0_scheme;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_RemoveUrlScheme_mC1AA29F1E5491E6E6F7CC65EB89212D95AB0B3AB(L_6, L_7, NULL);
 		// }
 		return;
 	}
@@ -21742,65 +20790,7 @@ IL_0030:
 // System.Void UniWebView::AddSslExceptionDomain(System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_AddSslExceptionDomain_m006308EB0E3423DA5A9A2425242B3762D9741C65 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, String_t* ___0_domain, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral1172A1CEF3378DA89DA639BD09ED58C07EE90C7E);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral33EB4DD410972BEFE9F0A67F8A7FCD8A235E01B7);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral6A1D52382547009AB732F651FE2CA42F1BBA769A);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// if (domain == null) {
-		String_t* L_0 = ___0_domain;
-		if (L_0)
-		{
-			goto IL_0013;
-		}
-	}
-	{
-		// UniWebViewLogger.Instance.Critical("The domain should not be null.");
-		UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967* L_1;
-		L_1 = UniWebViewLogger_get_Instance_m050672DA24F144C5243035A0847A1DD3A1D7B94A(NULL);
-		NullCheck(L_1);
-		UniWebViewLogger_Critical_m7BC1868F4524EDF471C0E4A16ABD6174C6B5009F(L_1, _stringLiteral1172A1CEF3378DA89DA639BD09ED58C07EE90C7E, NULL);
-		// return;
-		return;
-	}
-
-IL_0013:
-	{
-		// if (domain.Contains("://")) {
-		String_t* L_2 = ___0_domain;
-		NullCheck(L_2);
-		bool L_3;
-		L_3 = String_Contains_m6D77B121FADA7CA5F397C0FABB65DA62DF03B6C3(L_2, _stringLiteral6A1D52382547009AB732F651FE2CA42F1BBA769A, NULL);
-		if (!L_3)
-		{
-			goto IL_0030;
-		}
-	}
-	{
-		// UniWebViewLogger.Instance.Critical("The domain should not include invalid characters '://'");
-		UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967* L_4;
-		L_4 = UniWebViewLogger_get_Instance_m050672DA24F144C5243035A0847A1DD3A1D7B94A(NULL);
-		NullCheck(L_4);
-		UniWebViewLogger_Critical_m7BC1868F4524EDF471C0E4A16ABD6174C6B5009F(L_4, _stringLiteral33EB4DD410972BEFE9F0A67F8A7FCD8A235E01B7, NULL);
-		// return;
-		return;
-	}
-
-IL_0030:
-	{
-		// UniWebViewInterface.AddSslExceptionDomain(listener.Name, domain);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_5 = __this->___listener_12;
-		NullCheck(L_5);
-		String_t* L_6;
-		L_6 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_5, NULL);
-		String_t* L_7 = ___0_domain;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_AddSslExceptionDomain_m441F9D9648CA4CCB68E96BD225D17184E0DF3EB3(L_6, L_7, NULL);
 		// }
 		return;
 	}
@@ -21808,65 +20798,7 @@ IL_0030:
 // System.Void UniWebView::RemoveSslExceptionDomain(System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_RemoveSslExceptionDomain_mDB969063CDA4D27B1C1A559823FA15526364597C (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, String_t* ___0_domain, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral1172A1CEF3378DA89DA639BD09ED58C07EE90C7E);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral33EB4DD410972BEFE9F0A67F8A7FCD8A235E01B7);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral6A1D52382547009AB732F651FE2CA42F1BBA769A);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// if (domain == null) {
-		String_t* L_0 = ___0_domain;
-		if (L_0)
-		{
-			goto IL_0013;
-		}
-	}
-	{
-		// UniWebViewLogger.Instance.Critical("The domain should not be null.");
-		UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967* L_1;
-		L_1 = UniWebViewLogger_get_Instance_m050672DA24F144C5243035A0847A1DD3A1D7B94A(NULL);
-		NullCheck(L_1);
-		UniWebViewLogger_Critical_m7BC1868F4524EDF471C0E4A16ABD6174C6B5009F(L_1, _stringLiteral1172A1CEF3378DA89DA639BD09ED58C07EE90C7E, NULL);
-		// return;
-		return;
-	}
-
-IL_0013:
-	{
-		// if (domain.Contains("://")) {
-		String_t* L_2 = ___0_domain;
-		NullCheck(L_2);
-		bool L_3;
-		L_3 = String_Contains_m6D77B121FADA7CA5F397C0FABB65DA62DF03B6C3(L_2, _stringLiteral6A1D52382547009AB732F651FE2CA42F1BBA769A, NULL);
-		if (!L_3)
-		{
-			goto IL_0030;
-		}
-	}
-	{
-		// UniWebViewLogger.Instance.Critical("The domain should not include invalid characters '://'");
-		UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967* L_4;
-		L_4 = UniWebViewLogger_get_Instance_m050672DA24F144C5243035A0847A1DD3A1D7B94A(NULL);
-		NullCheck(L_4);
-		UniWebViewLogger_Critical_m7BC1868F4524EDF471C0E4A16ABD6174C6B5009F(L_4, _stringLiteral33EB4DD410972BEFE9F0A67F8A7FCD8A235E01B7, NULL);
-		// return;
-		return;
-	}
-
-IL_0030:
-	{
-		// UniWebViewInterface.RemoveSslExceptionDomain(listener.Name, domain);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_5 = __this->___listener_12;
-		NullCheck(L_5);
-		String_t* L_6;
-		L_6 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_5, NULL);
-		String_t* L_7 = ___0_domain;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_RemoveSslExceptionDomain_mAEDE52D772B18254E4AEB17B394FABDBC8E71968(L_6, L_7, NULL);
 		// }
 		return;
 	}
@@ -21874,42 +20806,7 @@ IL_0030:
 // System.Void UniWebView::SetHeaderField(System.String,System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetHeaderField_mC015BBA65A84FDA1B1ADBBD6EDAE6D7EF67238A5 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, String_t* ___0_key, String_t* ___1_value, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral93B204B4CDC241356AD725235A5C0966C643FAF8);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// if (key == null) {
-		String_t* L_0 = ___0_key;
-		if (L_0)
-		{
-			goto IL_0013;
-		}
-	}
-	{
-		// UniWebViewLogger.Instance.Critical("Header key should not be null.");
-		UniWebViewLogger_t2ABE2936A76136B39F2DBDB7F82308E5021F6967* L_1;
-		L_1 = UniWebViewLogger_get_Instance_m050672DA24F144C5243035A0847A1DD3A1D7B94A(NULL);
-		NullCheck(L_1);
-		UniWebViewLogger_Critical_m7BC1868F4524EDF471C0E4A16ABD6174C6B5009F(L_1, _stringLiteral93B204B4CDC241356AD725235A5C0966C643FAF8, NULL);
-		// return;
-		return;
-	}
-
-IL_0013:
-	{
-		// UniWebViewInterface.SetHeaderField(listener.Name, key, value);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_2 = __this->___listener_12;
-		NullCheck(L_2);
-		String_t* L_3;
-		L_3 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_2, NULL);
-		String_t* L_4 = ___0_key;
-		String_t* L_5 = ___1_value;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetHeaderField_mD954E058FED1A042725F84B3DF6D227668997525(L_3, L_4, L_5, NULL);
 		// }
 		return;
 	}
@@ -21917,21 +20814,7 @@ IL_0013:
 // System.Void UniWebView::SetUserAgent(System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetUserAgent_m8C7E7DE7A8DBA0E2AB68EA6F94952E84AFCD003B (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, String_t* ___0_agent, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.SetUserAgent(listener.Name, agent);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		String_t* L_2 = ___0_agent;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetUserAgent_m00AB042F74F4E80FFE4475FF98384EE23B535B95(L_1, L_2, NULL);
 		// }
 		return;
 	}
@@ -21942,35 +20825,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* UniWebView_GetUserAgent_mA877A3701A
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralDA39A3EE5E6B4B0D3255BFEF95601890AFD80709);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		// return UniWebViewInterface.GetUserAgent(listener.Name);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		String_t* L_2;
-		L_2 = UniWebViewInterface_GetUserAgent_mB502E45D84626AD242BEB119B91D55525E2FD3EF(L_1, NULL);
-		return L_2;
+		// return "";
+		return _stringLiteralDA39A3EE5E6B4B0D3255BFEF95601890AFD80709;
 	}
 }
 // System.Void UniWebView::SetAllowAutoPlay(System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetAllowAutoPlay_mB854E8EDECBBD00C4B643CB36AC200904CA9FF7F (bool ___0_flag, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.SetAllowAutoPlay(flag);
-		bool L_0 = ___0_flag;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetAllowAutoPlay_m4B98EA2D6FFE42616E087CCE1A896C26BE380E28(L_0, NULL);
 		// }
 		return;
 	}
@@ -21978,17 +20844,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetAllowAutoPlay_mB854E8EDECB
 // System.Void UniWebView::SetAllowInlinePlay(System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetAllowInlinePlay_m0C5B8ECCA21BE9C5BFEAB23364424D5F0AD325EA (bool ___0_flag, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.SetAllowInlinePlay(flag);
-		bool L_0 = ___0_flag;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetAllowInlinePlay_mD9F79D89E7517E9F8181E88BB1BE5C3CAFE0909C(L_0, NULL);
 		// }
 		return;
 	}
@@ -21996,17 +20852,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetAllowInlinePlay_m0C5B8ECCA
 // System.Void UniWebView::SetJavaScriptEnabled(System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetJavaScriptEnabled_mEEFD95B0F650218EA899ECFD80110DDF898C1BA4 (bool ___0_enabled, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.SetJavaScriptEnabled(enabled);
-		bool L_0 = ___0_enabled;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetJavaScriptEnabled_m43BE4D9329A3324BD24E0BB6524277042736059E(L_0, NULL);
 		// }
 		return;
 	}
@@ -22014,17 +20860,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetJavaScriptEnabled_mEEFD95B
 // System.Void UniWebView::SetAllowJavaScriptOpenWindow(System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetAllowJavaScriptOpenWindow_mD589DA306494220B33168C32F703AE01242E0534 (bool ___0_flag, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.SetAllowJavaScriptOpenWindow(flag);
-		bool L_0 = ___0_flag;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetAllowJavaScriptOpenWindow_mCA55B00F659EF5E1F2799693E5D132B3D41BB52A(L_0, NULL);
 		// }
 		return;
 	}
@@ -22032,20 +20868,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetAllowJavaScriptOpenWindow_
 // System.Void UniWebView::CleanCache()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_CleanCache_m1E1C9CA2936016CDACC68E05318349D0E0DD68AA (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.CleanCache(listener.Name);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_CleanCache_m6D7119233F4675229C817DEA2B97ECC144E075D8(L_1, NULL);
 		// }
 		return;
 	}
@@ -22053,16 +20876,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_CleanCache_m1E1C9CA2936016CDA
 // System.Void UniWebView::ClearCookies()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_ClearCookies_mD3D6D45954EFDB2543B2A1CF6259C0CCBAB33630 (const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.ClearCookies();
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_ClearCookies_mDF1213BA76FFC2D2DAE1684BAD0D1BB5B95F6964(NULL);
 		// }
 		return;
 	}
@@ -22070,19 +20884,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_ClearCookies_mD3D6D45954EFDB2
 // System.Void UniWebView::SetCookie(System.String,System.String,System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetCookie_mA09F8B33473E014968A4AD1083D3601FB4D285A8 (String_t* ___0_url, String_t* ___1_cookie, bool ___2_skipEncoding, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.SetCookie(url, cookie, skipEncoding);
-		String_t* L_0 = ___0_url;
-		String_t* L_1 = ___1_cookie;
-		bool L_2 = ___2_skipEncoding;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetCookie_m693D6EBCB5E881D7CDC59ECA16FD6C7D1AC7F84B(L_0, L_1, L_2, NULL);
 		// }
 		return;
 	}
@@ -22093,35 +20895,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* UniWebView_GetCookie_m65898A6513AFD
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralDA39A3EE5E6B4B0D3255BFEF95601890AFD80709);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		// return UniWebViewInterface.GetCookie(url, key, skipEncoding);
-		String_t* L_0 = ___0_url;
-		String_t* L_1 = ___1_key;
-		bool L_2 = ___2_skipEncoding;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		String_t* L_3;
-		L_3 = UniWebViewInterface_GetCookie_mCEB634B744E8889989728B4F04A942F50AC0D36A(L_0, L_1, L_2, NULL);
-		return L_3;
+		// return "";
+		return _stringLiteralDA39A3EE5E6B4B0D3255BFEF95601890AFD80709;
 	}
 }
 // System.Void UniWebView::ClearHttpAuthUsernamePassword(System.String,System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_ClearHttpAuthUsernamePassword_mEF61AA373A2C1887C2E519CE96F1C7C6F452CC4D (String_t* ___0_host, String_t* ___1_realm, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.ClearHttpAuthUsernamePassword(host, realm);
-		String_t* L_0 = ___0_host;
-		String_t* L_1 = ___1_realm;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_ClearHttpAuthUsernamePassword_mAC7E6C6FB00A4CE2B29B1405DA5D6596E100433A(L_0, L_1, NULL);
 		// }
 		return;
 	}
@@ -22130,7 +20915,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_ClearHttpAuthUsernamePassword
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F UniWebView_get_BackgroundColor_m5DA41482145C33225A90EEEFF09279A5B010E8D6 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, const RuntimeMethod* method) 
 {
 	{
-		// return backgroundColor;
+		// get { return backgroundColor; }
 		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_0 = __this->___backgroundColor_24;
 		return L_0;
 	}
@@ -22138,31 +20923,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C
 // System.Void UniWebView::set_BackgroundColor(UnityEngine.Color)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_set_BackgroundColor_mF458D6FCF58F3A67C81A259390C1803D12316384 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___0_value, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
 	{
 		// backgroundColor = value;
 		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_0 = ___0_value;
 		__this->___backgroundColor_24 = L_0;
-		// UniWebViewInterface.SetBackgroundColor(listener.Name, value.r, value.g, value.b, value.a);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_1 = __this->___listener_12;
-		NullCheck(L_1);
-		String_t* L_2;
-		L_2 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_1, NULL);
-		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_3 = ___0_value;
-		float L_4 = L_3.___r_0;
-		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_5 = ___0_value;
-		float L_6 = L_5.___g_1;
-		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_7 = ___0_value;
-		float L_8 = L_7.___b_2;
-		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_9 = ___0_value;
-		float L_10 = L_9.___a_3;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetBackgroundColor_m30A974F9A02705913A7D61642270B415DA7615D4(L_2, L_4, L_6, L_8, L_10, NULL);
 		// }
 		return;
 	}
@@ -22170,42 +20934,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_set_BackgroundColor_mF458D6FC
 // System.Single UniWebView::get_Alpha()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float UniWebView_get_Alpha_m061B05347E32EB7A37CCD02C7E0AC040FB7DC99C (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// return UniWebViewInterface.GetWebViewAlpha(listener.Name);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		float L_2;
-		L_2 = UniWebViewInterface_GetWebViewAlpha_mB83E20E9733CF53DE664E549FE07FBB228264AB0(L_1, NULL);
-		return L_2;
+		// return 1.0f;
+		return (1.0f);
 	}
 }
 // System.Void UniWebView::set_Alpha(System.Single)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_set_Alpha_m72CFD3CF26614DC7E57B9A67C5D9AE5B6E6B6B9B (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, float ___0_value, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.SetWebViewAlpha(listener.Name, value);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		float L_2 = ___0_value;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetWebViewAlpha_m9E1041D602F2E5B6D389DA76225C5A4269703B57(L_1, L_2, NULL);
 		// }
 		return;
 	}
@@ -22213,21 +20950,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_set_Alpha_m72CFD3CF26614DC7E5
 // System.Void UniWebView::SetShowSpinnerWhileLoading(System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetShowSpinnerWhileLoading_mE4F0689AE164A066A7AB6298031410FF4CFE40EA (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, bool ___0_flag, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.SetShowSpinnerWhileLoading(listener.Name, flag);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		bool L_2 = ___0_flag;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetShowSpinnerWhileLoading_m1D2B24C1A2F55D3130C65FFC8F6D7C97B3D20892(L_1, L_2, NULL);
 		// }
 		return;
 	}
@@ -22235,21 +20958,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetShowSpinnerWhileLoading_mE
 // System.Void UniWebView::SetSpinnerText(System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetSpinnerText_m912E1106435608A59D4A2FD6E0A368440BF10F3E (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, String_t* ___0_text, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.SetSpinnerText(listener.Name, text);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		String_t* L_2 = ___0_text;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetSpinnerText_m49794A022D9FA37BA8C4AE38CB69AAE2CD7402A8(L_1, L_2, NULL);
 		// }
 		return;
 	}
@@ -22257,21 +20966,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetSpinnerText_m912E110643560
 // System.Void UniWebView::SetHorizontalScrollBarEnabled(System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetHorizontalScrollBarEnabled_m496C2A291515B97F11C54970A1556D20704C61DA (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, bool ___0_enabled, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.SetHorizontalScrollBarEnabled(listener.Name, enabled);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		bool L_2 = ___0_enabled;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetHorizontalScrollBarEnabled_m61D6E280B17F7DE02921927BBC28E3BDFEF64ADB(L_1, L_2, NULL);
 		// }
 		return;
 	}
@@ -22279,21 +20974,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetHorizontalScrollBarEnabled
 // System.Void UniWebView::SetVerticalScrollBarEnabled(System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetVerticalScrollBarEnabled_m6209FB67C82461DB7181BE81F03B6DC78E34F238 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, bool ___0_enabled, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.SetVerticalScrollBarEnabled(listener.Name, enabled);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		bool L_2 = ___0_enabled;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetVerticalScrollBarEnabled_mCF87F36EB225A8FEDB87B51DB8258204DA91E8E8(L_1, L_2, NULL);
 		// }
 		return;
 	}
@@ -22301,89 +20982,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetVerticalScrollBarEnabled_m
 // System.Void UniWebView::SetBouncesEnabled(System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetBouncesEnabled_mAFEC3B0857E47A99CEDB0A13AA8F0A2B6FA1BCE3 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, bool ___0_enabled, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.SetBouncesEnabled(listener.Name, enabled);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		bool L_2 = ___0_enabled;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetBouncesEnabled_m732371C6BC98FE90F37F6BE84EA2722892E6C0A0(L_1, L_2, NULL);
 		// }
 		return;
 	}
 }
 // System.Void UniWebView::SetZoomEnabled(System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetZoomEnabled_m81F7B72E19D38AAB0656F6EBA1ABF064C0FC0C5F (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, bool ___0_enabled, const RuntimeMethod* method) 
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.SetZoomEnabled(listener.Name, enabled);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		bool L_2 = ___0_enabled;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetZoomEnabled_m7B8ED7CFEBA79F5AF63FA92F5C46867D1345F462(L_1, L_2, NULL);
-		// }
-		return;
-	}
-}
-// System.Void UniWebView::AddPermissionTrustDomain(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_AddPermissionTrustDomain_mB969BAA93020E44C1212BC0AACEC07C5E4B96E7A (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, String_t* ___0_domain, const RuntimeMethod* method) 
-{
-	{
-		// }
-		return;
-	}
-}
-// System.Void UniWebView::RemovePermissionTrustDomain(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_RemovePermissionTrustDomain_m989A1310EB178014D596649A13A2DDC0FCC7A635 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, String_t* ___0_domain, const RuntimeMethod* method) 
-{
-	{
-		// }
-		return;
-	}
-}
-// System.Void UniWebView::SetBackButtonEnabled(System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetBackButtonEnabled_m0B0646507AF980ACC130F5B17FB23CF912248CBD (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, bool ___0_enabled, const RuntimeMethod* method) 
-{
-	{
-		// }
-		return;
-	}
-}
-// System.Void UniWebView::SetUseWideViewPort(System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetUseWideViewPort_m5282F4D32114658DC568F7ED3ADB72496F48F0E9 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, bool ___0_flag, const RuntimeMethod* method) 
-{
-	{
-		// }
-		return;
-	}
-}
-// System.Void UniWebView::SetLoadWithOverviewMode(System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetLoadWithOverviewMode_m97A9BDA6CA7EBD881F0FC3FB0C924C090B827023 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, bool ___0_flag, const RuntimeMethod* method) 
-{
-	{
-		// }
-		return;
-	}
-}
-// System.Void UniWebView::SetImmersiveModeEnabled(System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetImmersiveModeEnabled_mDFBABE794D17FD1D2864946C111F215B5A3E136E (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, bool ___0_enabled, const RuntimeMethod* method) 
 {
 	{
 		// }
@@ -22393,24 +20998,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetImmersiveModeEnabled_mDFBA
 // System.Void UniWebView::SetShowToolbar(System.Boolean,System.Boolean,System.Boolean,System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetShowToolbar_m41F06BB5121DB46D27322D7637C797EAC4E1595D (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, bool ___0_show, bool ___1_animated, bool ___2_onTop, bool ___3_adjustInset, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.SetShowToolbar(listener.Name, show, animated, onTop, adjustInset);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		bool L_2 = ___0_show;
-		bool L_3 = ___1_animated;
-		bool L_4 = ___2_onTop;
-		bool L_5 = ___3_adjustInset;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetShowToolbar_m0A9C796DFCC905E3317A596C2CD8DC5B829263FC(L_1, L_2, L_3, L_4, L_5, NULL);
 		// }
 		return;
 	}
@@ -22418,21 +21006,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetShowToolbar_m41F06BB5121DB
 // System.Void UniWebView::SetToolbarDoneButtonText(System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetToolbarDoneButtonText_mB39DC8530CF205E01A83CB9F6CD0F4C0BCFB9975 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, String_t* ___0_text, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.SetToolbarDoneButtonText(listener.Name, text);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		String_t* L_2 = ___0_text;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetToolbarDoneButtonText_m312B1D3225231A522A1931E2C489C5DA307EB4AD(L_1, L_2, NULL);
 		// }
 		return;
 	}
@@ -22440,17 +21014,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetToolbarDoneButtonText_mB39
 // System.Void UniWebView::SetWebContentsDebuggingEnabled(System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetWebContentsDebuggingEnabled_mBD1D6191F329F7C341A714AD8F08384D603DBC05 (bool ___0_enabled, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.SetWebContentsDebuggingEnabled(enabled);
-		bool L_0 = ___0_enabled;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetWebContentsDebuggingEnabled_m6A77C477E113FD21E78B04AB94794CB154DD16EA(L_0, NULL);
 		// }
 		return;
 	}
@@ -22458,58 +21022,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetWebContentsDebuggingEnable
 // System.Void UniWebView::SetWindowUserResizeEnabled(System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetWindowUserResizeEnabled_mB212FC24EB211F790ED6E5A8D910077780D9C427 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, bool ___0_enabled, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.SetWindowUserResizeEnabled(listener.name, enabled);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = Object_get_name_mAC2F6B897CF1303BA4249B4CB55271AFACBB6392(L_0, NULL);
-		bool L_2 = ___0_enabled;
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_SetWindowUserResizeEnabled_m11AA22CF9F56043DE6FC1A19A350E6A2BCC18413(L_1, L_2, NULL);
-		// }
-		return;
-	}
-}
-// System.Void UniWebView::GetHTMLContent(System.Action`1<System.String>)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_GetHTMLContent_m6173C947151E6C77AD2975CD15405517F63A291C (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, Action_1_t3CB5D1A819C3ED3F99E9E39F890F18633253949A* ___0_handler, const RuntimeMethod* method) 
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Action_1_t24386F56CBAE28A0F0FAA4506302F773E0CE2E2C_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CU3Ec__DisplayClass111_0_U3CGetHTMLContentU3Eb__0_m9CC6D371FE4022DC14D0E3B12658867CF7E7A5B7_RuntimeMethod_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CU3Ec__DisplayClass111_0_t7AC83E9782CC26AE3165A006060311B430FEF4EE_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral7174781ACA1FA077C93755E54C155E9C90186CFC);
-		s_Il2CppMethodInitialized = true;
-	}
-	U3CU3Ec__DisplayClass111_0_t7AC83E9782CC26AE3165A006060311B430FEF4EE* V_0 = NULL;
-	{
-		U3CU3Ec__DisplayClass111_0_t7AC83E9782CC26AE3165A006060311B430FEF4EE* L_0 = (U3CU3Ec__DisplayClass111_0_t7AC83E9782CC26AE3165A006060311B430FEF4EE*)il2cpp_codegen_object_new(U3CU3Ec__DisplayClass111_0_t7AC83E9782CC26AE3165A006060311B430FEF4EE_il2cpp_TypeInfo_var);
-		NullCheck(L_0);
-		U3CU3Ec__DisplayClass111_0__ctor_m9CBDCA33B2A6F53C8009DA7767A6C920729F7883(L_0, NULL);
-		V_0 = L_0;
-		U3CU3Ec__DisplayClass111_0_t7AC83E9782CC26AE3165A006060311B430FEF4EE* L_1 = V_0;
-		Action_1_t3CB5D1A819C3ED3F99E9E39F890F18633253949A* L_2 = ___0_handler;
-		NullCheck(L_1);
-		L_1->___handler_0 = L_2;
-		Il2CppCodeGenWriteBarrier((void**)(&L_1->___handler_0), (void*)L_2);
-		// EvaluateJavaScript("document.documentElement.outerHTML", payload => {
-		//     if (handler != null) {
-		//         handler(payload.data);
-		//     }
-		// });
-		U3CU3Ec__DisplayClass111_0_t7AC83E9782CC26AE3165A006060311B430FEF4EE* L_3 = V_0;
-		Action_1_t24386F56CBAE28A0F0FAA4506302F773E0CE2E2C* L_4 = (Action_1_t24386F56CBAE28A0F0FAA4506302F773E0CE2E2C*)il2cpp_codegen_object_new(Action_1_t24386F56CBAE28A0F0FAA4506302F773E0CE2E2C_il2cpp_TypeInfo_var);
-		NullCheck(L_4);
-		Action_1__ctor_mDF564CC0C67B1C4BC246A3DBF8A28D6DCF1E1895(L_4, L_3, (intptr_t)((void*)U3CU3Ec__DisplayClass111_0_U3CGetHTMLContentU3Eb__0_m9CC6D371FE4022DC14D0E3B12658867CF7E7A5B7_RuntimeMethod_var), NULL);
-		UniWebView_EvaluateJavaScript_mDBBD8685DE34B54B07D4E968AD547CC268484A36(__this, _stringLiteral7174781ACA1FA077C93755E54C155E9C90186CFC, L_4, NULL);
 		// }
 		return;
 	}
@@ -22517,28 +21030,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_GetHTMLContent_m6173C947151E6
 // System.Void UniWebView::OnDestroy()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_OnDestroy_mC30550C8BFA5594B51CE95A89E218C1894AF4855 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		// UniWebViewInterface.Destroy(listener.Name);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_0 = __this->___listener_12;
-		NullCheck(L_0);
-		String_t* L_1;
-		L_1 = UniWebViewNativeListener_get_Name_mE47A37AE84899D6B7D2080EC6E70731136844BD3(L_0, NULL);
-		il2cpp_codegen_runtime_class_init_inline(UniWebViewInterface_t9139F3587D02822D85C96CCDD1C6C1CA9B22E86D_il2cpp_TypeInfo_var);
-		UniWebViewInterface_Destroy_m65137F5FAEEDC29EA1222CAE9C3E92972FED7FAF(L_1, NULL);
-		// Destroy(listener.gameObject);
-		UniWebViewNativeListener_tF3F800ACF997F9FCC73D05F7C43AA333964BBDC3* L_2 = __this->___listener_12;
-		NullCheck(L_2);
-		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_3;
-		L_3 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_2, NULL);
-		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		Object_Destroy_mE97D0A766419A81296E8D4E5C23D01D3FE91ACBB(L_3, NULL);
 		// }
 		return;
 	}
@@ -22563,7 +21055,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_InternalOnShowTransitionFinis
 	}
 	Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* V_0 = NULL;
 	{
-		// if (actions.TryGetValue(identifier, out action)) {
+		// if (actions.TryGetValue(identifier, out action))
 		Dictionary_2_t3481DB12CFC627C97EF9EE95A2F3D08D3607A6D6* L_0 = __this->___actions_16;
 		String_t* L_1 = ___0_identifier;
 		NullCheck(L_0);
@@ -22605,7 +21097,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_InternalOnHideTransitionFinis
 	}
 	Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* V_0 = NULL;
 	{
-		// if (actions.TryGetValue(identifier, out action)) {
+		// if (actions.TryGetValue(identifier, out action))
 		Dictionary_2_t3481DB12CFC627C97EF9EE95A2F3D08D3607A6D6* L_0 = __this->___actions_16;
 		String_t* L_1 = ___0_identifier;
 		NullCheck(L_0);
@@ -22647,7 +21139,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_InternalOnAnimateToFinished_m
 	}
 	Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* V_0 = NULL;
 	{
-		// if (actions.TryGetValue(identifier, out action)) {
+		// if (actions.TryGetValue(identifier, out action))
 		Dictionary_2_t3481DB12CFC627C97EF9EE95A2F3D08D3607A6D6* L_0 = __this->___actions_16;
 		String_t* L_1 = ___0_identifier;
 		NullCheck(L_0);
@@ -22695,7 +21187,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_InternalOnAddJavaScriptFinish
 		NullCheck(L_0);
 		String_t* L_1 = L_0->___identifier_0;
 		V_1 = L_1;
-		// if (payloadActions.TryGetValue(identifier, out action)) {
+		// if (payloadActions.TryGetValue(identifier, out action))
 		Dictionary_2_t118BA705ECA0DB19BCAA7A0245A819F21FD4B5D6* L_2 = __this->___payloadActions_17;
 		String_t* L_3 = V_1;
 		NullCheck(L_2);
@@ -22744,7 +21236,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_InternalOnEvalJavaScriptFinis
 		NullCheck(L_0);
 		String_t* L_1 = L_0->___identifier_0;
 		V_1 = L_1;
-		// if (payloadActions.TryGetValue(identifier, out action)) {
+		// if (payloadActions.TryGetValue(identifier, out action))
 		Dictionary_2_t118BA705ECA0DB19BCAA7A0245A819F21FD4B5D6* L_2 = __this->___payloadActions_17;
 		String_t* L_3 = V_1;
 		NullCheck(L_2);
@@ -22786,7 +21278,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_InternalOnPageFinished_mBC289
 	}
 	int32_t V_0 = 0;
 	{
-		// if (OnPageFinished != null) {
+		// if (OnPageFinished != null)
 		PageFinishedDelegate_tDD19269F98632CA1DC3BDAA7CD499CD438F45528* L_0 = __this->___OnPageFinished_5;
 		if (!L_0)
 		{
@@ -22796,7 +21288,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_InternalOnPageFinished_mBC289
 	{
 		// int code = -1;
 		V_0 = (-1);
-		// if (int.TryParse(payload.resultCode, out code)) {
+		// if (int.TryParse(payload.resultCode, out code))
 		UniWebViewNativeResultPayload_tBCA45F38C3C5C0176F51726EE6159FD7C95EC7BB* L_1 = ___0_payload;
 		NullCheck(L_1);
 		String_t* L_2 = L_1->___resultCode_1;
@@ -22843,7 +21335,7 @@ IL_0047:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_InternalOnPageStarted_mFE1CEB0C16071EAD65257ABF36B498BA420594F4 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, String_t* ___0_url, const RuntimeMethod* method) 
 {
 	{
-		// if (OnPageStarted != null) {
+		// if (OnPageStarted != null)
 		PageStartedDelegate_tE020BF74F2E201A5435599937CE57B99700691DE* L_0 = __this->___OnPageStarted_4;
 		if (!L_0)
 		{
@@ -22875,7 +21367,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_InternalOnPageErrorReceived_m
 	}
 	int32_t V_0 = 0;
 	{
-		// if (OnPageErrorReceived != null) {
+		// if (OnPageErrorReceived != null)
 		PageErrorReceivedDelegate_t53BDEC807EBFD1FC7B4EE853FC307210D77A98A3* L_0 = __this->___OnPageErrorReceived_6;
 		if (!L_0)
 		{
@@ -22885,7 +21377,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_InternalOnPageErrorReceived_m
 	{
 		// int code = -1;
 		V_0 = (-1);
-		// if (int.TryParse(payload.resultCode, out code)) {
+		// if (int.TryParse(payload.resultCode, out code))
 		UniWebViewNativeResultPayload_tBCA45F38C3C5C0176F51726EE6159FD7C95EC7BB* L_1 = ___0_payload;
 		NullCheck(L_1);
 		String_t* L_2 = L_1->___resultCode_1;
@@ -22937,7 +21429,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_InternalOnMessageReceived_mA0
 		// var message = new UniWebViewMessage(result);
 		String_t* L_0 = ___0_result;
 		UniWebViewMessage__ctor_mD9FC1D590EA483BB947B0DEE8F3CE0596D10AD54((&V_0), L_0, NULL);
-		// if (OnMessageReceived != null) {
+		// if (OnMessageReceived != null)
 		MessageReceivedDelegate_t1E38101EF39E0B1B316F1A1B33EA0521477B245D* L_1 = __this->___OnMessageReceived_7;
 		if (!L_1)
 		{
@@ -22962,7 +21454,7 @@ IL_001d:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_InternalOnWebViewKeyDown_m98EC971ACE04D0A60648835AEC442B8861547BED (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, int32_t ___0_keyCode, const RuntimeMethod* method) 
 {
 	{
-		// if (OnKeyCodeReceived != null) {
+		// if (OnKeyCodeReceived != null)
 		KeyCodeReceivedDelegate_tBE995869284793C8ABDEF3667F43DDC95C91D288* L_0 = __this->___OnKeyCodeReceived_9;
 		if (!L_0)
 		{
@@ -22993,7 +21485,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_InternalOnShouldClose_m4DCD81
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		// if (OnShouldClose != null) {
+		// if (OnShouldClose != null)
 		ShouldCloseDelegate_tDC044BA04779D85D429790E489CE2E61745DE6D9* L_0 = __this->___OnShouldClose_8;
 		if (!L_0)
 		{
@@ -23006,7 +21498,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_InternalOnShouldClose_m4DCD81
 		NullCheck(L_1);
 		bool L_2;
 		L_2 = ShouldCloseDelegate_Invoke_m40950A5003C60956B3854BD3E54FC8C69D6F4DFE_inline(L_1, __this, NULL);
-		// if (shouldClose) {
+		// if (shouldClose)
 		if (!L_2)
 		{
 			goto IL_0023;
@@ -24060,49 +22552,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* OreintationChangedDelegate_Beg
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void OreintationChangedDelegate_EndInvoke_m2D7E2205A6821D31FF7717584006219BC277B4A7 (OreintationChangedDelegate_t37143AB67AC552F9E024A6A8B4226F627AAAA15E* __this, RuntimeObject* ___0_result, const RuntimeMethod* method) 
 {
 	il2cpp_codegen_delegate_end_invoke((Il2CppAsyncResult*) ___0_result, 0);
-}
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-// System.Void UniWebView/<>c__DisplayClass111_0::.ctor()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass111_0__ctor_m9CBDCA33B2A6F53C8009DA7767A6C920729F7883 (U3CU3Ec__DisplayClass111_0_t7AC83E9782CC26AE3165A006060311B430FEF4EE* __this, const RuntimeMethod* method) 
-{
-	{
-		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
-		return;
-	}
-}
-// System.Void UniWebView/<>c__DisplayClass111_0::<GetHTMLContent>b__0(UniWebViewNativeResultPayload)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass111_0_U3CGetHTMLContentU3Eb__0_m9CC6D371FE4022DC14D0E3B12658867CF7E7A5B7 (U3CU3Ec__DisplayClass111_0_t7AC83E9782CC26AE3165A006060311B430FEF4EE* __this, UniWebViewNativeResultPayload_tBCA45F38C3C5C0176F51726EE6159FD7C95EC7BB* ___0_payload, const RuntimeMethod* method) 
-{
-	{
-		// if (handler != null) {
-		Action_1_t3CB5D1A819C3ED3F99E9E39F890F18633253949A* L_0 = __this->___handler_0;
-		if (!L_0)
-		{
-			goto IL_0019;
-		}
-	}
-	{
-		// handler(payload.data);
-		Action_1_t3CB5D1A819C3ED3F99E9E39F890F18633253949A* L_1 = __this->___handler_0;
-		UniWebViewNativeResultPayload_tBCA45F38C3C5C0176F51726EE6159FD7C95EC7BB* L_2 = ___0_payload;
-		NullCheck(L_2);
-		String_t* L_3 = L_2->___data_2;
-		NullCheck(L_1);
-		Action_1_Invoke_m690438AAE38F9762172E3AE0A33D0B42ACD35790_inline(L_1, L_3, NULL);
-	}
-
-IL_0019:
-	{
-		// });
-		return;
-	}
 }
 #ifdef __clang__
 #pragma clang diagnostic pop
@@ -41634,11 +40083,6 @@ IL_0018:
 		float L_1 = V_0;
 		return L_1;
 	}
-}
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void OreintationChangedDelegate_Invoke_mFA1B1116C0EA098C02315D0B566192FB26009E89_inline (OreintationChangedDelegate_t37143AB67AC552F9E024A6A8B4226F627AAAA15E* __this, UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* ___0_webView, int32_t ___1_orientation, const RuntimeMethod* method) 
-{
-	typedef void (*FunctionPointerType) (RuntimeObject*, UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821*, int32_t, const RuntimeMethod*);
-	((FunctionPointerType)__this->___invoke_impl_1)((Il2CppObject*)__this->___method_code_6, ___0_webView, ___1_orientation, reinterpret_cast<RuntimeMethod*>(__this->___method_3));
 }
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Action_Invoke_m7126A54DACA72B845424072887B5F3A51FC3808E_inline (Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* __this, const RuntimeMethod* method) 
 {

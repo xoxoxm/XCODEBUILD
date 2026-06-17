@@ -14107,7 +14107,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_SetVerticalScrollBarEnabled_m
 // System.Void UnityEngine.Color::.ctor(System.Single,System.Single,System.Single,System.Single)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Color__ctor_m3786F0D6E510D9CFA544523A955870BD2A514C8C_inline (Color_tD001788D726C3A7F1379BEED0260B9591F440C1F* __this, float ___0_r, float ___1_g, float ___2_b, float ___3_a, const RuntimeMethod* method) ;
 // System.Void UniWebView::set_BackgroundColor(UnityEngine.Color)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebView_set_BackgroundColor_mF458D6FCF58F3A67C81A259390C1803D12316384 (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___0_value, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void UniWebView_set_BackgroundColor_mF458D6FCF58F3A67C81A259390C1803D12316384_inline (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___0_value, const RuntimeMethod* method) ;
 // System.Void UniWebViewUtility::RemoveWebViewEventHandler()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UniWebViewUtility_RemoveWebViewEventHandler_m024C4733BAEE90A3F3E4C0FE1E05C5AD8ECF16AD (UniWebViewUtility_t7ED68F18D59FD21D61FDD5705F4A229485BE7676* __this, const RuntimeMethod* method) ;
 // System.Void UniWebViewUtility::HideWebView()
@@ -16635,7 +16635,7 @@ IL_0067:
 		memset((&L_27), 0, sizeof(L_27));
 		Color__ctor_m3786F0D6E510D9CFA544523A955870BD2A514C8C_inline((&L_27), (1.0f), (1.0f), (1.0f), (0.0f), /*hidden argument*/NULL);
 		NullCheck(L_26);
-		UniWebView_set_BackgroundColor_mF458D6FCF58F3A67C81A259390C1803D12316384(L_26, L_27, NULL);
+		UniWebView_set_BackgroundColor_mF458D6FCF58F3A67C81A259390C1803D12316384_inline(L_26, L_27, NULL);
 	}
 
 IL_00c5:
@@ -42027,6 +42027,16 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Color__ctor_m3786F0D6E510D9C
 		__this->___b_2 = L_2;
 		float L_3 = ___3_a;
 		__this->___a_3 = L_3;
+		return;
+	}
+}
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void UniWebView_set_BackgroundColor_mF458D6FCF58F3A67C81A259390C1803D12316384_inline (UniWebView_tA1A8FF04DB9854511A8CFCDC2439018A12A3B821* __this, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___0_value, const RuntimeMethod* method) 
+{
+	{
+		// backgroundColor = value;
+		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_0 = ___0_value;
+		__this->___backgroundColor_24 = L_0;
+		// }
 		return;
 	}
 }
