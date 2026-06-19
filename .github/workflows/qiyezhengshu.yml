@@ -1,0 +1,103 @@
+name: 构建并导出企业版 IPA
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: macos-15
+
+    steps:
+      - name: 检出代码（不使用 LFS）
+        uses: actions/checkout@v4
+
+      - name: 从 Release 下载大文件
+        run: |
+          mkdir -p Libraries
+          if [ ! -f Libraries/libiPhone-lib.a ] || [ $(stat -f%z Libraries/libiPhone-lib.a) -lt 1000000 ]; then
+            echo "正在从 Release 下载 libiPhone-lib.a..."
+            curl -L -o Libraries/libiPhone-lib.a "https://github.com/xoxoxm/XCODEBUILD/releases/download/v1.0/libiPhone-lib.a"
+          fi
+          if [ ! -f Libraries/libil2cpp.a ] || [ $(stat -f%z Libraries/libil2cpp.a) -lt 1000000 ]; then
+            echo "正在从 Release 下载 libil2cpp.a..."
+            curl -L -o Libraries/libil2cpp.a "https://github.com/xoxoxm/XCODEBUILD/releases/download/v1.0/libil2cpp.a"
+          fi
+
+      - name: 安装签名证书和描述文件
+        env:
+          CERT_BASE64: ${{ secrets.P12_BASE64 }}
+          CERT_PASSWORD: ${{ secrets.P12_PASSWORD }}
+          MOBILEPROVISION_BASE64: ${{ secrets.MOBILEPROVISION_BASE64 }}
+        run: |
+          # 解码 p12 和描述文件
+          echo "$CERT_BASE64" | base64 -d > certificate.p12
+          echo "$MOBILEPROVISION_BASE64" | base64 -d > profile.mobileprovision
+
+          # 创建临时钥匙串并导入证书
+          security create-keychain -p temp temp.keychain
+          security default-keychain -s temp.keychain
+          security unlock-keychain -p temp temp.keychain
+          security import certificate.p12 -k temp.keychain -P "$CERT_PASSWORD" -T /usr/bin/codesign
+          security set-key-partition-list -S apple-tool:,apple: -s -k temp temp.keychain
+
+          # 安装描述文件
+          mkdir -p ~/Library/MobileDevice/Provisioning\ Profiles
+          cp profile.mobileprovision ~/Library/MobileDevice/Provisioning\ Profiles/
+
+          # 验证证书安装（可选）
+          security find-identity -v -p codesigning temp.keychain
+
+      - name: 构建并导出企业版 IPA
+        run: |
+          # 企业证书关键参数
+          BUNDLE_ID="com.ctq.qmc.yiban.product"
+          PROFILE_NAME="yb_house"
+          TEAM_ID="JSVM68ZU8Z"
+          IDENTITY="iPhone Distribution: China Telecom Corporation Limited"
+
+          xcodebuild archive \
+            -project Unity-iPhone.xcodeproj \
+            -scheme Unity-iPhone \
+            -archivePath build/Unity-iPhone.xcarchive \
+            -configuration Release \
+            -destination 'generic/platform=iOS' \
+            CODE_SIGN_STYLE=Manual \
+            CODE_SIGN_IDENTITY="$IDENTITY" \
+            DEVELOPMENT_TEAM="$TEAM_ID" \
+            PROVISIONING_PROFILE_SPECIFIER="$PROFILE_NAME" \
+            PRODUCT_BUNDLE_IDENTIFIER="$BUNDLE_ID" \
+            OTHER_CODE_SIGN_FLAGS="--timestamp=none"
+
+          # 生成企业版 ExportOptions.plist
+          cat > ExportOptions.plist <<EOF
+          <?xml version="1.0" encoding="UTF-8"?>
+          <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+          <plist version="1.0">
+          <dict>
+              <key>method</key>
+              <string>enterprise</string>
+              <key>teamID</key>
+              <string>${TEAM_ID}</string>
+              <key>signingStyle</key>
+              <string>manual</string>
+              <key>provisioningProfiles</key>
+              <dict>
+                  <key>${BUNDLE_ID}</key>
+                  <string>${PROFILE_NAME}</string>
+              </dict>
+              <key>compileBitcode</key>
+              <false/>
+          </dict>
+          </plist>
+          EOF
+
+          xcodebuild -exportArchive \
+            -archivePath build/Unity-iPhone.xcarchive \
+            -exportOptionsPlist ExportOptions.plist \
+            -exportPath build
+
+      - name: 上传 IPA 产物
+        uses: actions/upload-artifact@v4
+        with:
+          name: Enterprise-IPA
+          path: build/*.ipa
